@@ -1,5 +1,20 @@
 # 机翻ESO攻略
 
+## 注意
+
+这些攻略的英文版权来自 [Xynode Gaming](https://xynodegaming.com/) ，翻译仅是为了个人游戏。
+
+中文翻译采用GPT-3.5 API完成
+
+关键词翻译感谢[@justjavac](https://github.com/justjavac)大佬的多个repo。
+
+## TODO
+
+* 因为个人用途，会持续改进翻译。
+
+
+## 地下城索引
+
 * [疯狂密室](guide/0011_Vaults_of_Madness.md)
 
 * [沃伦费尔](guide/0022_Volenfell.md)
