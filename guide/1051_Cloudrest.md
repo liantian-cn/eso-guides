@@ -4,65 +4,6 @@
 
 
 
-### 加伦韦
-
-> GALENWE
-
-
-**加伦韦**
-
-除了独特的机制外，这个首领的规则与上面的首领相同。始终保持它们分开。一直攻击狮鹫，除非狮鹫在空中，那么切换到主要的首领。当它再次落下时，再次切换回攻击狮鹫！
-
-这个首领会频繁传送，所以当你需要重新调整位置时，要注意这一点。
-
-* **陨石** :  战斗中会有3个人被选中进行一次冰评论类型的攻击。每个玩家必须分散到一个空地并且格挡，直到陨石落下。然后重新加入团队。如果你们聚在一起就会互相杀死。
-
-* **霜霉** :  除了基本的重击和其他招式以外，这个boss还有一种非常独特的机制。地面上会有一个小的旋转风影，它会对小队造成持续的区域伤害。当你看到这个风影时，一个玩家必须拾取它并保持拾取状态。大约6秒左右后，他们将获得一个合力技能将其丢弃。如果可以，请在小队外面丢弃它。它会减缓你的速度并造成高额的伤害，如果你不丢掉它，伤害会更加严重。
-
-当它再次落地时，其他人必须拾取它。这必须重复3次，并且每个阶段不能由同一个人进行两次。一旦这成功3次，然后它会暂时消失一段时间，直到你需要再次使用这个机制。
-
-重要提示：不要把这个东西带进传送门！
-
-* **狮鹫流血** :  在战斗中，狮鹫会以高伤害攻击坦克并给其施加流血效果。身材偏大的坦克可以通过治疗来减轻伤害，但如果你想完全避免受伤，可以完全闪避该攻击。然而请注意，过多地四处闪避会使boss移动，DPS需要不断重新施放技能来追上boss。
-
-这个战斗在大部分情况下需要较高的移动性，所以四处奔跑并不是很有帮助，但你可以采用任何你觉得有效的方法。
-
-* **群体AOE眩晕** :  当狮鹫在空中时，它会发射多个AOE魔法，散布在整个房间。这些魔法从中心点散开，所以如果你离得越远，缝隙越大，如果离得近，避开就更棘手了。基本上，找到一个缝隙并避免它们。如果失败，你将承受低伤害并且被眩晕。因此请注意你的脚步，但是要保持耐力以防万一被困住。
-
-* **锥形范围攻击** :  狮鹫将偶尔施展出相当恶劣的锥形范围猛击和前方锥形范围攻击，必须始终对准坦克并被格挡。输出职业不应该待在巨鸟的正面，所以如果你是一个易死的角色就要避开这个攻击！
-
-* **传送门** :  战斗期间传送门将出现在房间中央。您的团队应该提前计划好两个小组。如果您还是新手，就算只有两个人也可以完成，但最好组成3-4名玩家的两个小组，甚至带上治疗师。
-
-将会出现一个场景，其中一个团队需要走下楼梯进入传送门。
-
-在下面的地方会有一些水晶。摧毁每个水晶有可能会出现一个宝珠。这会让一支长矛在楼上出现...
-
-楼上的某人需要使用协同技能使那支矛子“下楼”……
-
-作为下楼组，请在那支长矛被放下之前，不要碰那个球体。如果那支长矛已经放下，拿起球体并放进长矛效果区域。
-
-这个步骤必须重复三次。完成后，传送门会消失，你就可以回到战斗中。
-
-请确保自己能够进行治疗。你在楼下受到的伤害是混沌伤害，因此盾牌是无效的。此外，如果你过早地拾取了球体，你将会受到巨大的伤害，因此除非有长矛，否则不要这样做。
-
-关于传送门的问题，会有小兵出现。它们会自然地向上攀爬。但是你花费的时间越长，就会得到更多的小兵。如果你未能成功完成传送门，将会出现许多巨型雅格拉小兵。它们会带来巨大的麻烦，如果发生这种情况，你就必须面对它们（通常会导致全灭）。
-
-无论传送门是否成功，该团队的所有成员都会受到debuff效果。这将防止他们再次倒下，因此下一次必须让另一个团队去承担攻击。
-
-当下一个传送门结束的时候，你可以再次出发。这就是为什么你需要两个团队的原因。
-
-一旦你理解了它，它就很简单，但可能需要一些练习！
-
-* **击杀** :  这个战斗的关键是确保在你决定击杀其中一个BOSS之前，两个BOSS的生命值都非常低。这样你就可以让另一个BOSS的生命值较低，并在此之后快速击杀它。
-
-如果你把一个BOSS杀得太快了，而另一个BOSS还有太长的时间，他们就会在房间里召唤爬行者。这些爬行者必须被击败，因为它们会造成伤害并使整个队伍无法移动，但随着时间的推移，出现越来越多的敌人，攻击也会变得越来越激烈。
-
-因此，虽然没有"输出竞赛"，但你确实要控制伤害，不要让一个首领太久独自存在。
-
-
-
-
-
 ### 希罗利亚
 
 > SIRORIA
@@ -205,6 +146,65 @@
 如果你把其中一个BOSS杀死得太快，可能会导致另外一个BOSS还未死亡时就会有“爬行者”出现在房间中。这些爬行者必须被杀死，因为它们会造成伤害并束缚整个小组。但是，如果你花费的时间越长，它们将会越来越多且更加具有攻击性。
 
 所以虽然没有所谓的“输出竞赛”，但你需要控制你的伤害以避免单独攻击一个首领过长时间。
+
+
+
+
+
+### 加伦韦
+
+> GALENWE
+
+
+**加伦韦**
+
+除了独特的机制外，这个首领的规则与上面的首领相同。始终保持它们分开。一直攻击狮鹫，除非狮鹫在空中，那么切换到主要的首领。当它再次落下时，再次切换回攻击狮鹫！
+
+这个首领会频繁传送，所以当你需要重新调整位置时，要注意这一点。
+
+* **陨石** :  战斗中会有3个人被选中进行一次冰评论类型的攻击。每个玩家必须分散到一个空地并且格挡，直到陨石落下。然后重新加入团队。如果你们聚在一起就会互相杀死。
+
+* **霜霉** :  除了基本的重击和其他招式以外，这个boss还有一种非常独特的机制。地面上会有一个小的旋转风影，它会对小队造成持续的区域伤害。当你看到这个风影时，一个玩家必须拾取它并保持拾取状态。大约6秒左右后，他们将获得一个合力技能将其丢弃。如果可以，请在小队外面丢弃它。它会减缓你的速度并造成高额的伤害，如果你不丢掉它，伤害会更加严重。
+
+当它再次落地时，其他人必须拾取它。这必须重复3次，并且每个阶段不能由同一个人进行两次。一旦这成功3次，然后它会暂时消失一段时间，直到你需要再次使用这个机制。
+
+重要提示：不要把这个东西带进传送门！
+
+* **狮鹫流血** :  在战斗中，狮鹫会以高伤害攻击坦克并给其施加流血效果。身材偏大的坦克可以通过治疗来减轻伤害，但如果你想完全避免受伤，可以完全闪避该攻击。然而请注意，过多地四处闪避会使boss移动，DPS需要不断重新施放技能来追上boss。
+
+这个战斗在大部分情况下需要较高的移动性，所以四处奔跑并不是很有帮助，但你可以采用任何你觉得有效的方法。
+
+* **群体AOE眩晕** :  当狮鹫在空中时，它会发射多个AOE魔法，散布在整个房间。这些魔法从中心点散开，所以如果你离得越远，缝隙越大，如果离得近，避开就更棘手了。基本上，找到一个缝隙并避免它们。如果失败，你将承受低伤害并且被眩晕。因此请注意你的脚步，但是要保持耐力以防万一被困住。
+
+* **锥形范围攻击** :  狮鹫将偶尔施展出相当恶劣的锥形范围猛击和前方锥形范围攻击，必须始终对准坦克并被格挡。输出职业不应该待在巨鸟的正面，所以如果你是一个易死的角色就要避开这个攻击！
+
+* **传送门** :  战斗期间传送门将出现在房间中央。您的团队应该提前计划好两个小组。如果您还是新手，就算只有两个人也可以完成，但最好组成3-4名玩家的两个小组，甚至带上治疗师。
+
+将会出现一个场景，其中一个团队需要走下楼梯进入传送门。
+
+在下面的地方会有一些水晶。摧毁每个水晶有可能会出现一个宝珠。这会让一支长矛在楼上出现...
+
+楼上的某人需要使用协同技能使那支矛子“下楼”……
+
+作为下楼组，请在那支长矛被放下之前，不要碰那个球体。如果那支长矛已经放下，拿起球体并放进长矛效果区域。
+
+这个步骤必须重复三次。完成后，传送门会消失，你就可以回到战斗中。
+
+请确保自己能够进行治疗。你在楼下受到的伤害是混沌伤害，因此盾牌是无效的。此外，如果你过早地拾取了球体，你将会受到巨大的伤害，因此除非有长矛，否则不要这样做。
+
+关于传送门的问题，会有小兵出现。它们会自然地向上攀爬。但是你花费的时间越长，就会得到更多的小兵。如果你未能成功完成传送门，将会出现许多巨型雅格拉小兵。它们会带来巨大的麻烦，如果发生这种情况，你就必须面对它们（通常会导致全灭）。
+
+无论传送门是否成功，该团队的所有成员都会受到debuff效果。这将防止他们再次倒下，因此下一次必须让另一个团队去承担攻击。
+
+当下一个传送门结束的时候，你可以再次出发。这就是为什么你需要两个团队的原因。
+
+一旦你理解了它，它就很简单，但可能需要一些练习！
+
+* **击杀** :  这个战斗的关键是确保在你决定击杀其中一个BOSS之前，两个BOSS的生命值都非常低。这样你就可以让另一个BOSS的生命值较低，并在此之后快速击杀它。
+
+如果你把一个BOSS杀得太快了，而另一个BOSS还有太长的时间，他们就会在房间里召唤爬行者。这些爬行者必须被击败，因为它们会造成伤害并使整个队伍无法移动，但随着时间的推移，出现越来越多的敌人，攻击也会变得越来越激烈。
+
+因此，虽然没有"输出竞赛"，但你确实要控制伤害，不要让一个首领太久独自存在。
 
 
 
@@ -388,61 +388,6 @@
 
 <eng>
 
-> GALENWE
-> 
-> 
-> ** GALENWE **
-> 
-> This boss follows the same rules as the ones above apart from the unique mechanics. Keep them split apart at ALL times. Hit the Gryphon all the time unless the Gryphon is in the air, in which case switch to the main boss. When it comes back down, switch back again!
-> 
-> The boss will teleport a lot so be mindful of this when repositioning if you have to.
-> 
-> **Meteors** - During the fight 3 people will be selected for an Ice Comment type attack. Each player must spread out to an empty space and BLOCK till it lands. Then rejoin the group. If you stack you will kill each other.
-> 
-> **Hoarfrost** - Apart from basic heavy attacks and such the boss does have this very UNIQUE mechanic. There will be a small spinning wind on the ground. It will constantly do damage in AOE to the group. When you see this a player MUST pick it up and hold on to it. After about 6 seconds of so they will be presented with a synergy to DROP it. Try to drop it outside  the group, if you can. It will slow you down and do high damage and even more so if you don’t drop it.
-> 
-> When it is on the ground again someone ELSE must pick it up. This must be repeated 3x and can’t be done by the same person twice per phase. Once this is successful 3x then it will fade for a while before you have to do the mechanic again.
-> 
-> BIG TIP: Do NOT take this into the portal!
-> 
-> **Gryphon Bleed** - During the fight the Gryphon will attack the tank with a HIGH damage hit which adds a bleed to them. Chunky tanks can be out healed with this on them BUT if you want to NOT take damage form it, you can dodge roll the attack completely. However bare in mind, too much running around dodging will keep moving the boss and the DPS will have to keep reapplying their skills to keep up.
-> 
-> This can be a pretty mobile fight for the most part so running around isn’t really helpful, but whatever works for you.
-> 
-> **Burst AOE Stuns** - When the Gryphon is in the air it iwll launch multiple AOEs spreading across the room. These fan out from a central point so if you are further away the gaps are larger, if closer it is trickier to avoid. basically, find a gap and avoid them. If you fail, you will take low damage and be stunned. So watch your feet but maintain stamina just in case you get caught.
-> 
-> **Cone/AOE Attack** - The Gryphon will occasionally cast a rather nasty AOE slam and also frontal AOE cone attack, this should always be facing the tank and can be blocked. DPS have no business being in front of the giant bird, so avoid this if you are a squishy!
-> 
-> **Portals** - The portal will appear in the middle of the room during the fight. You should preplan TWO groups in your team. YES it can be done solo or with two people but if you are new, make TWO groups of 3-4 players, even with a healer if you like.
-> 
-> What will happen is ONE team will need to go down stairs into the portal.
-> 
-> While down there, there will be crystals. Each one destroyed may reveal an orb. This will then make a spear reveal UPSTAIRS...
-> 
-> Someone upstairs will need to take a synergy to make that spear go DOWNSTAIRS...
-> 
-> As the down stairs team do NOT touch the orb UNTIL that spear has been sent down. If that has happened, pick it up, and deposit it in the spear effect.
-> 
-> This must be repeated 3x. Once it has been completed the portal will disappear and you can go back to the fight.
-> 
-> Be sure to take your own heals. The damage you take downstairs is oblivion damage so shields do not work. Also if you pick the orbs up too early you will take HUGE damage so do not do it unless a spear is there.
-> 
-> Finally about the portals, there are adds. These will go upstairs of course. But the longer you take the more adds you will get. If you fail the portal MANY giant Yagra adds will come out. These will cause a huge problem and you will have to deal with them if this happens (which usually results in a wipe).
-> 
-> Whether the portal was successful or not, ALL members of that particular team with have a debuff on them. This will prevent them from going down again so the other team must got down next time.
-> 
-> By the time the next portal is over you can go again. This is why you need two teams.
-> 
-> It is pretty simple once you understand it but may take some practice!
-> 
-> **Execute** - The trick to this fight is making sure both bosses are VERY low health before you decide to kill ONE of them. That way you have low health on the other one and can kill it quickly afterwards.
-> 
-> If you kill one boss too soon, you will have too long left on the other while they make creepers appear in the room. These MUST be killed because they do damage and root the group, but it will get more and more aggressive with more spawns the longer you take.
-> 
-> So while there is not a 'dps race' as such, you DO want to be sure to control your damage to not have one boss alone for too long.
-> 
-> 
-> 
 > SIRORIA
 > 
 > 
@@ -536,6 +481,61 @@
 > When you see the subtitle coming saying you are the target to be overcharged, simply stay on the bar you DON’T want to be on....then the mechanic will appear, telling you to swap. NOW you are deliberately FORCED to be on the bar you want to be on. Explained in the video to, very advanced yes, but an experienced player (especially healer) can really benefit from this.
 > 
 > **Griphon Bleed** - During the fight the Gryphon will attack the tank with a HIGH damage hit which adds a bleed to them. Chunky tanks can be out healed with this on them BUT if you want to NOT take damage form it, you can dodge roll the attack completely. However bare in mind, too much running around dodging will keep moving the boss and the DPS will have to keep reapplying their skills to keep up.
+> 
+> **Burst AOE Stuns** - When the Gryphon is in the air it iwll launch multiple AOEs spreading across the room. These fan out from a central point so if you are further away the gaps are larger, if closer it is trickier to avoid. basically, find a gap and avoid them. If you fail, you will take low damage and be stunned. So watch your feet but maintain stamina just in case you get caught.
+> 
+> **Cone/AOE Attack** - The Gryphon will occasionally cast a rather nasty AOE slam and also frontal AOE cone attack, this should always be facing the tank and can be blocked. DPS have no business being in front of the giant bird, so avoid this if you are a squishy!
+> 
+> **Portals** - The portal will appear in the middle of the room during the fight. You should preplan TWO groups in your team. YES it can be done solo or with two people but if you are new, make TWO groups of 3-4 players, even with a healer if you like.
+> 
+> What will happen is ONE team will need to go down stairs into the portal.
+> 
+> While down there, there will be crystals. Each one destroyed may reveal an orb. This will then make a spear reveal UPSTAIRS...
+> 
+> Someone upstairs will need to take a synergy to make that spear go DOWNSTAIRS...
+> 
+> As the down stairs team do NOT touch the orb UNTIL that spear has been sent down. If that has happened, pick it up, and deposit it in the spear effect.
+> 
+> This must be repeated 3x. Once it has been completed the portal will disappear and you can go back to the fight.
+> 
+> Be sure to take your own heals. The damage you take downstairs is oblivion damage so shields do not work. Also if you pick the orbs up too early you will take HUGE damage so do not do it unless a spear is there.
+> 
+> Finally about the portals, there are adds. These will go upstairs of course. But the longer you take the more adds you will get. If you fail the portal MANY giant Yagra adds will come out. These will cause a huge problem and you will have to deal with them if this happens (which usually results in a wipe).
+> 
+> Whether the portal was successful or not, ALL members of that particular team with have a debuff on them. This will prevent them from going down again so the other team must got down next time.
+> 
+> By the time the next portal is over you can go again. This is why you need two teams.
+> 
+> It is pretty simple once you understand it but may take some practice!
+> 
+> **Execute** - The trick to this fight is making sure both bosses are VERY low health before you decide to kill ONE of them. That way you have low health on the other one and can kill it quickly afterwards.
+> 
+> If you kill one boss too soon, you will have too long left on the other while they make creepers appear in the room. These MUST be killed because they do damage and root the group, but it will get more and more aggressive with more spawns the longer you take.
+> 
+> So while there is not a 'dps race' as such, you DO want to be sure to control your damage to not have one boss alone for too long.
+> 
+> 
+> 
+> GALENWE
+> 
+> 
+> ** GALENWE **
+> 
+> This boss follows the same rules as the ones above apart from the unique mechanics. Keep them split apart at ALL times. Hit the Gryphon all the time unless the Gryphon is in the air, in which case switch to the main boss. When it comes back down, switch back again!
+> 
+> The boss will teleport a lot so be mindful of this when repositioning if you have to.
+> 
+> **Meteors** - During the fight 3 people will be selected for an Ice Comment type attack. Each player must spread out to an empty space and BLOCK till it lands. Then rejoin the group. If you stack you will kill each other.
+> 
+> **Hoarfrost** - Apart from basic heavy attacks and such the boss does have this very UNIQUE mechanic. There will be a small spinning wind on the ground. It will constantly do damage in AOE to the group. When you see this a player MUST pick it up and hold on to it. After about 6 seconds of so they will be presented with a synergy to DROP it. Try to drop it outside  the group, if you can. It will slow you down and do high damage and even more so if you don’t drop it.
+> 
+> When it is on the ground again someone ELSE must pick it up. This must be repeated 3x and can’t be done by the same person twice per phase. Once this is successful 3x then it will fade for a while before you have to do the mechanic again.
+> 
+> BIG TIP: Do NOT take this into the portal!
+> 
+> **Gryphon Bleed** - During the fight the Gryphon will attack the tank with a HIGH damage hit which adds a bleed to them. Chunky tanks can be out healed with this on them BUT if you want to NOT take damage form it, you can dodge roll the attack completely. However bare in mind, too much running around dodging will keep moving the boss and the DPS will have to keep reapplying their skills to keep up.
+> 
+> This can be a pretty mobile fight for the most part so running around isn’t really helpful, but whatever works for you.
 > 
 > **Burst AOE Stuns** - When the Gryphon is in the air it iwll launch multiple AOEs spreading across the room. These fan out from a central point so if you are further away the gaps are larger, if closer it is trickier to avoid. basically, find a gap and avoid them. If you fail, you will take low damage and be stunned. So watch your feet but maintain stamina just in case you get caught.
 > 

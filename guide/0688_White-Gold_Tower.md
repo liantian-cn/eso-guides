@@ -4,33 +4,6 @@
 
 
 
-### 位面抑制者
-
-> THE PLANAR INHIBITOR
-
-
-** 畅游界限 **
-
-准备好迎接“P.U.G Killer”！这个BOSS是大多数玩家团队副本不断失败的原因。主要原因是缺乏协调配合！唯一与她搏斗/获得仇恨的方法是拾取活塞。是的，为了抵抗减益效果，一件防具仍然是必须的，但是游戏中没有“嘲讽”技能能够吸引她的注意力，你必须拥有活塞才能让她来找你。这需要一些练习，但坦克应该先拿活塞并尽可能静止BOSS，而团队则绕着她形成一个圆圈，切勿重叠，否则玩家会被重叠的AOE技能杀死。目前持有活塞的人将受到不断的火焰伤害，这种伤害会随着持有时间的增长而不断增强，所以治疗者必须专注治疗。
-
-* **火焰爆发** :  每个玩家和一些随机位置将受到一个小型的火焰AOE影响，它扩散非常快并爆炸。尽量避免这些影响。只需移动到它的侧面/前面/后面让其经过，然后回到原位即可。如果你们聚集在一起，多个AOE将会在同一个地方出现，导致团队爆炸。在您进行任务时，请务必注意这些细节。古塔、恩、夸迪欧斯·蓬提非奥、奥索·鲁菲诺斯、下潜、莫拉格·科娜、新星和奥索·努米达这些专有名词应在游戏中得到应用。
-
-* **上古卷轴Online攻略
-
-传送门** :  游戏在此之前教授了这个机制，但你需要注意头上的黑色光环，整个屏幕会变成灰度，所有颜色都淡出。这意味着你需要负责击破传送门。同时会有两个人出现灰屏/光环，他们需要四处寻找并摧毁传送门，以防出现怪物。传送门很脆弱，可以很快地被击败，但是只有出现灰屏/光环的人才能攻击它们。如果你没有杀死它们，你将会被无数的怪物淹没，使得战斗难度增加10倍。传送门消失后，你可以正常地继续战斗。注意：拥有排异权杖的人永远不会出现传送门，所以不要让坦克拿它（通常他们伤害低，很难杀掉传送门）。
-
-* **下潜** :  首领会下潜到地下，然后再次出现，进行一次极大的范围伤害爆发。这必须被躲避。只需闪避或走出范围即可。如果失败，你会受到击退和高烈焰伤害。
-
-* **Piggy In The Middle** :  这是一个杀死所有人的机制！上面提到的“下潜”机制会发生两次！第二次，她会被蓝色的火焰包围。如果你靠近她的话，她会将你缠绕住以至于你几乎不能动，如果她的火焰碰到你，你就会死亡！即使是拥有50k生命值的满血坦克也只需要承受2-3次攻击就能死亡。在这种情况下，你需要扮演干群夹击的角色。
-
-请确保坦克跑到房间的最远角落或侧面，并引诱BOSS过来。当她在移动时，传送门将出现。一旦出现传送门（当然要处理），请确保其他人拿起齿轮，跑到房间的对面。这将使她的注意力转移到坦克身上，让她在房间里长跑。在此阶段，新的齿轮持有者将开始随着时间的推移受到火焰伤害，坦克仍需要治疗，以应对剩余的高度侵略性点刺。当BOSS距离追逐的玩家约10米左右时，坦克应重新拿起齿轮，再次朝房间的对面/角落跑去。你现在就像在玩“猪在中间”的游戏！不要让她碰到任何人！您必须让她来回移动。一旦她追回齿轮后从房间的一半追向坦克（如果效率高），她将到达房间的一半。她会下潜到地面，造成范围伤害并被眩晕几秒钟。当她处于这种状态时，这是团队重新定位并继续执行所有上述动作的机会，就像重新开始战斗一样。
-
-这将是接下来战斗的不断重复过程，无论你的团队造成或未造成多少伤害。当Boss血量低时，唯一变得更糟糕的是你会有更多的传送门。除此之外，继续执行你的任务。记住每隔一秒钟地下潜，她会变蓝色，你需要采取"谁做猪"的策略。祝你好运！
-
-
-
-
-
 ### 审判员
 
 > THE ADJUDICATOR
@@ -74,6 +47,33 @@
 注：Nova是游戏中的一个技能，没有对应的中文翻译，故不予翻译。
 
 * **Otho Numida** :  这个首领是治疗型，应该最后才可击败。在战斗中，他会给坦克和输出类型分配治疗，你需要做的就是打断治疗。重复这个过程，直到坦克和输出首领死亡，然后击败这个首领。不过要小心，因为这个首领有一个Dragonknight Banner。此外，这个首领有一个火焰法杖发射光攻击，并使用一个我称之为“轮毂”机制（与流放之城II中的第一个首领完全相同），首领会站在原地，在地面上释放一个圆形的持续的火焰卷轴。留在空隙处，切勿被夹住。其中1-2个火焰攻击会让你死亡，尤其是在有旗帜的情况下。
+
+
+
+
+
+### 位面抑制者
+
+> THE PLANAR INHIBITOR
+
+
+** 畅游界限 **
+
+准备好迎接“P.U.G Killer”！这个BOSS是大多数玩家团队副本不断失败的原因。主要原因是缺乏协调配合！唯一与她搏斗/获得仇恨的方法是拾取活塞。是的，为了抵抗减益效果，一件防具仍然是必须的，但是游戏中没有“嘲讽”技能能够吸引她的注意力，你必须拥有活塞才能让她来找你。这需要一些练习，但坦克应该先拿活塞并尽可能静止BOSS，而团队则绕着她形成一个圆圈，切勿重叠，否则玩家会被重叠的AOE技能杀死。目前持有活塞的人将受到不断的火焰伤害，这种伤害会随着持有时间的增长而不断增强，所以治疗者必须专注治疗。
+
+* **火焰爆发** :  每个玩家和一些随机位置将受到一个小型的火焰AOE影响，它扩散非常快并爆炸。尽量避免这些影响。只需移动到它的侧面/前面/后面让其经过，然后回到原位即可。如果你们聚集在一起，多个AOE将会在同一个地方出现，导致团队爆炸。在您进行任务时，请务必注意这些细节。古塔、恩、夸迪欧斯·蓬提非奥、奥索·鲁菲诺斯、下潜、莫拉格·科娜、新星和奥索·努米达这些专有名词应在游戏中得到应用。
+
+* **上古卷轴Online攻略
+
+传送门** :  游戏在此之前教授了这个机制，但你需要注意头上的黑色光环，整个屏幕会变成灰度，所有颜色都淡出。这意味着你需要负责击破传送门。同时会有两个人出现灰屏/光环，他们需要四处寻找并摧毁传送门，以防出现怪物。传送门很脆弱，可以很快地被击败，但是只有出现灰屏/光环的人才能攻击它们。如果你没有杀死它们，你将会被无数的怪物淹没，使得战斗难度增加10倍。传送门消失后，你可以正常地继续战斗。注意：拥有排异权杖的人永远不会出现传送门，所以不要让坦克拿它（通常他们伤害低，很难杀掉传送门）。
+
+* **下潜** :  首领会下潜到地下，然后再次出现，进行一次极大的范围伤害爆发。这必须被躲避。只需闪避或走出范围即可。如果失败，你会受到击退和高烈焰伤害。
+
+* **Piggy In The Middle** :  这是一个杀死所有人的机制！上面提到的“下潜”机制会发生两次！第二次，她会被蓝色的火焰包围。如果你靠近她的话，她会将你缠绕住以至于你几乎不能动，如果她的火焰碰到你，你就会死亡！即使是拥有50k生命值的满血坦克也只需要承受2-3次攻击就能死亡。在这种情况下，你需要扮演干群夹击的角色。
+
+请确保坦克跑到房间的最远角落或侧面，并引诱BOSS过来。当她在移动时，传送门将出现。一旦出现传送门（当然要处理），请确保其他人拿起齿轮，跑到房间的对面。这将使她的注意力转移到坦克身上，让她在房间里长跑。在此阶段，新的齿轮持有者将开始随着时间的推移受到火焰伤害，坦克仍需要治疗，以应对剩余的高度侵略性点刺。当BOSS距离追逐的玩家约10米左右时，坦克应重新拿起齿轮，再次朝房间的对面/角落跑去。你现在就像在玩“猪在中间”的游戏！不要让她碰到任何人！您必须让她来回移动。一旦她追回齿轮后从房间的一半追向坦克（如果效率高），她将到达房间的一半。她会下潜到地面，造成范围伤害并被眩晕几秒钟。当她处于这种状态时，这是团队重新定位并继续执行所有上述动作的机会，就像重新开始战斗一样。
+
+这将是接下来战斗的不断重复过程，无论你的团队造成或未造成多少伤害。当Boss血量低时，唯一变得更糟糕的是你会有更多的传送门。除此之外，继续执行你的任务。记住每隔一秒钟地下潜，她会变蓝色，你需要采取"谁做猪"的策略。祝你好运！
 
 
 
@@ -126,27 +126,6 @@ Kena会跳起来并将所有人向后推开很远的距离，所以当她升起�
 
 <eng>
 
-> THE PLANAR INHIBITOR
-> 
-> 
-> ** THE PLANAR INHIBITOR **
-> 
-> Get ready for the 'P.U.G Killer' herself! This boss is the bane of most player's dungeon runs. MOSTLY because of lack of co-ordination! The ONLY way to taught/get agro from this boss is to pick up the pinion. Yes a piece armour is still required for the debuff to resistance but NO taunting 'skill' in the game will get her attention, you MUST have the pinion in your possession to make her come to you. This is going to take some practice, but the tank should start with the pinion and hold the boss as still as possible while the group surround her in a circle. Do NOT stand stacked because you will kill each other with stacking aoes. The person whom currently has the pinion will take CONSTANT fire damage which will get stronger and stronger the longer they hold on to it, so the healer must focus.
-> 
-> **Flame bursts** - Each player and some random locations will be affected by a SMALL fire aoe that spreads very fast and explodes. You must stay out of these as much as possible. Simply move to the side/front/back of it and let it pass, then get back into position. If you stack together, multiples will appear in the same place(since they are carried by the players) and you will blow your group up.
-> 
-> **Portals** - You are taught this mechanic earlier in the dungeon, but you are looking for a dark aura on your head and above all, the WHOLE screen will go grey scale and all colours will be washed out. THIS means YOU have portal duty. Two people at once will have the affect and you must look around the room for portals and destroy them before adds come through. The portals are weak and can be killed fast but ONLY the people with grey screens/aura can attack them. If you do not kill them you will get completely overwhelmed with adds and make this fight 10 times more difficult. Once the portals are gone you can carry on as normal. Note: the person with the pinion will never get portals so long as the pinion is in their possession. This is very important since you do not want the tank to get it (generally they have low damage and struggle to kill portals).
-> 
-> **Dive** - The boss will dive into the ground and pop back up again, doing a MASSIVE aoe, burst. This must be avoided. Simply dodge roll or walk out of it. If you fail you will take a knock back and high flame damage.
-> 
-> **Piggy In The Middle!** - This is the mechanic that kills everyone! The above 'dive' mechanic will happen TWICE! The second one, she will appear engulfed in BLUE flames. If you go near her she will snare you to almost a stand still and if her flames touch you, you are dead! Even a full health tank with 50k hps can die in just 2-3 ticks of damage. THIS is where you play piggy in the middle.
-> 
-> Be sure that the tank runs to the furthest corner/side of the room and lure her over. As she is on the move Portals will appear. Once those portals have appeared (of course deal with the portals) be sure that someone else takes the pinion and runs to the OPPOSITE side of the room. This will take her attention OFF the tank luring her on a long run across the room. During this phase the new pinion holder will start to take flame damage overtime and the tank will still need heals for the remaining HIGHLY aggressive dot still on them. When the boss is about 10meters or so away from the player she is chasing, the tank should take BACK the pinion and run away again to the opposite side/corner of the room. You are literally playing piggy in the middle right now! Don;t let her TOUCH ANYONE! you MUST keep her moving back and forth. Once she gets half way across the room chasing back to the tank once the pinion is taken( if done efficiently) she will be about half way across the room. She will dive into the floor, with an aoe burst and be stunned for a few seconds. While she is in this state this is the group's opportunity to reposition around her and continue just as if it was the start of the fight repeating all of the above.
-> 
-> This will be a rinse repeat process for the rest of the fight REGARDLESS of how much damage your group does or does not have. The ONLY thing that gets worse when the boss is low health is you will get MORE portals. Apart from that, keep doing what you are doing. Remember every SECOND ground dive, she will turn blue and you need to resort to piggy in the middle. Good luck!!
-> 
-> 
-> 
 > THE ADJUDICATOR
 > 
 > 
@@ -176,6 +155,27 @@ Kena会跳起来并将所有人向后推开很远的距离，所以当她升起�
 > **Cordius Pontifio** - The boss is the dps type. Typically moves like a Nightblade, dual wield and teleport strikes etc but has Dragonknight abilities too. He also can drop a banner and has a habit of hitting the odd steel tornado too so be careful. He also has a banner which MUST be avoided!
 > 
 > **Otho Numida** - The boss is the healer type and is the last one you should have alive. During the fight heals will be distributed to the tank and dps types and all you have to do is interrupt to stop it. Repeat this every time a heal comes out until the tank and the dps bosses are dead and then finish this one off. Be careful however as this boss DOES have a Dragonknight Banner. Also this boss has a flame staff firing out light attacks and uses an ability that i like to call 'The wheel' mechanic (exactly the same as the first boss in banished cells II) where the boss will stand on the spot and cast constant fire spokes in a circle on the floor. Stay in the gaps and don't get caught out. 1-2 of these fire attacks will kill you as they hit VERY hard, especially when a banner is down.
+> 
+> 
+> 
+> THE PLANAR INHIBITOR
+> 
+> 
+> ** THE PLANAR INHIBITOR **
+> 
+> Get ready for the 'P.U.G Killer' herself! This boss is the bane of most player's dungeon runs. MOSTLY because of lack of co-ordination! The ONLY way to taught/get agro from this boss is to pick up the pinion. Yes a piece armour is still required for the debuff to resistance but NO taunting 'skill' in the game will get her attention, you MUST have the pinion in your possession to make her come to you. This is going to take some practice, but the tank should start with the pinion and hold the boss as still as possible while the group surround her in a circle. Do NOT stand stacked because you will kill each other with stacking aoes. The person whom currently has the pinion will take CONSTANT fire damage which will get stronger and stronger the longer they hold on to it, so the healer must focus.
+> 
+> **Flame bursts** - Each player and some random locations will be affected by a SMALL fire aoe that spreads very fast and explodes. You must stay out of these as much as possible. Simply move to the side/front/back of it and let it pass, then get back into position. If you stack together, multiples will appear in the same place(since they are carried by the players) and you will blow your group up.
+> 
+> **Portals** - You are taught this mechanic earlier in the dungeon, but you are looking for a dark aura on your head and above all, the WHOLE screen will go grey scale and all colours will be washed out. THIS means YOU have portal duty. Two people at once will have the affect and you must look around the room for portals and destroy them before adds come through. The portals are weak and can be killed fast but ONLY the people with grey screens/aura can attack them. If you do not kill them you will get completely overwhelmed with adds and make this fight 10 times more difficult. Once the portals are gone you can carry on as normal. Note: the person with the pinion will never get portals so long as the pinion is in their possession. This is very important since you do not want the tank to get it (generally they have low damage and struggle to kill portals).
+> 
+> **Dive** - The boss will dive into the ground and pop back up again, doing a MASSIVE aoe, burst. This must be avoided. Simply dodge roll or walk out of it. If you fail you will take a knock back and high flame damage.
+> 
+> **Piggy In The Middle!** - This is the mechanic that kills everyone! The above 'dive' mechanic will happen TWICE! The second one, she will appear engulfed in BLUE flames. If you go near her she will snare you to almost a stand still and if her flames touch you, you are dead! Even a full health tank with 50k hps can die in just 2-3 ticks of damage. THIS is where you play piggy in the middle.
+> 
+> Be sure that the tank runs to the furthest corner/side of the room and lure her over. As she is on the move Portals will appear. Once those portals have appeared (of course deal with the portals) be sure that someone else takes the pinion and runs to the OPPOSITE side of the room. This will take her attention OFF the tank luring her on a long run across the room. During this phase the new pinion holder will start to take flame damage overtime and the tank will still need heals for the remaining HIGHLY aggressive dot still on them. When the boss is about 10meters or so away from the player she is chasing, the tank should take BACK the pinion and run away again to the opposite side/corner of the room. You are literally playing piggy in the middle right now! Don;t let her TOUCH ANYONE! you MUST keep her moving back and forth. Once she gets half way across the room chasing back to the tank once the pinion is taken( if done efficiently) she will be about half way across the room. She will dive into the floor, with an aoe burst and be stunned for a few seconds. While she is in this state this is the group's opportunity to reposition around her and continue just as if it was the start of the fight repeating all of the above.
+> 
+> This will be a rinse repeat process for the rest of the fight REGARDLESS of how much damage your group does or does not have. The ONLY thing that gets worse when the boss is low health is you will get MORE portals. Apart from that, keep doing what you are doing. Remember every SECOND ground dive, she will turn blue and you need to resort to piggy in the middle. Good luck!!
 > 
 > 
 > 

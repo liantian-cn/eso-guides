@@ -4,6 +4,103 @@
 
 
 
+### 克拉格伦总督
+
+> EXARCH KRAGLEN
+
+
+**克拉格伦总督**
+
+这个首领相对简单理解，但需要一些基础机制的运用才能通过。如果你不熟悉打断、格挡和站位，那么你会很吃力。否则，这个首领相当容易。
+
+在房间中间把他拖住，千万不要像懦夫一样逃跑。除非机制要求你离他远一些，否则你需要靠近他。
+
+在非困难模式下，你需要面对的机制会少很多，但基本原理相同，他的生命值也会低很多。
+
+* **重击** :  这个技能应该只由坦克使用，只需要简单地“格挡或死亡”即可。其中的**Heavy attack**指的是游戏中的一种攻击技能。需要注意的是，上述已知的专有名词中，Gar可能会指游戏中的一种生物，需要根据具体情况进行翻译。
+
+* **攻略翻译如下
+横扫** :  首领会对拥有仇恨的角色进行多次横扫攻击（应该是坦克），就像在Hel Ra Citadel中战士的千刀万剐攻击一样。对付这个技能的基本方法是确保<屏障>它。如果你是一个DPS/治疗职业，无论出于什么原因，这个技能落在了你身上，请确保闪避它。坦克们应该能够通过简单的<屏障>来应对这个技能。
+
+* **打断** :  通常（但不总是，他的战斗轮换可能会稍有改变）在第二次挥击攻击后，他会有一个冲破束缚的攻击，将所有人向后推，并使他们晕眩。然后他会引导并对全组造成范围伤害。这很简单，首先打破束缚，然后尽快打断他。注意，攻击后的"<>"符号中的内容是html标签，可以忽略不翻译。
+
+注意：在困难模式下，如果你不遵循下面的明确要求，你将会受到巨大的debuff和资源耗竭，并且每次尝试失败都会叠加debuff。
+
+当你知道攻击即将到来时，每个人都必须格挡！如果你格挡了，你就会抵消放置的debuff，然后你需要尽快打断他，防止造成更多的危险。这需要一些时间来掌握，但如果有一个人失败，你们所有人都会得到debuff。这在视频中得到了解释和演示。其中包括已知专有名词，如屏障、狼人、战士等角色，以及NPC角色如疯炼金术士阿卡西斯和噶尔。
+
+* **攻略翻译如下
+
+跺脚** :  在打破和中断机制后，他会停止地面。你必须躲避这个！但你也必须在结束后尽快回到Boss附近。注意要避开跺脚技能，并及时回到Boss身边。
+
+* **攻略翻译
+冲锋** :  如果你离Boss太远，他会向你冲过来，击倒你！如果你遵循上述机制，快速回到你的位置，你永远看不到这个机制。然而，如果你花费太长时间回到位置，你会有麻烦。这个机制旨在让你保持靠近Boss。注意不要被抓住，特别是在困难模式下，尽快重新定位至关重要。
+
+* **地震攻击** :  在践踏机制后，boss将从地面释放类似地震的攻击。如果可以的话，请避开这些攻击，但当然如果有足够的治疗能量则可以减轻伤害。然而，每次你站在这些地方，你都会受到抵抗/减轻 debuff，这意味着任何打到你身上的伤害都会造成更严重的打击。尤其是在困难模式下，这些debuff可以持续整场战斗，并且如果你忽略了基本技巧，它们会给你带来麻烦。
+
+* **如果你中了这些减益状态不要惊慌但千万不要被任何跺脚或冲锋机制所困扰因为你会死的坦克应该能够承受大约3** : 4个这样的减益状态，然后才会因为基本攻击而发生真正严重的后果，所以一定要带足够的治疗，或者只需留意自己的脚下即可。
+
+请记住，在战斗中无论出现何种机制，千万不要四处乱跑，因为他会冲锋。其中Len、Exarch Kraglen、En、Barrier、Werewolf和Arkasis the Mad Alchemist均为专有名词，分别对应莱恩、克拉格伦总督、恩、屏障、狼人和疯炼金术士阿卡西斯。另外，The Warrior在此处有三个意思，分别对应天界战神、战士和武士。Gar则未被翻译，可能是一个新的专有名词。
+
+
+
+
+
+### 石头巨兽
+
+> STONE BEHEMOTH
+
+
+【攻略翻译】： 
+
+ ** 石巨兽 ** 
+
+注：游戏中STON BEHEMOTH为一种怪物BOSS。
+
+这个首领非常简单，有3或4个重要的机制，但如果你不注意它们，像无头的鸡一样乱跑，它们会很快让你不知所措。清理机制和专注是关键！
+
+在困难模式下，他的生命值要少得多，机制的惩罚也要少得多，甚至可以几乎站在机制中，但我不建议这样做。遵循基本机制可以使困难模式变得简单，只是需要练习。
+
+* **重攻击** :  非常简单，BOSS会对坦克释放巨大的重攻击，你需要格挡它，否则就会死亡。如果攻击击中了DPS，则他们必须躲避，否则他们会死亡。这应始终在坦克上，所以请确保保持嘲讽！注意，其中"Tank"指的是坦克职业，"DPS"指的是输出职业。
+
+* **攻略翻译如下
+闪电** :  首领会连续几次猛击地面，这时每个玩家周围都会形成闪电AOE。不要靠得太近，否则会因为叠加伤害而受到更多伤害。缓解这个效果的方法是在看到首领用手碰地时直接阻挡。这个过程非常快，需要多加练习。另外，首领还会有其他技能，需要注意避让。其中某些技能“屏障（Barrier）”、“狼人（Werewolf）”、“天界战神（The Warrior）”、“恩（En）”等是专有名词，需要作为固定英文译名。在游戏中还会遇到其他角色如“莱恩（Len）”、“克拉格伦总督（Exarch Kraglen）”、“战士（The Warrior）”、“武士（The Warrior）”、“噶尔（Gar）”、“疯炼金术士阿卡西斯（Arkasis the Mad Alchemist）”等，同样需要保持英文原名不变。
+
+* **火球** :  可能是最难应对的机制，BOSS会在房间内投掷火球，火球会落在玩家所在位置附近。尽可能避免接触到它们。如果你被火球击中，会有长时间的火焰伤害效果并持续一段时间，你需要通过治疗或清除来解除效果。
+
+在不久之后，首领会爆发并用扩散火焰AOE填满整个房间，当它达到顶峰时将会爆炸。你一定要离开它的范围，所以要快速找到空隙，否则你将会被秒杀。同时要注意避开其他boss的攻击。
+
+注意：若你是新手组练习机制，还不够快脱身的话，Mistform能帮助你存活。
+
+* **冰** :  这是一个非常简单的机制，但会让玩家的移动速度遭受可怕的减速。基本上，每个玩家都将遭受4次冰AOE攻击，并且每一秒都会在地上生成一次。如果你不动，那么这些攻击会全部叠在同一个地方，但是（如视频所示），如果你在你的角色周围画一个小圆圈，你就可以将它们放置在离团队其他成员较远的地方。不要像疯子一样四处乱跑，因为房间将被消耗完毕，这会给你的队友造成麻烦。
+
+这些攻击会使玩家受到冰属性伤害，并引发持续的冰属性DoT效果并减缓玩家速度，但和火属性一样可以被净化。其中的专有名词不进行翻译。
+
+过了一会儿，Boss 将会爆发，但不像火相位时会对整个房间造成伤害，这一次他只会震晕整个房间。你需要从这个震晕状态中挣脱出来。如果你已经被冻住了，你会承受额外的伤害，所以要小心。
+
+* **小兵和光束** :  战斗中，两侧会出现三个小兵（Boss的小型版本）。在第一部分，房间里只有一个小兵，当体力降至65%及以下时，你会在房间里出现两个小兵，当体力降至25-30%以下时，最多会出现3个小兵！
+
+每个活着的人都可以放置一个与指向房间内随机玩家的光束相连的移动AOE。这是定期发生的，但也可能对你的团队产生巨大的负担，因为在远离群体的同时你必须确保不要让它穿过人群，或者同时被冰缓慢，否则它将捉住你。其中 Len 、Exarch Kraglen、The Warrior 和 Arkasis the Mad Alchemist 均为专有名词，不予翻译。"En" 在此处无法确定具体指代何物，无法准确翻译。"Barrier" 可翻译为"屏障"。"Werewolf" 可翻译为"狼人"。"Gar" 可翻译为"噶尔"。
+
+从技术上讲，你只需要让它远离小队，直到它消失，然后再回来。如果它击中人物，他们将在其作用期内非常快地失去资源。然而，（这很少见）如果你的小队完全支持资源恢复，你实际上可以站在里面而忽略它，但你需要大量恢复和治疗。
+
+如果你击杀了这些小兵，它们会暂时离开并停止攻击，但它们很快会复活。
+
+攻略翻译如下：所以诀窍是先杀小喽啰，然后回到首领处杀小喽啰，再回到首领处，反复如此。
+
+记住，在房间里，生命值越低，添加物就越多，所以一定要保存你的终极技能。
+
+* **震撼的眩晕** :  当首领的生命值降低并且第三个小怪出现时，你将开始受到闪电眩晕。如果你有注意到，这可以完全避免。每个玩家的脚下都会出现一个小圆圈。两秒后它会爆炸并使其眩晕。简单地使用格挡就可以避免被眩晕。
+
+快学会这种机制，因为如果你在小怪的光束攻击下不断被晕眩和减速，你的资源将会耗尽，最终你将会死在房间中央，无处可去。注意避免。在这里Gar会向玩家介绍一个新机制，可以通过执行该机制来避免被小怪拖垮。
+
+逐个理解每个机制，了解如何应对，并且最重要的是，准备一些清除技能。
+
+注：如上所述，困难模式拥有更多的生命值，并且从机制和受到的伤害来看更加惩罚性，此外，小怪的生命值也更多。在非困难模式中，这是相同的战斗，但时间更短！
+
+
+
+
+
 ### 疯炼金术士阿卡西斯
 
 > ARKASIS THE MAD ALCHEMIST
@@ -163,109 +260,92 @@ While transformed into a Werewolf, you will have access to these skills and an a
 
 
 
-### 克拉格伦总督
-
-> EXARCH KRAGLEN
-
-
-**克拉格伦总督**
-
-这个首领相对简单理解，但需要一些基础机制的运用才能通过。如果你不熟悉打断、格挡和站位，那么你会很吃力。否则，这个首领相当容易。
-
-在房间中间把他拖住，千万不要像懦夫一样逃跑。除非机制要求你离他远一些，否则你需要靠近他。
-
-在非困难模式下，你需要面对的机制会少很多，但基本原理相同，他的生命值也会低很多。
-
-* **重击** :  这个技能应该只由坦克使用，只需要简单地“格挡或死亡”即可。其中的**Heavy attack**指的是游戏中的一种攻击技能。需要注意的是，上述已知的专有名词中，Gar可能会指游戏中的一种生物，需要根据具体情况进行翻译。
-
-* **攻略翻译如下
-横扫** :  首领会对拥有仇恨的角色进行多次横扫攻击（应该是坦克），就像在Hel Ra Citadel中战士的千刀万剐攻击一样。对付这个技能的基本方法是确保<屏障>它。如果你是一个DPS/治疗职业，无论出于什么原因，这个技能落在了你身上，请确保闪避它。坦克们应该能够通过简单的<屏障>来应对这个技能。
-
-* **打断** :  通常（但不总是，他的战斗轮换可能会稍有改变）在第二次挥击攻击后，他会有一个冲破束缚的攻击，将所有人向后推，并使他们晕眩。然后他会引导并对全组造成范围伤害。这很简单，首先打破束缚，然后尽快打断他。注意，攻击后的"<>"符号中的内容是html标签，可以忽略不翻译。
-
-注意：在困难模式下，如果你不遵循下面的明确要求，你将会受到巨大的debuff和资源耗竭，并且每次尝试失败都会叠加debuff。
-
-当你知道攻击即将到来时，每个人都必须格挡！如果你格挡了，你就会抵消放置的debuff，然后你需要尽快打断他，防止造成更多的危险。这需要一些时间来掌握，但如果有一个人失败，你们所有人都会得到debuff。这在视频中得到了解释和演示。其中包括已知专有名词，如屏障、狼人、战士等角色，以及NPC角色如疯炼金术士阿卡西斯和噶尔。
-
-* **攻略翻译如下
-
-跺脚** :  在打破和中断机制后，他会停止地面。你必须躲避这个！但你也必须在结束后尽快回到Boss附近。注意要避开跺脚技能，并及时回到Boss身边。
-
-* **攻略翻译
-冲锋** :  如果你离Boss太远，他会向你冲过来，击倒你！如果你遵循上述机制，快速回到你的位置，你永远看不到这个机制。然而，如果你花费太长时间回到位置，你会有麻烦。这个机制旨在让你保持靠近Boss。注意不要被抓住，特别是在困难模式下，尽快重新定位至关重要。
-
-* **地震攻击** :  在践踏机制后，boss将从地面释放类似地震的攻击。如果可以的话，请避开这些攻击，但当然如果有足够的治疗能量则可以减轻伤害。然而，每次你站在这些地方，你都会受到抵抗/减轻 debuff，这意味着任何打到你身上的伤害都会造成更严重的打击。尤其是在困难模式下，这些debuff可以持续整场战斗，并且如果你忽略了基本技巧，它们会给你带来麻烦。
-
-* **如果你中了这些减益状态不要惊慌但千万不要被任何跺脚或冲锋机制所困扰因为你会死的坦克应该能够承受大约3** : 4个这样的减益状态，然后才会因为基本攻击而发生真正严重的后果，所以一定要带足够的治疗，或者只需留意自己的脚下即可。
-
-请记住，在战斗中无论出现何种机制，千万不要四处乱跑，因为他会冲锋。其中Len、Exarch Kraglen、En、Barrier、Werewolf和Arkasis the Mad Alchemist均为专有名词，分别对应莱恩、克拉格伦总督、恩、屏障、狼人和疯炼金术士阿卡西斯。另外，The Warrior在此处有三个意思，分别对应天界战神、战士和武士。Gar则未被翻译，可能是一个新的专有名词。
-
-
-
-
-
-### 石头巨兽
-
-> STONE BEHEMOTH
-
-
-【攻略翻译】： 
-
- ** 石巨兽 ** 
-
-注：游戏中STON BEHEMOTH为一种怪物BOSS。
-
-这个首领非常简单，有3或4个重要的机制，但如果你不注意它们，像无头的鸡一样乱跑，它们会很快让你不知所措。清理机制和专注是关键！
-
-在困难模式下，他的生命值要少得多，机制的惩罚也要少得多，甚至可以几乎站在机制中，但我不建议这样做。遵循基本机制可以使困难模式变得简单，只是需要练习。
-
-* **重攻击** :  非常简单，BOSS会对坦克释放巨大的重攻击，你需要格挡它，否则就会死亡。如果攻击击中了DPS，则他们必须躲避，否则他们会死亡。这应始终在坦克上，所以请确保保持嘲讽！注意，其中"Tank"指的是坦克职业，"DPS"指的是输出职业。
-
-* **攻略翻译如下
-闪电** :  首领会连续几次猛击地面，这时每个玩家周围都会形成闪电AOE。不要靠得太近，否则会因为叠加伤害而受到更多伤害。缓解这个效果的方法是在看到首领用手碰地时直接阻挡。这个过程非常快，需要多加练习。另外，首领还会有其他技能，需要注意避让。其中某些技能“屏障（Barrier）”、“狼人（Werewolf）”、“天界战神（The Warrior）”、“恩（En）”等是专有名词，需要作为固定英文译名。在游戏中还会遇到其他角色如“莱恩（Len）”、“克拉格伦总督（Exarch Kraglen）”、“战士（The Warrior）”、“武士（The Warrior）”、“噶尔（Gar）”、“疯炼金术士阿卡西斯（Arkasis the Mad Alchemist）”等，同样需要保持英文原名不变。
-
-* **火球** :  可能是最难应对的机制，BOSS会在房间内投掷火球，火球会落在玩家所在位置附近。尽可能避免接触到它们。如果你被火球击中，会有长时间的火焰伤害效果并持续一段时间，你需要通过治疗或清除来解除效果。
-
-在不久之后，首领会爆发并用扩散火焰AOE填满整个房间，当它达到顶峰时将会爆炸。你一定要离开它的范围，所以要快速找到空隙，否则你将会被秒杀。同时要注意避开其他boss的攻击。
-
-注意：若你是新手组练习机制，还不够快脱身的话，Mistform能帮助你存活。
-
-* **冰** :  这是一个非常简单的机制，但会让玩家的移动速度遭受可怕的减速。基本上，每个玩家都将遭受4次冰AOE攻击，并且每一秒都会在地上生成一次。如果你不动，那么这些攻击会全部叠在同一个地方，但是（如视频所示），如果你在你的角色周围画一个小圆圈，你就可以将它们放置在离团队其他成员较远的地方。不要像疯子一样四处乱跑，因为房间将被消耗完毕，这会给你的队友造成麻烦。
-
-这些攻击会使玩家受到冰属性伤害，并引发持续的冰属性DoT效果并减缓玩家速度，但和火属性一样可以被净化。其中的专有名词不进行翻译。
-
-过了一会儿，Boss 将会爆发，但不像火相位时会对整个房间造成伤害，这一次他只会震晕整个房间。你需要从这个震晕状态中挣脱出来。如果你已经被冻住了，你会承受额外的伤害，所以要小心。
-
-* **小兵和光束** :  战斗中，两侧会出现三个小兵（Boss的小型版本）。在第一部分，房间里只有一个小兵，当体力降至65%及以下时，你会在房间里出现两个小兵，当体力降至25-30%以下时，最多会出现3个小兵！
-
-每个活着的人都可以放置一个与指向房间内随机玩家的光束相连的移动AOE。这是定期发生的，但也可能对你的团队产生巨大的负担，因为在远离群体的同时你必须确保不要让它穿过人群，或者同时被冰缓慢，否则它将捉住你。其中 Len 、Exarch Kraglen、The Warrior 和 Arkasis the Mad Alchemist 均为专有名词，不予翻译。"En" 在此处无法确定具体指代何物，无法准确翻译。"Barrier" 可翻译为"屏障"。"Werewolf" 可翻译为"狼人"。"Gar" 可翻译为"噶尔"。
-
-从技术上讲，你只需要让它远离小队，直到它消失，然后再回来。如果它击中人物，他们将在其作用期内非常快地失去资源。然而，（这很少见）如果你的小队完全支持资源恢复，你实际上可以站在里面而忽略它，但你需要大量恢复和治疗。
-
-如果你击杀了这些小兵，它们会暂时离开并停止攻击，但它们很快会复活。
-
-攻略翻译如下：所以诀窍是先杀小喽啰，然后回到首领处杀小喽啰，再回到首领处，反复如此。
-
-记住，在房间里，生命值越低，添加物就越多，所以一定要保存你的终极技能。
-
-* **震撼的眩晕** :  当首领的生命值降低并且第三个小怪出现时，你将开始受到闪电眩晕。如果你有注意到，这可以完全避免。每个玩家的脚下都会出现一个小圆圈。两秒后它会爆炸并使其眩晕。简单地使用格挡就可以避免被眩晕。
-
-快学会这种机制，因为如果你在小怪的光束攻击下不断被晕眩和减速，你的资源将会耗尽，最终你将会死在房间中央，无处可去。注意避免。在这里Gar会向玩家介绍一个新机制，可以通过执行该机制来避免被小怪拖垮。
-
-逐个理解每个机制，了解如何应对，并且最重要的是，准备一些清除技能。
-
-注：如上所述，困难模式拥有更多的生命值，并且从机制和受到的伤害来看更加惩罚性，此外，小怪的生命值也更多。在非困难模式中，这是相同的战斗，但时间更短！
-
-
-
-
-
 
 
 
 
 <eng>
 
+> EXARCH KRAGLEN
+> 
+> 
+> ** EXARCH KRAGLEN **
+> 
+> This boss is pretty simple to understand but requires some heavy basic mechanics to be able to pass. If you are complacent with interrupts and blocks and also positioning, you will struggle. if not, he is quite easy.
+> 
+> Hold him in the middle of the room at all times and do NOT run away like a wuss. You need to be close to him unless the mechanics make you do otherwise.
+> 
+> On NON hardmode you will have a lot less mechanics to deal with but basics are the same and he will have a LOT less health.
+> 
+> **Heavy attack** - This should only ever be on the tank and is as simple as 'block it or die'.
+> 
+> **Swipe** - The boss will swipe multiple times at whoever has aggro (should be the tank) much like the thousand cuts from the warrior in Hel Ra Citadel. The basic resolve for this one is be sure to BLOCK it. If you are a dps/healer and for whatever reason this is on you, be sure to dodge it. Tanks should be able to stand up to it though with a simple block
+> 
+> **Break!** - USUALLY but not always (his rotation can alter slightly) after his second SWIPE attack, he will have a bursting break free like attack which will knock everyone backwards and stun them. Then he will channel and hurt the group in aoe. This is pretty simple, break free first of all, and then interrupt him as fast as possible.
+> 
+> NOTE: On hardmode you will be hit with a huge debuff and resources drain if you do not follow this clearly, and each failed attempt will stack debuffs.
+> 
+> When you KNOW the attack is coming everyone MUST BLOCK! If you block it you negate the placed debuff, then you need to interrupt him fast to prevent any more danger. This will take some time to master but if one person fails, you all get the debuff. This is explained and demonstrated in the video.
+> 
+> **STOMP!** - After the break and interrupt mechanic he will stop the ground. You MUST get out of this! BUT you also MUST get back close to the boss as soon as it is finished.
+> 
+> **Charge** - If you are too far away from the boss he will charge at you and knock you over! Following the above mechanic if you get back into your position fast, you will NEVER see this. However, if you take too long to ge back into position, you will be in trouble. This mechanic is designed to keep you close. Pay attention and don't get caught, it is crucial that you reposition as fast as possible after the stop ESPECIALLY in hard mode.
+> 
+> **Quake Attacks** - After the stomp mechanic the boss will have ground based quake like attacks coming out of the floor. Avoid these if you CAN but of course heavy heals will be able to negate the damage. However, each time you stand in any of this stuff you will get a resistance/mitigation debuff, meaning any damage that hits you will hit harder. These especially on hardmode can STACK for the duration of the whole fight and will cause you problems if you avoid the basics.
+> 
+> If you have these debuffs, don't panic but do NOT get caught by any stomp or charge mechanics because you will NOT live. The tank should be able to take about 3-4 debuffs of this before anything really bad happens from basic attacks so be sure to bring plenty of heals OR simply watch your feet.
+> 
+> Remember it is crucial regardless of mechanics that you do not resort to running around the room because he WILL charge.
+> 
+> 
+> 
+> STONE BEHEMOTH
+> 
+> 
+> ** STONE BEHEMOTH **
+> 
+> This boss is very simple with 3 or 4 major mechanics but if you don't pay attention to them and run around like a headless chicken they will overwhelm you fast. Clean mechanics and focus is key!
+> 
+> On Hardmode he has a LOT less health and the mechanics are a lot less punishing, to the point you can almost stand in them but i would not recommend it. Following the basic mechanics can make hard mode as simple as non hardmode so just a matter of practice.
+> 
+> **Heavy attack** - Very simple, the boss fires off a HUGE heavy attack at the tank, block it or die. If it hits a dps they must dodge it or THEY will die. This should always be on the tank so maintain your taunts!
+> 
+> **lightning** - The boss will punch the floor a couple of times and when he does, there will be a lightning AOE under each player. Do not stack together else these will cause more damage from overlapping. The way to mitigate the effect is to simply BLOCK when you see him put his hand to the ground. It's quite fast so can take a little practice.
+> 
+> **FIRE!!!** - Probably the hardest mechanic, the boss will throw fire balls around the room and they will land where players are or are close to. Try to avoid these as much as possible. If you get hit by them you will have a long duration fire damage over time effect on you and you WILL have to either heal through it or cleanse it.
+> 
+> After a short while the boss will erupt and fill the whole room with a spreading fire AOE which will explode when it peaks. You MUST be out of this so find a gap fast or you WILL take a huge one shot.
+> 
+> NOTE: Mistform can help you survive this if you are a new group practicing the mechanic and not fast enough to get out.
+> 
+> **ICE!** - This is a very simple mechanic but adds a nasty movement speed snare to the players. Basically you will have 4x ice AOEs hit each player and they will be placed on the ground once a second. If you stand still of course they will stack all in the same place, but (as shown in the video) if you make a tiny circle with your character you will place them nicely on the ground away from other members of the group. Don't run around like crazy because the room will be consumed in it and it will make a mess for your team mates.
+> 
+> The ice damage from these will cause a long duration ice damage over time effect on individual players while slowing them down, but like the fire, CAN be cleansed.
+> 
+> After a short while the boss will erupt but unlike the fire phase he will simply stun the whole room. You need to break free from this. If you have ice effects on you already you will take additional damage so be careful.
+> 
+> **Adds and beams!** - During the fight there are 3 adds on the sides (smaller versions of the boss) for the first part you will only ever have one present in the room, after 65% ish and lower you will have up to TWO in the room and under 25-30% you will have a maximum of 3!
+> 
+> Each one alive can place a moving AOE attached to a beam aiming at random players in the room. This is periodic but also can be a BIG burden on your team because while kiting it away form the group you have to be sure to not run it through people, OR be snared by ice at the same time or it will catch you.
+> 
+> Technically all you need to do is keep it away from the group until it is gone and then come back in. If it hits people they will lose resources pretty fast during its time on them. However, (and this is quite rare) if your group is FULL of group supporting resource recovery you can actually stand in it and ignore it, BUT you will require a LOT of recovery and a LOT of healing.
+> 
+> If you kill the adds they will sit down and that threat will be gone, but they will be up again soon.
+> 
+> So the trick is to kill the add, then move back to the boss, kill the add, move back to the boss, and so on.
+> 
+> Remember the lower the health the more adds in the room so be sure to save your ultimates.
+> 
+> **Shocking stuns!** - When the boss is low health and the 3rd add is introduced to the fight you will start to get stunned by lightning. This can be 100% avoided if you are paying attention. Each player will see a small circle under their feet. After two seconds it will pop and stun them. Simply BLOCK until it is over and you won't be stunned.
+> 
+> Learn this mechanic fast, because if you keep getting stunned and snared while the beams from the adds are on you, you are going to run OUT of resources and you will die in the middle of the room with no where to go.
+> 
+> Learn each mechanic individually, be aware of how to approach them and above all, bring some cleanses.
+> 
+> NOTE: as mentioned above, Hardmode has a lot more health and is more punishing mechanics wise and damage incoming, also the adds have more health. On non hardmode it is the same fight but a lot shorter!
+> 
+> 
+> 
 > ARKASIS THE MAD ALCHEMIST
 > 
 > 
@@ -374,86 +454,6 @@ While transformed into a Werewolf, you will have access to these skills and an a
 > Final note: While this fight is tricky, split it up into 3 phases, fire, poison, lightning. Master each one individually and you will complete it in no time. Be sure to watch your feet, and above all, understand that this is NOT a dps race. You can take as long as you like so long as your mechanics are clean. This is one of the tougher hard modes so it will take a few runs to get it right.
 > 
 > Good luck!!!
-> 
-> 
-> 
-> EXARCH KRAGLEN
-> 
-> 
-> ** EXARCH KRAGLEN **
-> 
-> This boss is pretty simple to understand but requires some heavy basic mechanics to be able to pass. If you are complacent with interrupts and blocks and also positioning, you will struggle. if not, he is quite easy.
-> 
-> Hold him in the middle of the room at all times and do NOT run away like a wuss. You need to be close to him unless the mechanics make you do otherwise.
-> 
-> On NON hardmode you will have a lot less mechanics to deal with but basics are the same and he will have a LOT less health.
-> 
-> **Heavy attack** - This should only ever be on the tank and is as simple as 'block it or die'.
-> 
-> **Swipe** - The boss will swipe multiple times at whoever has aggro (should be the tank) much like the thousand cuts from the warrior in Hel Ra Citadel. The basic resolve for this one is be sure to BLOCK it. If you are a dps/healer and for whatever reason this is on you, be sure to dodge it. Tanks should be able to stand up to it though with a simple block
-> 
-> **Break!** - USUALLY but not always (his rotation can alter slightly) after his second SWIPE attack, he will have a bursting break free like attack which will knock everyone backwards and stun them. Then he will channel and hurt the group in aoe. This is pretty simple, break free first of all, and then interrupt him as fast as possible.
-> 
-> NOTE: On hardmode you will be hit with a huge debuff and resources drain if you do not follow this clearly, and each failed attempt will stack debuffs.
-> 
-> When you KNOW the attack is coming everyone MUST BLOCK! If you block it you negate the placed debuff, then you need to interrupt him fast to prevent any more danger. This will take some time to master but if one person fails, you all get the debuff. This is explained and demonstrated in the video.
-> 
-> **STOMP!** - After the break and interrupt mechanic he will stop the ground. You MUST get out of this! BUT you also MUST get back close to the boss as soon as it is finished.
-> 
-> **Charge** - If you are too far away from the boss he will charge at you and knock you over! Following the above mechanic if you get back into your position fast, you will NEVER see this. However, if you take too long to ge back into position, you will be in trouble. This mechanic is designed to keep you close. Pay attention and don't get caught, it is crucial that you reposition as fast as possible after the stop ESPECIALLY in hard mode.
-> 
-> **Quake Attacks** - After the stomp mechanic the boss will have ground based quake like attacks coming out of the floor. Avoid these if you CAN but of course heavy heals will be able to negate the damage. However, each time you stand in any of this stuff you will get a resistance/mitigation debuff, meaning any damage that hits you will hit harder. These especially on hardmode can STACK for the duration of the whole fight and will cause you problems if you avoid the basics.
-> 
-> If you have these debuffs, don't panic but do NOT get caught by any stomp or charge mechanics because you will NOT live. The tank should be able to take about 3-4 debuffs of this before anything really bad happens from basic attacks so be sure to bring plenty of heals OR simply watch your feet.
-> 
-> Remember it is crucial regardless of mechanics that you do not resort to running around the room because he WILL charge.
-> 
-> 
-> 
-> STONE BEHEMOTH
-> 
-> 
-> ** STONE BEHEMOTH **
-> 
-> This boss is very simple with 3 or 4 major mechanics but if you don't pay attention to them and run around like a headless chicken they will overwhelm you fast. Clean mechanics and focus is key!
-> 
-> On Hardmode he has a LOT less health and the mechanics are a lot less punishing, to the point you can almost stand in them but i would not recommend it. Following the basic mechanics can make hard mode as simple as non hardmode so just a matter of practice.
-> 
-> **Heavy attack** - Very simple, the boss fires off a HUGE heavy attack at the tank, block it or die. If it hits a dps they must dodge it or THEY will die. This should always be on the tank so maintain your taunts!
-> 
-> **lightning** - The boss will punch the floor a couple of times and when he does, there will be a lightning AOE under each player. Do not stack together else these will cause more damage from overlapping. The way to mitigate the effect is to simply BLOCK when you see him put his hand to the ground. It's quite fast so can take a little practice.
-> 
-> **FIRE!!!** - Probably the hardest mechanic, the boss will throw fire balls around the room and they will land where players are or are close to. Try to avoid these as much as possible. If you get hit by them you will have a long duration fire damage over time effect on you and you WILL have to either heal through it or cleanse it.
-> 
-> After a short while the boss will erupt and fill the whole room with a spreading fire AOE which will explode when it peaks. You MUST be out of this so find a gap fast or you WILL take a huge one shot.
-> 
-> NOTE: Mistform can help you survive this if you are a new group practicing the mechanic and not fast enough to get out.
-> 
-> **ICE!** - This is a very simple mechanic but adds a nasty movement speed snare to the players. Basically you will have 4x ice AOEs hit each player and they will be placed on the ground once a second. If you stand still of course they will stack all in the same place, but (as shown in the video) if you make a tiny circle with your character you will place them nicely on the ground away from other members of the group. Don't run around like crazy because the room will be consumed in it and it will make a mess for your team mates.
-> 
-> The ice damage from these will cause a long duration ice damage over time effect on individual players while slowing them down, but like the fire, CAN be cleansed.
-> 
-> After a short while the boss will erupt but unlike the fire phase he will simply stun the whole room. You need to break free from this. If you have ice effects on you already you will take additional damage so be careful.
-> 
-> **Adds and beams!** - During the fight there are 3 adds on the sides (smaller versions of the boss) for the first part you will only ever have one present in the room, after 65% ish and lower you will have up to TWO in the room and under 25-30% you will have a maximum of 3!
-> 
-> Each one alive can place a moving AOE attached to a beam aiming at random players in the room. This is periodic but also can be a BIG burden on your team because while kiting it away form the group you have to be sure to not run it through people, OR be snared by ice at the same time or it will catch you.
-> 
-> Technically all you need to do is keep it away from the group until it is gone and then come back in. If it hits people they will lose resources pretty fast during its time on them. However, (and this is quite rare) if your group is FULL of group supporting resource recovery you can actually stand in it and ignore it, BUT you will require a LOT of recovery and a LOT of healing.
-> 
-> If you kill the adds they will sit down and that threat will be gone, but they will be up again soon.
-> 
-> So the trick is to kill the add, then move back to the boss, kill the add, move back to the boss, and so on.
-> 
-> Remember the lower the health the more adds in the room so be sure to save your ultimates.
-> 
-> **Shocking stuns!** - When the boss is low health and the 3rd add is introduced to the fight you will start to get stunned by lightning. This can be 100% avoided if you are paying attention. Each player will see a small circle under their feet. After two seconds it will pop and stun them. Simply BLOCK until it is over and you won't be stunned.
-> 
-> Learn this mechanic fast, because if you keep getting stunned and snared while the beams from the adds are on you, you are going to run OUT of resources and you will die in the middle of the room with no where to go.
-> 
-> Learn each mechanic individually, be aware of how to approach them and above all, bring some cleanses.
-> 
-> NOTE: as mentioned above, Hardmode has a lot more health and is more punishing mechanics wise and damage incoming, also the adds have more health. On non hardmode it is the same fight but a lot shorter!
 > 
 > 
 > 

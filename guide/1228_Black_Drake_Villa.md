@@ -4,89 +4,6 @@
 
 
 
-### 哨兵阿克萨拉兹
-
-> SENTINEL AKSALAZ
-
-
-**哨兵阿克萨拉兹 (超级秘密BOSS) |cffff00**
-
-这个boss是超级秘密的boss，只有在你完成了所有秘密的boss之后才能激活！
-
-这个常规版本的首领需要在此之前击败3个秘密首领。这个首领的困难模式版本需要在此之前击败所有秘密首领和所有的困难模式！
-
-每个人必须在副本结束时拥有25个[Wisps]，并将它们存入最后BOSS房间后面的雕像中，或者整个小组合计100个。激活雕像后，[Kinras Ironeye]将出现。
-
-最后一个转折。如果你失败了这个boss 5次......他将会消失。注意观察，不要让他逃掉！
-
-这个Boss需要尽可能保持静止以减少混乱，坦克需要时刻将其转向远离队伍！它攻击非常强，所以要带上治疗！
-
-* **重击** :  想象一下你曾经见过的所有重击，然后将它们全部结合在一起。格挡它，否则你将被传送到死亡堆里！
-
-在困难模式下，这会对被攻击目标造成巨大的持续伤害效果，你必须带来强大的治疗才能抵抗。
-
-* **冰通道尖刺** : 老板会把他的剑插入地面并释放冰元素Aoe，会在每个玩家下方生成。注意躲避，以免这些AOE在你下面爆炸。每个玩家将有3个这样的AOE在他们的下方出现，然后老板将停止放置。如果你被击中，基本上就会死亡，所以请小心。
-
-在困难模式中，这个技能会对被攻击的目标造成很大的持续伤害效果，你必须为此提供强大的治疗。
-
-* **冰霜挥舞** :  这是一个前方、多次攻击、移动AOE技能，所以除了坦克之外，任何人都不应该在附近！
-
-在困难模式下，此技能可以对目标造成巨大的持续伤害效果，你必须为此带来强大的治疗。
-
-* **霜魔虫魔** :  它们一个接一个进入房间（在困难模式下，每次两只）并且必须被视为您的主要目标。让它们留在房间里杀人是愚蠢的。消灭它们。这个boss没有“DPS检测”，所以打boss的时间可以任意延长，但你必须消灭小兵。
-
-* **冰彗星** :  随机的玩家身上将有一个巨大的范围AOE。当它达到最大范围时，一颗冰彗星会落在他们的头上。这必须在一个安全的地方用格挡来避免，并且不能与其他玩家叠加。在整个战斗中，越来越多的玩家将会同时收到这些攻击，它们绝不能重叠。
-
-当血量低于25%时，处于困难模式下，4名玩家每阶段将拥有一个冰彗星，留意你的脚下，每个人都必须格挡自己的彗星，没人应该重叠。
-
-* **秘密Boss** :  之前你在地牢中打斗的Boss现在出来玩了！他们会像之前一样拥有全部的机制，但现在你必须和其他的所有东西在同一个房间内应对。这很简单，坦克需要吸引并控制小Boss和主Boss，并始终将他们的面向转向远离你。
-
-每个Boss的出现时间取决于你杀死前一个Boss的速度（如果你攻击过猛，有可能它还在执行某些机制）。
-
-游戏
-
-第一个Boss将在85％时出现。
-
-游戏
-第二个Boss将在60%时出现。
-
-最后的Boss将在剩余血量35%时出现。
-
-你的主要注意力仍然应该放在房间里的小鬼上，但是如果没有小鬼，你必须把注意力集中在副本中的小首领上，而不是主首领。你不想一下子就把主首领打爆了，却有两个小首领在房间里。
-
-把它简单化，别做蠢事。
-
-* **旋风** :  首领会在房间内释放旋风，顺时针旋转，你需要贴着边缘并且避开它们。与此同时，房间的中心会爆炸冰块，所以你不能待在那里。
-
-寻找一个缺口，在圆圈里跑一圈，等结束后再返回！
-
-注意：作为坦克，确保保持嘲讽。大多数团队在这里失败是因为当战斗结束时boss逃脱了。集中注意力！
-
-* **没有位置了（执行阶段）** :  在25%以下是“执行”阶段。基本上规则相同，没有种族......你不必让这个阶段变得快速，保持你的机制干净并且不要着急。即使你的DPS降到了1k，只要你不死，你仍然可以杀死boss！
-
-基本上房间外部覆盖着冰，整个房间除了中间很小的部分之外都是禁止区域。在这里他将继续进行基本机制。冰彗星、恶魔、冰通道/尖刺等所有内容都是一样的，但空间有限。
-
-同时，你不仅会受到boss的正面范围攻击，还会不断地从两侧飞来，你必须注意脚下并找到空隙躲避。
-
-在这里，你要重复使用机制直到敌人死亡。无论需要多长时间都可以！
-
-提示：在困难模式下的最后，你将面对4个冰陨石。你不能叠在一起，必须快速找到一个角落躲避（视频演示），合理使用格挡，然后像平常一样继续战斗。注意，小鬼仍然比首领更优先被击败。
-
-这是一篇"Elder Scrolls Online"游戏攻略。
-
-1. 开始任务后，你将与维格会面。他将指引你前往扎城。
-2. 在扎城，你将需要会见恩先生。他会告诉你前往金拉斯·铁眼手下咆哮的营地。
-3. 在那里，使用时间静止技能并消灭咆哮和他的部队。
-4. 接下来你需要分别与维格和活力之石合作，把队长杰米诺斯和哨兵阿克萨拉兹从哨兵城救出来。
-5. 在阿蒂的办公室，她被派罗图格·恩克拉迪斯控制了。你需要消灭他并救出阿蒂。
-6. 然后你需要前往侍灵之地并消灭阿克和他的龙。
-7. 最终你需要前往血根熔炉并消灭维拉和她的随从。
-8. 祝你好运！
-
-
-
-
-
 ### Black Drake Villa的翻译为“黑龙别墅”。
 
 > AVATAR OF ZAL
@@ -330,79 +247,95 @@
 
 
 
+### 哨兵阿克萨拉兹
+
+> SENTINEL AKSALAZ
+
+
+**哨兵阿克萨拉兹 (超级秘密BOSS) |cffff00**
+
+这个boss是超级秘密的boss，只有在你完成了所有秘密的boss之后才能激活！
+
+这个常规版本的首领需要在此之前击败3个秘密首领。这个首领的困难模式版本需要在此之前击败所有秘密首领和所有的困难模式！
+
+每个人必须在副本结束时拥有25个[Wisps]，并将它们存入最后BOSS房间后面的雕像中，或者整个小组合计100个。激活雕像后，[Kinras Ironeye]将出现。
+
+最后一个转折。如果你失败了这个boss 5次......他将会消失。注意观察，不要让他逃掉！
+
+这个Boss需要尽可能保持静止以减少混乱，坦克需要时刻将其转向远离队伍！它攻击非常强，所以要带上治疗！
+
+* **重击** :  想象一下你曾经见过的所有重击，然后将它们全部结合在一起。格挡它，否则你将被传送到死亡堆里！
+
+在困难模式下，这会对被攻击目标造成巨大的持续伤害效果，你必须带来强大的治疗才能抵抗。
+
+* **冰通道尖刺** : 老板会把他的剑插入地面并释放冰元素Aoe，会在每个玩家下方生成。注意躲避，以免这些AOE在你下面爆炸。每个玩家将有3个这样的AOE在他们的下方出现，然后老板将停止放置。如果你被击中，基本上就会死亡，所以请小心。
+
+在困难模式中，这个技能会对被攻击的目标造成很大的持续伤害效果，你必须为此提供强大的治疗。
+
+* **冰霜挥舞** :  这是一个前方、多次攻击、移动AOE技能，所以除了坦克之外，任何人都不应该在附近！
+
+在困难模式下，此技能可以对目标造成巨大的持续伤害效果，你必须为此带来强大的治疗。
+
+* **霜魔虫魔** :  它们一个接一个进入房间（在困难模式下，每次两只）并且必须被视为您的主要目标。让它们留在房间里杀人是愚蠢的。消灭它们。这个boss没有“DPS检测”，所以打boss的时间可以任意延长，但你必须消灭小兵。
+
+* **冰彗星** :  随机的玩家身上将有一个巨大的范围AOE。当它达到最大范围时，一颗冰彗星会落在他们的头上。这必须在一个安全的地方用格挡来避免，并且不能与其他玩家叠加。在整个战斗中，越来越多的玩家将会同时收到这些攻击，它们绝不能重叠。
+
+当血量低于25%时，处于困难模式下，4名玩家每阶段将拥有一个冰彗星，留意你的脚下，每个人都必须格挡自己的彗星，没人应该重叠。
+
+* **秘密Boss** :  之前你在地牢中打斗的Boss现在出来玩了！他们会像之前一样拥有全部的机制，但现在你必须和其他的所有东西在同一个房间内应对。这很简单，坦克需要吸引并控制小Boss和主Boss，并始终将他们的面向转向远离你。
+
+每个Boss的出现时间取决于你杀死前一个Boss的速度（如果你攻击过猛，有可能它还在执行某些机制）。
+
+游戏
+
+第一个Boss将在85％时出现。
+
+游戏
+第二个Boss将在60%时出现。
+
+最后的Boss将在剩余血量35%时出现。
+
+你的主要注意力仍然应该放在房间里的小鬼上，但是如果没有小鬼，你必须把注意力集中在副本中的小首领上，而不是主首领。你不想一下子就把主首领打爆了，却有两个小首领在房间里。
+
+把它简单化，别做蠢事。
+
+* **旋风** :  首领会在房间内释放旋风，顺时针旋转，你需要贴着边缘并且避开它们。与此同时，房间的中心会爆炸冰块，所以你不能待在那里。
+
+寻找一个缺口，在圆圈里跑一圈，等结束后再返回！
+
+注意：作为坦克，确保保持嘲讽。大多数团队在这里失败是因为当战斗结束时boss逃脱了。集中注意力！
+
+* **没有位置了（执行阶段）** :  在25%以下是“执行”阶段。基本上规则相同，没有种族......你不必让这个阶段变得快速，保持你的机制干净并且不要着急。即使你的DPS降到了1k，只要你不死，你仍然可以杀死boss！
+
+基本上房间外部覆盖着冰，整个房间除了中间很小的部分之外都是禁止区域。在这里他将继续进行基本机制。冰彗星、恶魔、冰通道/尖刺等所有内容都是一样的，但空间有限。
+
+同时，你不仅会受到boss的正面范围攻击，还会不断地从两侧飞来，你必须注意脚下并找到空隙躲避。
+
+在这里，你要重复使用机制直到敌人死亡。无论需要多长时间都可以！
+
+提示：在困难模式下的最后，你将面对4个冰陨石。你不能叠在一起，必须快速找到一个角落躲避（视频演示），合理使用格挡，然后像平常一样继续战斗。注意，小鬼仍然比首领更优先被击败。
+
+这是一篇"Elder Scrolls Online"游戏攻略。
+
+1. 开始任务后，你将与维格会面。他将指引你前往扎城。
+2. 在扎城，你将需要会见恩先生。他会告诉你前往金拉斯·铁眼手下咆哮的营地。
+3. 在那里，使用时间静止技能并消灭咆哮和他的部队。
+4. 接下来你需要分别与维格和活力之石合作，把队长杰米诺斯和哨兵阿克萨拉兹从哨兵城救出来。
+5. 在阿蒂的办公室，她被派罗图格·恩克拉迪斯控制了。你需要消灭他并救出阿蒂。
+6. 然后你需要前往侍灵之地并消灭阿克和他的龙。
+7. 最终你需要前往血根熔炉并消灭维拉和她的随从。
+8. 祝你好运！
+
+
+
+
+
 
 
 
 
 <eng>
 
-> SENTINEL AKSALAZ
-> 
-> 
-> ** SENTINEL AKSALAZ (SUPER SECRET BOSS) |cffff00**
-> 
-> This boss is the SUPER secret boss and can ONLY be activated if you have completed ALL secret bosses!
-> 
-> The regular version of the boss requires the 3 secret bosses prior to this. The hard mode version of this boss requires ALL secrets and ALL hard modes before this!
-> 
-> You each must have 25 wisps at the end of the dungeon to deposit into the statue at the back of the last boss room, OR have 100 combined for the entire group. Once you activate the statue he will appear.
-> 
-> One final twist. If you fail this boss 5 times...he will disappear. Pay attention and don't let him get away !
-> 
-> This boss needs to be kept as STILL as possible to lay off some of the crazy in here, and the tank needs to turn it away from the group at ALL times! He hits HARD, bring heals!
-> 
-> **Heavy Attack** - Imagine every heavy attack you have ever seen, and put them all together. BLOCK this or be teleported to the dead pile!
-> 
-> On Hard Mode this puts a HUGE damage over time effect on the targets hit by it, you MUST bring big heals for this.
-> 
-> **Ice Channel/Spikes** - The boss will put his sword into the ground and channel ice AOEs that will spawn under each player. Move your feet so they don't burst under you. Each player will have 3 of these pop from under them then he will stop. If you get hit you are basically dead so be careful.
-> 
-> On Hard Mode this puts a HUGE damage over time effect on the targets hit by it, you MUST bring big heals for this.
-> 
-> **Ice Swing** - This is a frontal, multiple hit, moving aoe ability so NO ONE but the tank should be anywhere near this!
-> 
-> On Hard Mode this puts a HUGE damage over time effect on the targets hit by it, you MUST bring big heals for this.
-> 
-> **Frostkins/Banekins** - These come in the room one at a time (two at a time on hard mode) and MUST be considered your PRIMARY targets. Leaving these in the room to kill people is silly. Kill them. The boss has NO 'DPS CHECK' so take as long as you like on the boss, but you must kill the minions.
-> 
-> **Ice Comets** - Random players will have a HUGE spreading AOE on them. When it reaches maximum an Ice Comet will land on their head. This must be BLOCKED in a SAFE place and NOT stacked on any other players. Throughout the fight more and more players will get these at once and they must NEVER overlap.
-> 
-> On Hard Mode at 25% health and under all 4x players will have an Ice Comet each per phase, watch your feet, everyone must block their own comet and NO ONE should overlap.
-> 
-> **Secret Bosses!** - The bosses you fought in the dungeon before come out to play! They have their FULL mechanics like they did before but they are in the room with everything else you have to deal with. This is simple. The tank needs to grab the mini boss and the main boss and keep them turned away at ALL times.
-> 
-> Each boss will come in at health percentages depending on how fast you are killing the boss (he could be mid mechanics at the moment and you can over nuke it).
-> 
-> The first boss will come in at 85%
-> 
-> The second boss will come in at 60%
-> 
-> and the last boss will come in at 35%
-> 
-> Your primary focus is are still the Banekins if they are in the room but if there are NO Banekins you MUST focus the mini boss over the main one. You do NOT want to over nuke the boss and have TWO mini bosses in the room.
-> 
-> Keep it simple, don't be stupid.
-> 
-> **Whirlwinds!** - The boss will cast whirl winds around the room that spin in an anit-clockwise rotation and you need to stick to the edges and run around without being caught by them. At the same time the middle of the room is going to explode in ice so you must NOT be in there.
-> 
-> Find a gap, run around in a circle, and come back in when it is all over!
-> 
-> NOTE: Make sure as a tank you maintain a taunt. Most groups wipe here because when it is all over the boss is loose. Focus!
-> 
-> **There is NO ROOM! (Execute Phase)** - 25% and under it is the 'execute' phase. Basically the same rules apply, there is NO race...you do NOT have to make this a FAST phase, take your time and keep your mechanics clean. Even if you are down to 1k dps you can still kill the boss if you are not dead!
-> 
-> Basically the outside of the room is covered in ice and the whole room is a no go area apart from the very middle. Here he will continue his basic mechanics. Ice Comets, Banekins, Ice Channel/spikes, everything is the same, but the space is limited.
-> 
-> At the same time, you will not only have the frontal aoe ice attack from the boss but it will be constantly flying in from the sides too and you MUST watch your feet and get in the gaps.
-> 
-> Here you literally rinse repeat mechanics until he is dead. However long it takes!
-> 
-> TIP: On hardmode at the END you will have 4x Ice Comets. You must NOT stack, find a corner each quickly (demonstrated in the video), block, and then carry on as normal. Note the Banekins STILL take priority over the boss.
-> 
-> GOOD LUCK!!!
-> 
-> 
-> 
 > AVATAR OF ZAL
 > 
 > 
@@ -600,6 +533,73 @@
 > TIPS: You can turn OFF the Firestorm and Flaming Vortex mechanics by activating your Ice synergy during it and of course kill flaming ghosts, or stun the boss and Behemoth depending on which stage you are at. This can also be timed to STOP him from activating it! So plan your use of that buff with your group for maximum effectiveness!
 > 
 > If you can full absorb the mechanics, you can actually spend more time hitting a sitting duck than jumping around the room. it will take a little practice though.
+> 
+> 
+> 
+> SENTINEL AKSALAZ
+> 
+> 
+> ** SENTINEL AKSALAZ (SUPER SECRET BOSS) |cffff00**
+> 
+> This boss is the SUPER secret boss and can ONLY be activated if you have completed ALL secret bosses!
+> 
+> The regular version of the boss requires the 3 secret bosses prior to this. The hard mode version of this boss requires ALL secrets and ALL hard modes before this!
+> 
+> You each must have 25 wisps at the end of the dungeon to deposit into the statue at the back of the last boss room, OR have 100 combined for the entire group. Once you activate the statue he will appear.
+> 
+> One final twist. If you fail this boss 5 times...he will disappear. Pay attention and don't let him get away !
+> 
+> This boss needs to be kept as STILL as possible to lay off some of the crazy in here, and the tank needs to turn it away from the group at ALL times! He hits HARD, bring heals!
+> 
+> **Heavy Attack** - Imagine every heavy attack you have ever seen, and put them all together. BLOCK this or be teleported to the dead pile!
+> 
+> On Hard Mode this puts a HUGE damage over time effect on the targets hit by it, you MUST bring big heals for this.
+> 
+> **Ice Channel/Spikes** - The boss will put his sword into the ground and channel ice AOEs that will spawn under each player. Move your feet so they don't burst under you. Each player will have 3 of these pop from under them then he will stop. If you get hit you are basically dead so be careful.
+> 
+> On Hard Mode this puts a HUGE damage over time effect on the targets hit by it, you MUST bring big heals for this.
+> 
+> **Ice Swing** - This is a frontal, multiple hit, moving aoe ability so NO ONE but the tank should be anywhere near this!
+> 
+> On Hard Mode this puts a HUGE damage over time effect on the targets hit by it, you MUST bring big heals for this.
+> 
+> **Frostkins/Banekins** - These come in the room one at a time (two at a time on hard mode) and MUST be considered your PRIMARY targets. Leaving these in the room to kill people is silly. Kill them. The boss has NO 'DPS CHECK' so take as long as you like on the boss, but you must kill the minions.
+> 
+> **Ice Comets** - Random players will have a HUGE spreading AOE on them. When it reaches maximum an Ice Comet will land on their head. This must be BLOCKED in a SAFE place and NOT stacked on any other players. Throughout the fight more and more players will get these at once and they must NEVER overlap.
+> 
+> On Hard Mode at 25% health and under all 4x players will have an Ice Comet each per phase, watch your feet, everyone must block their own comet and NO ONE should overlap.
+> 
+> **Secret Bosses!** - The bosses you fought in the dungeon before come out to play! They have their FULL mechanics like they did before but they are in the room with everything else you have to deal with. This is simple. The tank needs to grab the mini boss and the main boss and keep them turned away at ALL times.
+> 
+> Each boss will come in at health percentages depending on how fast you are killing the boss (he could be mid mechanics at the moment and you can over nuke it).
+> 
+> The first boss will come in at 85%
+> 
+> The second boss will come in at 60%
+> 
+> and the last boss will come in at 35%
+> 
+> Your primary focus is are still the Banekins if they are in the room but if there are NO Banekins you MUST focus the mini boss over the main one. You do NOT want to over nuke the boss and have TWO mini bosses in the room.
+> 
+> Keep it simple, don't be stupid.
+> 
+> **Whirlwinds!** - The boss will cast whirl winds around the room that spin in an anit-clockwise rotation and you need to stick to the edges and run around without being caught by them. At the same time the middle of the room is going to explode in ice so you must NOT be in there.
+> 
+> Find a gap, run around in a circle, and come back in when it is all over!
+> 
+> NOTE: Make sure as a tank you maintain a taunt. Most groups wipe here because when it is all over the boss is loose. Focus!
+> 
+> **There is NO ROOM! (Execute Phase)** - 25% and under it is the 'execute' phase. Basically the same rules apply, there is NO race...you do NOT have to make this a FAST phase, take your time and keep your mechanics clean. Even if you are down to 1k dps you can still kill the boss if you are not dead!
+> 
+> Basically the outside of the room is covered in ice and the whole room is a no go area apart from the very middle. Here he will continue his basic mechanics. Ice Comets, Banekins, Ice Channel/spikes, everything is the same, but the space is limited.
+> 
+> At the same time, you will not only have the frontal aoe ice attack from the boss but it will be constantly flying in from the sides too and you MUST watch your feet and get in the gaps.
+> 
+> Here you literally rinse repeat mechanics until he is dead. However long it takes!
+> 
+> TIP: On hardmode at the END you will have 4x Ice Comets. You must NOT stack, find a corner each quickly (demonstrated in the video), block, and then carry on as normal. Note the Banekins STILL take priority over the boss.
+> 
+> GOOD LUCK!!!
 > 
 > 
 > 

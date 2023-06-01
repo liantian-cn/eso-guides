@@ -4,40 +4,6 @@
 
 
 
-### 沃瑞亚的杰作
-
-> VORIA'S MASTERPIECE
-
-
-攻略翻译如下：
-**欧维亚的杰作：秘密BOSS #3**
-
-这个boss只有在你击败了前两个boss之后才能挑战。房间非常大，所以你有很多空间来作战，但这也是一个很好的理由。你将面对很多挑战。
-
-坦克应该集中精力让Boss尽可能地保持在中央，并使用中央拽钩作为枢轴点。始终将Boss背对着团队并且不要放开嘲讽。
-
-* **重型攻击** :  Boss偶尔会向坦克发动攻击。只需格挡这个攻击就可以了。
-
-* **跺脚** :  首领会跺地板，并在地面上放置一个巨大的持续伤害区域，通常在90％和40％左右。不要站在里面。每当他放置一个时，作为坦克，你应该在靠近或重叠但是在安全位置放置下一个准备好转移环绕点的中心。如果你散开得太远，这可能会导致房间被填满。
-
-在这里，你必须寻找一个安全的平台，并且使用抓钩技能避免受到爆炸伤害。一旦爆炸结束，你就可以回到中间区域继续游戏。其中 Blastbones（自爆干骨）和 Ondagore the Mad（疯狂的昂达戈尔）等BOSS在游戏中出现。注意避免被他们的攻击打败。
-
-* **骷髅** :  在踩踏之后，骨架将从AOE区域生成。会有几个小的骨架不是很难对付，可以通过被动AOE来消灭掉，但会出现有一个双手武器的骨架。如果你不杀死他，你会遇到麻烦。重叠的机制会影响你，人们可能会死亡。
-
-这个加成必须尽快被坦克嘲讽！它有一个非常强大的重型攻击，DPS/治疗师无法阻挡它，他们必须在被定位后闪避或死亡。
-
-* **加油** :  在战斗中，首领会猛击地面，造成地面产生范围伤害圈（需要避开），但同时大型史莱姆类型的敌人会生成。在战斗的早期阶段，它们的生命值相对较低而且多数会因为范围伤害而死亡，但随着战斗的进行它们变得越来越大！
-
-有些敌人的生命值能够高达11百万以上！
-
-你不需要试图造成1100万点的伤害来击败这些敌人。如果你使用铁钩穿过目标，它们就会分成两半。重复此过程，直到它们死亡。你也可以通过铁钩杀死它们。
-
-当然，如果你有高伤害和机械意识，你可以堆叠并燃烧boss，但如果按照机制进行操作，这对于拯救生命是十分重要的，因为情况可能会变得有些繁忙。
-
-
-
-
-
 ### 被遗忘者纳博尔
 
 > NABOR THE FORGOTTEN
@@ -288,6 +254,40 @@ When facing Hakgrym the Howler, you should be prepared for his powerful Cleave a
 
 
 
+### 沃瑞亚的杰作
+
+> VORIA'S MASTERPIECE
+
+
+攻略翻译如下：
+**欧维亚的杰作：秘密BOSS #3**
+
+这个boss只有在你击败了前两个boss之后才能挑战。房间非常大，所以你有很多空间来作战，但这也是一个很好的理由。你将面对很多挑战。
+
+坦克应该集中精力让Boss尽可能地保持在中央，并使用中央拽钩作为枢轴点。始终将Boss背对着团队并且不要放开嘲讽。
+
+* **重型攻击** :  Boss偶尔会向坦克发动攻击。只需格挡这个攻击就可以了。
+
+* **跺脚** :  首领会跺地板，并在地面上放置一个巨大的持续伤害区域，通常在90％和40％左右。不要站在里面。每当他放置一个时，作为坦克，你应该在靠近或重叠但是在安全位置放置下一个准备好转移环绕点的中心。如果你散开得太远，这可能会导致房间被填满。
+
+在这里，你必须寻找一个安全的平台，并且使用抓钩技能避免受到爆炸伤害。一旦爆炸结束，你就可以回到中间区域继续游戏。其中 Blastbones（自爆干骨）和 Ondagore the Mad（疯狂的昂达戈尔）等BOSS在游戏中出现。注意避免被他们的攻击打败。
+
+* **骷髅** :  在踩踏之后，骨架将从AOE区域生成。会有几个小的骨架不是很难对付，可以通过被动AOE来消灭掉，但会出现有一个双手武器的骨架。如果你不杀死他，你会遇到麻烦。重叠的机制会影响你，人们可能会死亡。
+
+这个加成必须尽快被坦克嘲讽！它有一个非常强大的重型攻击，DPS/治疗师无法阻挡它，他们必须在被定位后闪避或死亡。
+
+* **加油** :  在战斗中，首领会猛击地面，造成地面产生范围伤害圈（需要避开），但同时大型史莱姆类型的敌人会生成。在战斗的早期阶段，它们的生命值相对较低而且多数会因为范围伤害而死亡，但随着战斗的进行它们变得越来越大！
+
+有些敌人的生命值能够高达11百万以上！
+
+你不需要试图造成1100万点的伤害来击败这些敌人。如果你使用铁钩穿过目标，它们就会分成两半。重复此过程，直到它们死亡。你也可以通过铁钩杀死它们。
+
+当然，如果你有高伤害和机械意识，你可以堆叠并燃烧boss，但如果按照机制进行操作，这对于拯救生命是十分重要的，因为情况可能会变得有些繁忙。
+
+
+
+
+
 ### 卡尔纳尔·墓歌
 
 > KJALNAR TOMBSKALD
@@ -363,35 +363,6 @@ When facing Hakgrym the Howler, you should be prepared for his powerful Cleave a
 
 <eng>
 
-> VORIA'S MASTERPIECE
-> 
-> 
-> ** OVORIA'S MASTERPIECE: SECRET BOSS #3 **
-> 
-> This boss s ONLY able to be fought if you have killed the last two. The room is massive so you have a LOT of space but that is a a very good reason. There is going to be a lot to deal with.
-> 
-> The tank should focus on keeping the boss as central as possible and use the middle grapple hook as a pivot point. Keep the boss turned away from the group at all times and do NOT drop taunt.
-> 
-> **Heavy attack** - The boss will throw out a occasionally at the tank. Simply block this and you will be fine.
-> 
-> **Stomp!** - The boss will stamp the floor and place a huge damage over time aoe on the ground. Usually around 90% and 40%. Do NOT stand in this. Each time he places one, as the tank, you should shift around the grapple post pivot slightly ready to place the next one close to or overlapping it but in a safe space. If you spread out too much this can end up filling the room.
-> 
-> Here you must look for a SAFE platform and grapple to safety until the explosion is over. Once it has gone you can get back into the middle again.
-> 
-> **Skeletons** - After the stomp skeletons will spawn from the aoe sections. There will be a couple of small ones which are not really a problem and die to passive aoe, but there is ONE two hander. IF you do not kill him you are going to have problems. Overlapping mechanics will take over you and people will likely die.
-> 
-> This add must be taunted by the tank asap! He has a huge heavy attack and a dps/healer will not be able to block it, they must dodge roll if they are targeted or die.
-> 
-> **GOO!** - During the fight the boss will punch into the ground causing aoe circles to be placed on the ground (avoid these) but around the same time Large Ooze type enemies will spawn. These in the early stages will be fairly low health and mostly die to aoe damage, but as the fight goes on they get bigger and bigger!
-> 
-> Some end up with around 11m+ health!
-> 
-> You do NOT need to try to kill these doing 11million damage. If you grapple THROUGH the targets they will split in two. Making two smaller ones, rinse repeat till they are dead. You can physically kill them by grappling through them.
-> 
-> You can stack and burn the boss of course if you have high damage and mechanical awareness, but if following the mechanics, this can be a life saver as it can get a little hectic.
-> 
-> 
-> 
 > NABOR THE FORGOTTEN
 > 
 > 
@@ -601,6 +572,35 @@ When facing Hakgrym the Howler, you should be prepared for his powerful Cleave a
 > So, during this phase, stay behind the pillars, kill the ghosts, and then come back into the middle once it is all over.
 > 
 > NOTE: Mechanics CAN overlap so be careful. Some play risky, some play safe. What you do about that is up to you.
+> 
+> 
+> 
+> VORIA'S MASTERPIECE
+> 
+> 
+> ** OVORIA'S MASTERPIECE: SECRET BOSS #3 **
+> 
+> This boss s ONLY able to be fought if you have killed the last two. The room is massive so you have a LOT of space but that is a a very good reason. There is going to be a lot to deal with.
+> 
+> The tank should focus on keeping the boss as central as possible and use the middle grapple hook as a pivot point. Keep the boss turned away from the group at all times and do NOT drop taunt.
+> 
+> **Heavy attack** - The boss will throw out a occasionally at the tank. Simply block this and you will be fine.
+> 
+> **Stomp!** - The boss will stamp the floor and place a huge damage over time aoe on the ground. Usually around 90% and 40%. Do NOT stand in this. Each time he places one, as the tank, you should shift around the grapple post pivot slightly ready to place the next one close to or overlapping it but in a safe space. If you spread out too much this can end up filling the room.
+> 
+> Here you must look for a SAFE platform and grapple to safety until the explosion is over. Once it has gone you can get back into the middle again.
+> 
+> **Skeletons** - After the stomp skeletons will spawn from the aoe sections. There will be a couple of small ones which are not really a problem and die to passive aoe, but there is ONE two hander. IF you do not kill him you are going to have problems. Overlapping mechanics will take over you and people will likely die.
+> 
+> This add must be taunted by the tank asap! He has a huge heavy attack and a dps/healer will not be able to block it, they must dodge roll if they are targeted or die.
+> 
+> **GOO!** - During the fight the boss will punch into the ground causing aoe circles to be placed on the ground (avoid these) but around the same time Large Ooze type enemies will spawn. These in the early stages will be fairly low health and mostly die to aoe damage, but as the fight goes on they get bigger and bigger!
+> 
+> Some end up with around 11m+ health!
+> 
+> You do NOT need to try to kill these doing 11million damage. If you grapple THROUGH the targets they will split in two. Making two smaller ones, rinse repeat till they are dead. You can physically kill them by grappling through them.
+> 
+> You can stack and burn the boss of course if you have high damage and mechanical awareness, but if following the mechanics, this can be a life saver as it can get a little hectic.
 > 
 > 
 > 

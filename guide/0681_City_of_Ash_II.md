@@ -4,43 +4,6 @@
 
 
 
-### 瓦尔金·斯科里亚
-
-> Valkyn Skoria
-
-
-** 瓦尔金·斯科里亚 **
-
-该游戏中有一个叫做“瓦尔金·斯科里亚”的角色。
-
-灰烬之城II游戏中的最终BOSS是PUG杀手。尽管此BOSS的难度有所降低，但是它仍然是基础游戏地下城中被视为最难的BOSS之一。地面上有5个平台，在战斗期间，这些平台是你与BOSS战斗的场所。每当一个平台被摧毁时，你应该移动到下一个平台（在它爆炸之前）。如果你的平台用尽了，我们为你祈祷！
-
-困难模式会去掉2个平台，因此你需要在3个平台上杀死它，而不是5个。困难模式可以与DPS较低的团队进行，但这需要你集中注意力，并尽量避免错误。注意你的脚下，小心并集中注意力！坦克应该嘲讽Boss并试图将其保持在任何平台的中心位置! 整个团队应该呈半圆形站在Boss的后面，并且每个人都要有足够的空间，以便在Boss转向团队的每个成员时，大家都能看到（是的，它会这样做）。 如果你们都堆在一起，而Boss转向时你们不知道谁是目标，那就会很棘手。 让大家形成队形并放松…
-
-* **重击** :  这是一个巨大的打击，会造成巨大的击倒效果（通常是掉进熔岩中），你必须格挡。这应该只由坦克负责，因为坦克应该在嘲讽BOSS，但如果你是输出或治疗，在你被攻击时，一定要格挡！
-
-* **上古卷轴Online攻略
-
-火球** :  在战斗中（这就是为什么你需要自己的空间），BOSS会瞄准小组中的一个随机成员并累积火球。如果他瞄准你，请确保翻滚避开火球，否则你会被击退（通常足够远以至于你会落入熔岩中）。
-
-* **石化** :  首领会瞄准团队中随机一个队员，并像火球一样向该成员投掷一个抛射物。如果你速度够快，可以使用闪避来躲避，否则他将把你变成石头，并且你必须挣脱出来。
-
-* **上古卷轴在线游戏攻略
-
-火焰之轮** :  我之前已经使用过这个描述了，但基本上从俯视角度看，这种效果看起来像是一个货车轮子（辐条）。Boss将火焰投射到地面上，直线的火焰会一次又一次地从中心向外传播，直到消失。不要惊慌！稍微保持一点距离，紧盯这个效果，在能够站在中间的空隙时就站在那里。如果它打到你了几次你就会死亡，但这完全可以避免。
-
-* **砸平台** :  每个平台定期会被boss刺中中心并砸成碎片。 快点离开并移动到他降落的下一个平台。
-
-* **侍灵与伤害护盾** :  当boss跳至新平台时，他会举起剑。在此阶段，一群火焰侍灵将在他周围生成。可以使用范围攻击将它们连锁并消灭。当他举剑引导时，他会不断用火球攻击团队，并拥有小型伤害护盾。你必须消除他的伤害护盾才能阻止他这样做。然后战斗将重复上述所有步骤。
-
-尽可能快地杀死他对于难度模式来说是最好的，但要记得放松，遵循机制，不要惊慌。清晰的机制遵循将使这变得轻松，错误将会搞乱一切。至于那些对于吸血鬼持否定态度的人？视频中的所有4名成员都是4级吸血鬼。如果你能避免，火焰就不会击杀你 ;)
-
-祝你好运！
-
-
-
-
-
 ### 玛尔鲁兹
 
 > Marruz
@@ -227,39 +190,49 @@
 
 
 
+### 瓦尔金·斯科里亚
+
+> Valkyn Skoria
+
+
+** 瓦尔金·斯科里亚 **
+
+该游戏中有一个叫做“瓦尔金·斯科里亚”的角色。
+
+灰烬之城II游戏中的最终BOSS是PUG杀手。尽管此BOSS的难度有所降低，但是它仍然是基础游戏地下城中被视为最难的BOSS之一。地面上有5个平台，在战斗期间，这些平台是你与BOSS战斗的场所。每当一个平台被摧毁时，你应该移动到下一个平台（在它爆炸之前）。如果你的平台用尽了，我们为你祈祷！
+
+困难模式会去掉2个平台，因此你需要在3个平台上杀死它，而不是5个。困难模式可以与DPS较低的团队进行，但这需要你集中注意力，并尽量避免错误。注意你的脚下，小心并集中注意力！坦克应该嘲讽Boss并试图将其保持在任何平台的中心位置! 整个团队应该呈半圆形站在Boss的后面，并且每个人都要有足够的空间，以便在Boss转向团队的每个成员时，大家都能看到（是的，它会这样做）。 如果你们都堆在一起，而Boss转向时你们不知道谁是目标，那就会很棘手。 让大家形成队形并放松…
+
+* **重击** :  这是一个巨大的打击，会造成巨大的击倒效果（通常是掉进熔岩中），你必须格挡。这应该只由坦克负责，因为坦克应该在嘲讽BOSS，但如果你是输出或治疗，在你被攻击时，一定要格挡！
+
+* **上古卷轴Online攻略
+
+火球** :  在战斗中（这就是为什么你需要自己的空间），BOSS会瞄准小组中的一个随机成员并累积火球。如果他瞄准你，请确保翻滚避开火球，否则你会被击退（通常足够远以至于你会落入熔岩中）。
+
+* **石化** :  首领会瞄准团队中随机一个队员，并像火球一样向该成员投掷一个抛射物。如果你速度够快，可以使用闪避来躲避，否则他将把你变成石头，并且你必须挣脱出来。
+
+* **上古卷轴在线游戏攻略
+
+火焰之轮** :  我之前已经使用过这个描述了，但基本上从俯视角度看，这种效果看起来像是一个货车轮子（辐条）。Boss将火焰投射到地面上，直线的火焰会一次又一次地从中心向外传播，直到消失。不要惊慌！稍微保持一点距离，紧盯这个效果，在能够站在中间的空隙时就站在那里。如果它打到你了几次你就会死亡，但这完全可以避免。
+
+* **砸平台** :  每个平台定期会被boss刺中中心并砸成碎片。 快点离开并移动到他降落的下一个平台。
+
+* **侍灵与伤害护盾** :  当boss跳至新平台时，他会举起剑。在此阶段，一群火焰侍灵将在他周围生成。可以使用范围攻击将它们连锁并消灭。当他举剑引导时，他会不断用火球攻击团队，并拥有小型伤害护盾。你必须消除他的伤害护盾才能阻止他这样做。然后战斗将重复上述所有步骤。
+
+尽可能快地杀死他对于难度模式来说是最好的，但要记得放松，遵循机制，不要惊慌。清晰的机制遵循将使这变得轻松，错误将会搞乱一切。至于那些对于吸血鬼持否定态度的人？视频中的所有4名成员都是4级吸血鬼。如果你能避免，火焰就不会击杀你 ;)
+
+祝你好运！
+
+
+
+
+
 
 
 
 
 <eng>
 
-> Valkyn Skoria
-> 
-> 
-> ** VALKYN SKORIA **
-> 
-> The final boss in City Of Ash II is the PUG killer himself. This boss although reduced in difficulty is still to date considered one of the hardest base game bosses for dungeons. There are 5 platforms on the floor, during the fight these platforms are where you will fight the boss and when each one is destroyed you should move to the next (before it explodes). If you run out of platforms, our prayers are with you!
-> 
-> Hard mode removes 2 platforms so you have to kill him in 3 instead of 5. Hard mode can be done with low dps groups but this will require you to focus and have MINIMAL mistakes to pull it off. Watch your feet, be careful and focus! The tank should taunt the boss and try to hold him in the middle of whatever platform he is on at ALL times! The group should be in a semi circle behind the boss with a clear area of space each so that you can all see as and when he turns on EACH member of the group (yes he will do this). If you are stacked and he turns and you are all bunched up, no one knows who the target is. Get in formation and relax...
-> 
-> **Heavy attack** - This is a HUGE hit and will cause a massive knock down(usually into lava) you MUST block this. This should only be on the tank since the tank should be taunting but if you are a dps or healer and you know he is on you, block it!
-> 
-> **Fireball** - During the fight (this is why you have your own space) the boss will aim at one random member of the group and charge up a fireball. If you are the one he is aiming at be sure to dodge roll the fireball or you will be knocked backwards (usually far enough to land in the lava).
-> 
-> **Fossilize**  - The boss will aim at a random member of the group and like the fireball will throw a projectile at the member. If you are FAST this can be dodge rolled, if not he will turn you into stone of which you MUST break free.
-> 
-> **Flame wheel** - I have used this description before but basically from an above view this effect looks like a wagon wheel (spokes). The boss will cast flame onto the ground and straight lines of flame will travel outwards from the center over and over until it is gone. DO NOT PANIC! Get a tiny bit of distance, keep your eyes on it and just stand in the gaps when you can. If it hits you for a couple of ticks you are dead but this can be completely avoided.
-> 
-> **Smash platform** - Periodically per platform the boss will stab the center of the platform smashing it to bits. Get off FAST! and move to the next platform that he lands on.
-> 
-> **Atronachs & Damage Shield** - When the boss jumps to a new platform, he will raise his sword in the air. During this phase a group of flame Atronachs will spawn around him. These can be chained in and killed with aoe. While he is channeling with his sword up he constantly hits the group with fireballs and has a small damage shield. You must get rid of his damage shield in order for him to stop doing this. Then the fight is rinse repeat of all of the above.
-> 
-> The faster you can kill him the better for hard mode of course but remember to relax, follow the mechanics and don't panic. Clear mechanic following will make this a breeze, mistakes will mess it all up. And to the nay sayers about vampire? all 4 members in the video are stage four vampire. Fire wont nuke you if you can avoid it ;)
-> 
-> Good luck!
-> 
-> 
-> 
 > Marruz
 > 
 > 
@@ -369,6 +342,33 @@
 > **Lightning Burst** - The bosses will channel while almost crouching and burst with lightning damage. This can be interrupted and is very easy to avoid. If you miss the interrupt, simple move out of it.
 > 
 > **Atronachs** - Storm Atronachs will spawn throughout the fight, they do nasty lightning aoe damage(which can be interrupted). Generally you can stack and burn the boss while throwing out interrupts but if you have low damage, focus each Atronach as they come in so you do not get overwhelmed and you will be just fine.
+> 
+> 
+> 
+> Valkyn Skoria
+> 
+> 
+> ** VALKYN SKORIA **
+> 
+> The final boss in City Of Ash II is the PUG killer himself. This boss although reduced in difficulty is still to date considered one of the hardest base game bosses for dungeons. There are 5 platforms on the floor, during the fight these platforms are where you will fight the boss and when each one is destroyed you should move to the next (before it explodes). If you run out of platforms, our prayers are with you!
+> 
+> Hard mode removes 2 platforms so you have to kill him in 3 instead of 5. Hard mode can be done with low dps groups but this will require you to focus and have MINIMAL mistakes to pull it off. Watch your feet, be careful and focus! The tank should taunt the boss and try to hold him in the middle of whatever platform he is on at ALL times! The group should be in a semi circle behind the boss with a clear area of space each so that you can all see as and when he turns on EACH member of the group (yes he will do this). If you are stacked and he turns and you are all bunched up, no one knows who the target is. Get in formation and relax...
+> 
+> **Heavy attack** - This is a HUGE hit and will cause a massive knock down(usually into lava) you MUST block this. This should only be on the tank since the tank should be taunting but if you are a dps or healer and you know he is on you, block it!
+> 
+> **Fireball** - During the fight (this is why you have your own space) the boss will aim at one random member of the group and charge up a fireball. If you are the one he is aiming at be sure to dodge roll the fireball or you will be knocked backwards (usually far enough to land in the lava).
+> 
+> **Fossilize**  - The boss will aim at a random member of the group and like the fireball will throw a projectile at the member. If you are FAST this can be dodge rolled, if not he will turn you into stone of which you MUST break free.
+> 
+> **Flame wheel** - I have used this description before but basically from an above view this effect looks like a wagon wheel (spokes). The boss will cast flame onto the ground and straight lines of flame will travel outwards from the center over and over until it is gone. DO NOT PANIC! Get a tiny bit of distance, keep your eyes on it and just stand in the gaps when you can. If it hits you for a couple of ticks you are dead but this can be completely avoided.
+> 
+> **Smash platform** - Periodically per platform the boss will stab the center of the platform smashing it to bits. Get off FAST! and move to the next platform that he lands on.
+> 
+> **Atronachs & Damage Shield** - When the boss jumps to a new platform, he will raise his sword in the air. During this phase a group of flame Atronachs will spawn around him. These can be chained in and killed with aoe. While he is channeling with his sword up he constantly hits the group with fireballs and has a small damage shield. You must get rid of his damage shield in order for him to stop doing this. Then the fight is rinse repeat of all of the above.
+> 
+> The faster you can kill him the better for hard mode of course but remember to relax, follow the mechanics and don't panic. Clear mechanic following will make this a breeze, mistakes will mess it all up. And to the nay sayers about vampire? all 4 members in the video are stage four vampire. Fire wont nuke you if you can avoid it ;)
+> 
+> Good luck!
 > 
 > 
 > 

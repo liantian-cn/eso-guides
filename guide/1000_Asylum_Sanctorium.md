@@ -4,6 +4,69 @@
 
 
 
+### 疯人院圣所
+
+> SAINT LLOTHIS
+
+
+** 圣洛斯 **
+
+这个首领位于Asylum Sanctorium主入口区域进入左侧通道。这里有两个坦克角色。如果你有两个坦克，一个应该专注于让首领始终背对着团队。另一个坦克应该把两个add聚集到一侧，并让其背对着团队。其中 Loth, Body, Ri, Bash, Syl不需要翻译。
+
+然而，小队应该尽可能地位于半圆形的洛斯后面，以确保它们不在范围内或距离首领太远。确保不要走得太靠近两个小怪物，除非小组决定要杀它们，并注意即将到来的机制（在下面解释）。其中Llothis为专有名词，翻译为洛斯。
+
+* **毒气锥** :  这个BOSS会定期选择一个玩家，然后朝他们放出一个非常大的有毒的持续伤害锥形AOE攻击。被影响的玩家将在其Debuff UI中有一个Debuff，同时身体会发出绿光。当这种情况发生时，受影响的玩家必须完全静止并且格挡。其他所有玩家必须远离受影响的玩家。
+
+我建议玩家们站在半圆形的BOSS附近，原因是这样BOSS的扇形攻击只会影响到很少的空间，这样就非常容易避开。如果距离太远，攻击范围会覆盖到很多玩家，会导致他们死亡。其中 CLOSE，semi circle和cone是游戏中的专有名词，没有必要翻译。
+
+注意：如果该技能落在你的位置，请一定要站定不动，技能会跟随你移动，如果你不稳定你的位置，你会对其他人造成伤害。其中的专有名词不需翻译。
+
+* **瞬移** :  在战斗期间，BOSS会瞬移到三个位置之一。这时他会在地面上留下一个非常具有攻击性的毒圈，所有玩家都必须迅速离开它（简单地闪避） 。现在每个人都需要重新定位到BOSS现在所在的位置，并重新加入他们的半圆形队形，准备继续玩造成伤害的机制。
+
+* **放出毒气之流** :  首领会抬起手，此时他会在自己的脚下引发一个大范围的爆炸，将所有玩家击退，并继续对玩家进行毒素伤害。此伤害极高，所以您必须密切留意此机制。阻止这个完整的机制的方法是，发现他的动作，然后用巴什或打断技能进行干扰。
+
+* **毒箭射击** :  Boss 偶尔会针对坦克（或者当前拥有仇恨的人）施放一次长时间充能的重击毒箭攻击，会在坦克的脚下产生一个范围伤害效果。如果你是坦克，直接格挡并抵御此攻击。如果你不是坦克，则应该尽量远离坦克，并且完全可以轻松躲避该范围伤害。
+
+* **激怒机器人** :  由离开正坦克的两个小怪要么被处理掉，要么被忽略，这取决于你的坦克的实力和信心。一个强大的坦克可以永远抓住它们，但一个脆弱的坦克则不能。所以请帮助他们。其中，小怪的中文译名为：洛斯尸体（Loth Body）。
+
+你只需要集中攻击这些敌人，直到他们死亡/坐下，然后再继续攻击Boss。如果你让他们存在的时间太长，他们会变得狂暴。简单的选择，杀死它们或者不管它们。你的小队将取决于你的选择，但无论如何，它们必须面向远离小队。其中 Loth 翻译成 洛斯，Body 翻译成 尸体，Ri 翻译成 里，Bash 翻译成 巴什，Syl 翻译成 西尔。
+
+两种敌人都有一个前方AOE攻击，如果没有坦克，它们可以消灭个人，它们还有一个悬停的踩踏攻击，可以一击dps或治疗，特别是在激怒时。为保险起见，无论何时他们处于激活状态，都要将他们击杀。但选择权在你手中。在视频中，我们玩得非常谨慎。他们的生命值不高，AOE可以轻松杀死他们。其中第一个敌人的名称是Loth，第二个敌人的名称是Body。另外，Ri的意思是里，Bash的意思是巴什，Syl的意思是西尔。
+
+
+
+
+
+### 庇护圣所
+
+> SAINT FELMS
+
+
+**圣·菲尔姆斯**
+
+这个BOSS非常简单，但很多人都玩不好，因为他们很容易感到无聊，只在数次运用简单机制后就开始像无头苍鸡一样乱跑。这是一个耐力考验，要求连续保持一致性。这不需要漫长的战斗，但你的机制和协调必须非常准确，否则会在场地上散发出AOE效果。其中Loth，Body，Ri，Bash，Syl不必翻译。
+
+坦克应该把Boss靠在中部的墙壁上，而团队则应该在坦克附近圆形的中心站成一个坚实的团队。然而，还需要有3个人站在房间的边缘。其中Loth应该在里面，Body应该在中心的圆形中间，而Bash和Syl则可以随意站在边缘。
+
+其中两个人需要选择治疗或远程输出角色，另一个则需要选择副坦克角色（就像中间那个玩家所演示的）。分别位于左侧、右侧和中央。他们的作用是吸引首领的攻击，在战斗中会成为首领的跳板。下面会详细解释。需要注意的是，根据情况，这些角色的具体选择可能需要调整。
+
+* **大爆炸** :  是的，这些技能有真正的名字，但是如果您正在阅读此文本，您就知道我在谈论哪种机制。 费尔姆斯士会举起手释放两个能源球进入空中，它们会砸落到团队上。就像Ophidia圣所中的世界塑形者一样。这个首领已经决定了要瞄准哪个/哪些目标。所以如果有人正在周围跑动，这些爆炸机制可能会落在一些非常混乱的地方。所以对于这个机制，您必须始终保持尽可能硬的堆叠。这样做将始终将这些射击推向双重堆叠，而不是在群体中分散。
+
+* **现在是困难的部分在Boss降落之前整个团队都需要冲出中央区域让Boss先自爆然后（最难的部分）再次回到中央区域听起来很愚蠢但这可能是最难的部分总有那个难缠的人不会协调认为自己的新位置是安全的可以做自己想做的事情这是错误的出去、进来、出去、进来非常简单不要搞砸了因为你会被一击致命并且很难恢复这个试炼是关于协调的不一定是机制会杀了你而是你的朋友（Loth** :  Boss名）
+
+* **传送** :  在战斗中，BOSS将会传送打击。这就是为什么你需要三个引导者的原因。在100％及以下，他会跳到一个目标处。在地面上放置一个大范围伤害持续时间AOE效果，并附带轻微的削弱效果（如果玩家中招，则会降低他们的造成伤害）当他传送到玩家处时，他们必须格挡和/或躲闪并走出已经放置的圆圈，站到一个新位置上（尽可能等距离于BOSS击杀点。一旦他再次跳跃，旧的AOE就会消失，并且他们可以回到原来的位置。前后左右地引诱BOSS。在75％时，BOSS将开始对两个玩家这样做，最后在50％时他将对三个玩家这样做（因此需要3个引导者）。有许多不同的方法来执行此操作，但它是一种可靠的方法，您可以在视频中看到如何执行此操作。如果您坚持这样做，Maim圆圈始终在团队外开放，而BIG BOOM机制始终处于控制状态，并且中间有足够的空间。
+
+* **Adds** :  在整个战斗中，将会出现两个阴影。它们需要和首领集中在一起，并且你必须集中火力攻击它们。随着战斗的进行，它们的血量越低，它们造成的伤害就越高，特别是在25%及以下时，它们可能会清除团队。在这场战斗中，你的首要目标就是那些阴影。只要你集中攻击它们，不管你花多长时间杀死首领都没关系。其中，“Loth”可翻译为“洛斯”、“Body”可翻译为“尸体”、“Ri”可翻译为“里”、“Bash”可翻译为“巴什”、“Syl”可翻译为“西尔”。
+
+需要翻译的攻略如下：
+需要注意的一个重要事项是要注意他们的旋转攻击（旋风攻击）。如果他们开始旋转，他们会显示一个很大的范围攻击。如果你反应够快，你可以避开这个攻击范围，否则，你必须格挡，否则大部分情况下你会死亡。Loth要注意他们巨大的旋转攻击（旋风），如果他们开始旋转，他们就会显示一个很大的Aoe攻击范围。如果你反应够快，你可以避开这个攻击范围，否则，你必须格挡，否则大部分情况下你会死亡。
+
+简而言之，遥控攻击者保持镇定和专注，主力小组趁大爆炸来临时进入并清理小怪。坦克要活着！严格协调并理解三个主要机制，这将是一次轻松的旅行。散布的麻痹大意会让情况很糟糕。其中"Loth"不确定是否是游戏内专有名词，无法翻译。
+
+
+
+
+
 ### 疯人院圣殿
 
 > SAINT OLMS
@@ -109,75 +172,66 @@
 
 
 
-### 疯人院圣所
-
-> SAINT LLOTHIS
-
-
-** 圣洛斯 **
-
-这个首领位于Asylum Sanctorium主入口区域进入左侧通道。这里有两个坦克角色。如果你有两个坦克，一个应该专注于让首领始终背对着团队。另一个坦克应该把两个add聚集到一侧，并让其背对着团队。其中 Loth, Body, Ri, Bash, Syl不需要翻译。
-
-然而，小队应该尽可能地位于半圆形的洛斯后面，以确保它们不在范围内或距离首领太远。确保不要走得太靠近两个小怪物，除非小组决定要杀它们，并注意即将到来的机制（在下面解释）。其中Llothis为专有名词，翻译为洛斯。
-
-* **毒气锥** :  这个BOSS会定期选择一个玩家，然后朝他们放出一个非常大的有毒的持续伤害锥形AOE攻击。被影响的玩家将在其Debuff UI中有一个Debuff，同时身体会发出绿光。当这种情况发生时，受影响的玩家必须完全静止并且格挡。其他所有玩家必须远离受影响的玩家。
-
-我建议玩家们站在半圆形的BOSS附近，原因是这样BOSS的扇形攻击只会影响到很少的空间，这样就非常容易避开。如果距离太远，攻击范围会覆盖到很多玩家，会导致他们死亡。其中 CLOSE，semi circle和cone是游戏中的专有名词，没有必要翻译。
-
-注意：如果该技能落在你的位置，请一定要站定不动，技能会跟随你移动，如果你不稳定你的位置，你会对其他人造成伤害。其中的专有名词不需翻译。
-
-* **瞬移** :  在战斗期间，BOSS会瞬移到三个位置之一。这时他会在地面上留下一个非常具有攻击性的毒圈，所有玩家都必须迅速离开它（简单地闪避） 。现在每个人都需要重新定位到BOSS现在所在的位置，并重新加入他们的半圆形队形，准备继续玩造成伤害的机制。
-
-* **放出毒气之流** :  首领会抬起手，此时他会在自己的脚下引发一个大范围的爆炸，将所有玩家击退，并继续对玩家进行毒素伤害。此伤害极高，所以您必须密切留意此机制。阻止这个完整的机制的方法是，发现他的动作，然后用巴什或打断技能进行干扰。
-
-* **毒箭射击** :  Boss 偶尔会针对坦克（或者当前拥有仇恨的人）施放一次长时间充能的重击毒箭攻击，会在坦克的脚下产生一个范围伤害效果。如果你是坦克，直接格挡并抵御此攻击。如果你不是坦克，则应该尽量远离坦克，并且完全可以轻松躲避该范围伤害。
-
-* **激怒机器人** :  由离开正坦克的两个小怪要么被处理掉，要么被忽略，这取决于你的坦克的实力和信心。一个强大的坦克可以永远抓住它们，但一个脆弱的坦克则不能。所以请帮助他们。其中，小怪的中文译名为：洛斯尸体（Loth Body）。
-
-你只需要集中攻击这些敌人，直到他们死亡/坐下，然后再继续攻击Boss。如果你让他们存在的时间太长，他们会变得狂暴。简单的选择，杀死它们或者不管它们。你的小队将取决于你的选择，但无论如何，它们必须面向远离小队。其中 Loth 翻译成 洛斯，Body 翻译成 尸体，Ri 翻译成 里，Bash 翻译成 巴什，Syl 翻译成 西尔。
-
-两种敌人都有一个前方AOE攻击，如果没有坦克，它们可以消灭个人，它们还有一个悬停的踩踏攻击，可以一击dps或治疗，特别是在激怒时。为保险起见，无论何时他们处于激活状态，都要将他们击杀。但选择权在你手中。在视频中，我们玩得非常谨慎。他们的生命值不高，AOE可以轻松杀死他们。其中第一个敌人的名称是Loth，第二个敌人的名称是Body。另外，Ri的意思是里，Bash的意思是巴什，Syl的意思是西尔。
-
-
-
-
-
-### 庇护圣所
-
-> SAINT FELMS
-
-
-**圣·菲尔姆斯**
-
-这个BOSS非常简单，但很多人都玩不好，因为他们很容易感到无聊，只在数次运用简单机制后就开始像无头苍鸡一样乱跑。这是一个耐力考验，要求连续保持一致性。这不需要漫长的战斗，但你的机制和协调必须非常准确，否则会在场地上散发出AOE效果。其中Loth，Body，Ri，Bash，Syl不必翻译。
-
-坦克应该把Boss靠在中部的墙壁上，而团队则应该在坦克附近圆形的中心站成一个坚实的团队。然而，还需要有3个人站在房间的边缘。其中Loth应该在里面，Body应该在中心的圆形中间，而Bash和Syl则可以随意站在边缘。
-
-其中两个人需要选择治疗或远程输出角色，另一个则需要选择副坦克角色（就像中间那个玩家所演示的）。分别位于左侧、右侧和中央。他们的作用是吸引首领的攻击，在战斗中会成为首领的跳板。下面会详细解释。需要注意的是，根据情况，这些角色的具体选择可能需要调整。
-
-* **大爆炸** :  是的，这些技能有真正的名字，但是如果您正在阅读此文本，您就知道我在谈论哪种机制。 费尔姆斯士会举起手释放两个能源球进入空中，它们会砸落到团队上。就像Ophidia圣所中的世界塑形者一样。这个首领已经决定了要瞄准哪个/哪些目标。所以如果有人正在周围跑动，这些爆炸机制可能会落在一些非常混乱的地方。所以对于这个机制，您必须始终保持尽可能硬的堆叠。这样做将始终将这些射击推向双重堆叠，而不是在群体中分散。
-
-* **现在是困难的部分在Boss降落之前整个团队都需要冲出中央区域让Boss先自爆然后（最难的部分）再次回到中央区域听起来很愚蠢但这可能是最难的部分总有那个难缠的人不会协调认为自己的新位置是安全的可以做自己想做的事情这是错误的出去、进来、出去、进来非常简单不要搞砸了因为你会被一击致命并且很难恢复这个试炼是关于协调的不一定是机制会杀了你而是你的朋友（Loth** :  Boss名）
-
-* **传送** :  在战斗中，BOSS将会传送打击。这就是为什么你需要三个引导者的原因。在100％及以下，他会跳到一个目标处。在地面上放置一个大范围伤害持续时间AOE效果，并附带轻微的削弱效果（如果玩家中招，则会降低他们的造成伤害）当他传送到玩家处时，他们必须格挡和/或躲闪并走出已经放置的圆圈，站到一个新位置上（尽可能等距离于BOSS击杀点。一旦他再次跳跃，旧的AOE就会消失，并且他们可以回到原来的位置。前后左右地引诱BOSS。在75％时，BOSS将开始对两个玩家这样做，最后在50％时他将对三个玩家这样做（因此需要3个引导者）。有许多不同的方法来执行此操作，但它是一种可靠的方法，您可以在视频中看到如何执行此操作。如果您坚持这样做，Maim圆圈始终在团队外开放，而BIG BOOM机制始终处于控制状态，并且中间有足够的空间。
-
-* **Adds** :  在整个战斗中，将会出现两个阴影。它们需要和首领集中在一起，并且你必须集中火力攻击它们。随着战斗的进行，它们的血量越低，它们造成的伤害就越高，特别是在25%及以下时，它们可能会清除团队。在这场战斗中，你的首要目标就是那些阴影。只要你集中攻击它们，不管你花多长时间杀死首领都没关系。其中，“Loth”可翻译为“洛斯”、“Body”可翻译为“尸体”、“Ri”可翻译为“里”、“Bash”可翻译为“巴什”、“Syl”可翻译为“西尔”。
-
-需要翻译的攻略如下：
-需要注意的一个重要事项是要注意他们的旋转攻击（旋风攻击）。如果他们开始旋转，他们会显示一个很大的范围攻击。如果你反应够快，你可以避开这个攻击范围，否则，你必须格挡，否则大部分情况下你会死亡。Loth要注意他们巨大的旋转攻击（旋风），如果他们开始旋转，他们就会显示一个很大的Aoe攻击范围。如果你反应够快，你可以避开这个攻击范围，否则，你必须格挡，否则大部分情况下你会死亡。
-
-简而言之，遥控攻击者保持镇定和专注，主力小组趁大爆炸来临时进入并清理小怪。坦克要活着！严格协调并理解三个主要机制，这将是一次轻松的旅行。散布的麻痹大意会让情况很糟糕。其中"Loth"不确定是否是游戏内专有名词，无法翻译。
-
-
-
-
-
 
 
 
 
 <eng>
 
+> SAINT LLOTHIS
+> 
+> 
+> ** SAINT LLOTHIS **
+> 
+> This boss is situated on the LEFT path as you come into the main entrance area of Asylum Sanctorium. There are two roles for the tanks here. If you have two tanks, ONE should be focusing the boss keeping it turned away from the group at ALL times. The other tank should be holding the TWO adds to one side faced away from the group.
+> 
+> The group however should be situated in a semi circle behind Llothis as much as possible to be sure they are not at range OR too far away from the boss. Make sure not to go too close to the two adds unless the group decides they are going to kill them and be aware of incoming mechanics (explained below).
+> 
+> **Poison Cone** - Periodically the boss will call out ONE player and aim a very large poison damage over time cone aoe at them. The player effected will have a debuff in their debuff UI and at the same time be glowing green. When this happens the affected player MUST stand completely still and block. All other players must get away from them.
+> 
+> The reason I encourage people to stay CLOSE to the boss in a semi circle is so that the thin end covers barely any space at all making it very easy for people to avoid it. If you are spread out too far back, the thick end of the cone will cover many players and kill them.
+> 
+> Note: You MUST stand STILL if it is on you, the cone will follow you and if you do not plant your feet you will kill people.
+> 
+> **Teleport** - During the fight the boss will teleport to one of 3 locations. When this happens he will leave a very aggressive poison circle on the ground and all players MUST get out of it fast (simply dodge roll). Everyone now needs to reposition to where the boss is now standing and rejoin their semi circle formation ready to play the continuing mechanics.
+> 
+> **Channel Poison!** - The boss will raise his hand in the air. When this happens he will have a large burst aoe from under him knocking everyone back and once completed will constantly channel poison damage directly to players. This damage is very high so you MUST pay close attention to this mechanic. The way to stop the WHOLE mechanic, is to spot his action, and simply interrupt it with a bash or interrupting skill.
+> 
+> **Poison Shot!** - The boss will occasionally attack the tank (or whoever has agro) with a heavy poison hit which he charges up. This does cause an aoe splash under the tank. If you are the tank simply block this. If you are NOT the tank, you should be no where near the tank and can avoid the aoe with no issue anyway.
+> 
+> **Enraging Robots!** - The two adds held to the side by the off tank can either be dealt with or ignored depending on how strong/confident your tank is. A big chunky capable tank can hold them all day long. A squishy one will not. So help them out.
+> 
+> All you need to do is focus damage on these until they are dead/sat down, and then continue back onto the boss again. If you leave them too long they will enrage. Simple option, kill them or don't. Your group will depend on your choice but either way they MUST be kept facing away from the group.
+> 
+> Both have a frontal aoe attack which can wipe individuals if not a tank, and they have a hovering STOMP which can one shot dps and/or healers Especially when enraged. To play safe, kill them when ever they are active. But again the choice is yours. In the video we played safe. They don't have a lot of health, aoe can kill them easy.
+> 
+> 
+> 
+> SAINT FELMS
+> 
+> 
+> ** SAINT FELMS **
+> 
+> This boss is VERY simple but so many people make a meal of it because they get bored and cannot repeat simple mechanics more than a couple of times before they start running around like headless chickens. This is an endurance test for consistency. It doesn't have to be a long fight but your mechanics and co-ordination must be on point if not to scatter aoes all over the place.
+> 
+> The tank should hold the boss with their back against the wall in the middle, while the group stand together in a solid hard stack in the center of the circle the tank is near. 3 people need to be on the edges of the room however.
+> 
+> Either healers or ranged dps for two of them, and the off tank for the other (as demonstrated in the middle) one left one right and one middle. These are bait for the boss as he will jump to them during the fight. More explained below.
+> 
+> **BIG BOOM!** - Yes these abilities have real names but you KNOW which mechanic i am talking about if you are reading this. Saint Felms will raise his hand and release TWO energy orbs into the air and they will come crashing down on the group. Much like world shaper in Sanctum Ophidia. This boss has already decided which target/s are going to be aimed at. So if someone is running around these boom mechanics can land in some really messed up places. So you MUST at ALL times, for THIS mechanic, stay as hard stacked as you can. Doing this will always push those shots to land in a double stack rather than spread out, in the middle of the group.
+> 
+> Now the hard part. Before it lands, the whole group needs to sprint out of the middle. Let them explode and then�(the hardest part) get back IN AGAIN!! As stupid as that sounds that is quite possibly the hardest part to get right. There is ALWAYS that 'one person' who will NOT co-ordinate and thinks their new position is safe and they can do what they want�WRONG. Get out, get in, get out, get in. Very simple. Do not mess it up because you will be one shot for it and it is hard to recover. This trial is all about co-ordination and it is not the mechanics that will necessarily kill you�it is your friends ;)
+> 
+> **Teleport** - The boss during the fight will teleport strike. This i why you need the three kiters. At 100% and under he will jump to ONE target. Drop a BIG damage overtime aoe affect on the floor with minor maim attatched to it (this will reduce damage the players do if they are hit with it) when he teleports to the player, they must block and/or dodge roll and get out of the placed circle and stand in a new spot (equally as far away from the boss kill spot if possible. Once he jumps again the old aoe will be gone and they can go back to their original position. Back and forth basically baiting the boss out. At 75% the boss will start doing this to TWO players and finally at 50% he will do it to THREE players (hence 3 kiters). There are many different ways to do this but it IS a solid method and you can see in the video how to pull this off. If you maintain this you will always have the Maim circles on the ground OUTSIDE the group while the BIG BOOM mechanic will always be in control with plenty of space in the middle.
+> 
+> **Adds** - Throughout the fight 2 shadows will appear together. These need to be stacked with the boss and you MUST focus them. The lower the health in the fight the more damage they do and they CAN wipe the group especially at 25% and under. Your priority targets in this fight are THOSE adds. It doesn't matter how long it takes you to kill the boss so long as you focus the adds.
+> 
+> One major thing to note is to watch out for their spin to win (whirlwind). If they spin they will show a large aoe. You can step out of this if you are fast but if not, you MUST block or you will most of the time, die.
+> 
+> In a nut shell, kiters hold your nerve and focus, main group get in get out as the big boom comes in and kill adds. Tank�don't die! Strict co-ordination and understanding of the 3 major mechanics and this can be an easy ride. Scattering complacency will make this a mess.
+> 
+> 
+> 
 > SAINT OLMS
 > 
 > 
@@ -274,60 +328,6 @@
 > Saint Olms does NOT have a dps check. Just manage the adds and pace it.
 > 
 > practice makes perfect, you can do it! ;) get out as the big boom comes in and kill adds. Tank�don't die! Strict co-ordination and understanding of the 3 major mechanics and this can be an easy ride. Scattering complacency will make this a mess.
-> 
-> 
-> 
-> SAINT LLOTHIS
-> 
-> 
-> ** SAINT LLOTHIS **
-> 
-> This boss is situated on the LEFT path as you come into the main entrance area of Asylum Sanctorium. There are two roles for the tanks here. If you have two tanks, ONE should be focusing the boss keeping it turned away from the group at ALL times. The other tank should be holding the TWO adds to one side faced away from the group.
-> 
-> The group however should be situated in a semi circle behind Llothis as much as possible to be sure they are not at range OR too far away from the boss. Make sure not to go too close to the two adds unless the group decides they are going to kill them and be aware of incoming mechanics (explained below).
-> 
-> **Poison Cone** - Periodically the boss will call out ONE player and aim a very large poison damage over time cone aoe at them. The player effected will have a debuff in their debuff UI and at the same time be glowing green. When this happens the affected player MUST stand completely still and block. All other players must get away from them.
-> 
-> The reason I encourage people to stay CLOSE to the boss in a semi circle is so that the thin end covers barely any space at all making it very easy for people to avoid it. If you are spread out too far back, the thick end of the cone will cover many players and kill them.
-> 
-> Note: You MUST stand STILL if it is on you, the cone will follow you and if you do not plant your feet you will kill people.
-> 
-> **Teleport** - During the fight the boss will teleport to one of 3 locations. When this happens he will leave a very aggressive poison circle on the ground and all players MUST get out of it fast (simply dodge roll). Everyone now needs to reposition to where the boss is now standing and rejoin their semi circle formation ready to play the continuing mechanics.
-> 
-> **Channel Poison!** - The boss will raise his hand in the air. When this happens he will have a large burst aoe from under him knocking everyone back and once completed will constantly channel poison damage directly to players. This damage is very high so you MUST pay close attention to this mechanic. The way to stop the WHOLE mechanic, is to spot his action, and simply interrupt it with a bash or interrupting skill.
-> 
-> **Poison Shot!** - The boss will occasionally attack the tank (or whoever has agro) with a heavy poison hit which he charges up. This does cause an aoe splash under the tank. If you are the tank simply block this. If you are NOT the tank, you should be no where near the tank and can avoid the aoe with no issue anyway.
-> 
-> **Enraging Robots!** - The two adds held to the side by the off tank can either be dealt with or ignored depending on how strong/confident your tank is. A big chunky capable tank can hold them all day long. A squishy one will not. So help them out.
-> 
-> All you need to do is focus damage on these until they are dead/sat down, and then continue back onto the boss again. If you leave them too long they will enrage. Simple option, kill them or don't. Your group will depend on your choice but either way they MUST be kept facing away from the group.
-> 
-> Both have a frontal aoe attack which can wipe individuals if not a tank, and they have a hovering STOMP which can one shot dps and/or healers Especially when enraged. To play safe, kill them when ever they are active. But again the choice is yours. In the video we played safe. They don't have a lot of health, aoe can kill them easy.
-> 
-> 
-> 
-> SAINT FELMS
-> 
-> 
-> ** SAINT FELMS **
-> 
-> This boss is VERY simple but so many people make a meal of it because they get bored and cannot repeat simple mechanics more than a couple of times before they start running around like headless chickens. This is an endurance test for consistency. It doesn't have to be a long fight but your mechanics and co-ordination must be on point if not to scatter aoes all over the place.
-> 
-> The tank should hold the boss with their back against the wall in the middle, while the group stand together in a solid hard stack in the center of the circle the tank is near. 3 people need to be on the edges of the room however.
-> 
-> Either healers or ranged dps for two of them, and the off tank for the other (as demonstrated in the middle) one left one right and one middle. These are bait for the boss as he will jump to them during the fight. More explained below.
-> 
-> **BIG BOOM!** - Yes these abilities have real names but you KNOW which mechanic i am talking about if you are reading this. Saint Felms will raise his hand and release TWO energy orbs into the air and they will come crashing down on the group. Much like world shaper in Sanctum Ophidia. This boss has already decided which target/s are going to be aimed at. So if someone is running around these boom mechanics can land in some really messed up places. So you MUST at ALL times, for THIS mechanic, stay as hard stacked as you can. Doing this will always push those shots to land in a double stack rather than spread out, in the middle of the group.
-> 
-> Now the hard part. Before it lands, the whole group needs to sprint out of the middle. Let them explode and then�(the hardest part) get back IN AGAIN!! As stupid as that sounds that is quite possibly the hardest part to get right. There is ALWAYS that 'one person' who will NOT co-ordinate and thinks their new position is safe and they can do what they want�WRONG. Get out, get in, get out, get in. Very simple. Do not mess it up because you will be one shot for it and it is hard to recover. This trial is all about co-ordination and it is not the mechanics that will necessarily kill you�it is your friends ;)
-> 
-> **Teleport** - The boss during the fight will teleport strike. This i why you need the three kiters. At 100% and under he will jump to ONE target. Drop a BIG damage overtime aoe affect on the floor with minor maim attatched to it (this will reduce damage the players do if they are hit with it) when he teleports to the player, they must block and/or dodge roll and get out of the placed circle and stand in a new spot (equally as far away from the boss kill spot if possible. Once he jumps again the old aoe will be gone and they can go back to their original position. Back and forth basically baiting the boss out. At 75% the boss will start doing this to TWO players and finally at 50% he will do it to THREE players (hence 3 kiters). There are many different ways to do this but it IS a solid method and you can see in the video how to pull this off. If you maintain this you will always have the Maim circles on the ground OUTSIDE the group while the BIG BOOM mechanic will always be in control with plenty of space in the middle.
-> 
-> **Adds** - Throughout the fight 2 shadows will appear together. These need to be stacked with the boss and you MUST focus them. The lower the health in the fight the more damage they do and they CAN wipe the group especially at 25% and under. Your priority targets in this fight are THOSE adds. It doesn't matter how long it takes you to kill the boss so long as you focus the adds.
-> 
-> One major thing to note is to watch out for their spin to win (whirlwind). If they spin they will show a large aoe. You can step out of this if you are fast but if not, you MUST block or you will most of the time, die.
-> 
-> In a nut shell, kiters hold your nerve and focus, main group get in get out as the big boom comes in and kill adds. Tank�don't die! Strict co-ordination and understanding of the 3 major mechanics and this can be an easy ride. Scattering complacency will make this a mess.
 > 
 > 
 > 

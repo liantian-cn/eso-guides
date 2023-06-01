@@ -4,53 +4,6 @@
 
 
 
-### 瓦尔拉瑞尔
-
-> VARLARIEL
-
-
-攻略翻译如下：
-
-**VARLARIEL**是一个 BOSS，需要注意她会使用  这个技能。
-
-这个BOSS在机制方面非常简单，但可以是一个完全的混乱！这是副本的众所周知的队友不靠谱的克星。坦克应该站在BOSS旁边并嘲讽它，几乎始终让它面向坦克，同时维持嘲讽/减益等等。
-
-团队应该站在一个大圆圈内，不要叠加在一起，每个人都必须有自己的空间。
-
-* **「魔法箭」** :  在战斗中，Boss会向控制仇恨的人（通常是坦克）发射魔法箭。这会造成适中的伤害，不应该成为太大的问题。但是，如果DPS被多个魔法箭击中，他们很可能会死亡。
-
-* **分裂** :  在战斗中，首领会分裂成三个幽灵，每个幽灵会站在房间周围的柱子旁边。一段时间后，当它们被杀死时，首领会释放一次巨大的爆炸。幽灵的数量越多，攻击力就越强。如果没有幽灵存活，你就会完全安全！
-
-每次爆炸都会开始下一阶段，每个阶段持续30秒，直到下一次分裂。每次连续分裂都会增加一个幽灵到房间里，最多可达6个！
-
-有几种方式可以管理这种情况，尤其是对于新的团队。
-
-一种方法是让每个人被分配到一个柱子。每个柱子有两个人，不包括上面长着蘑菇的红橙色柱子。
-
-这样每个阶段都有人知道去哪里，他们可以成对杀死自己的小怪，然后再处理其他剩余的小怪，完成任务的人可以帮助完成。
-
-如果以上攻略成功完成，当然就会留下一个单独的。
-
-以下是攻略的翻译：
-
-这里是你的第二选择。召集你的团队轰击它，因为其他人都已死亡，每个人都可以快速击杀它。或者回到中间，并准备好在爆炸发生时进行格挡。
-
-只要BOSS身上有少量削减（debuff）效果，留下一个幽灵并格挡爆炸就不会致死你的队友。但若没有削减效果，或者人们没有格挡（或使用伤害护盾），他们很可能会死亡。
-
-简而言之，两人守一柱，杀掉幽灵，然后回来，或者两人守一柱，忽略蘑菇那个，但一定要格挡炮击！其中的专有名词有：Ghost（幽灵/鬼魂）、mage（法尊/法师）、pillar（柱）、mushroom（蘑菇）、block（格挡）、boom（炮击）。
-
-如果你有一个副坦克的话，他们应该四处奔跑并嘲讽所有的鬼魂，以确保“魔法弹”攻击不会对团队造成影响（鬼魂具有与Boss相同的效果），并削弱它们的能力，以便团队成员可以更快地击败它们。
-
-* **AOE爆发** :  整场战斗中，在加强和焚烧以及杀死幽灵的过程中，玩家们身下会冒出讨厌的AOE效果。这就是为什么你不要站在一起。如果你可以协调好而不像无头苍蝇乱跑，你可以走出AOE范围，或者你可以静止不动并接受治疗。
-
-最重要的是，不要叠加。叠加会使多个物品落在同一个地方。如果一个输出/治疗人员在满血状态下被一个落下的物品击中，他们将幸存，但如果被2个物品击中，他们会死亡！
-
-小心脚下！
-
-
-
-
-
 ### 闪电风暴侍灵
 
 > LIGHTNING STORM ATRONACH
@@ -112,6 +65,53 @@
 不要团在BOSS身边，每个人都应该散开，然后按住格挡键以避免被打倒。在格挡的同时，你仍然可以释放一些技能和治疗技能。
 
 当他再次站起来时，回到堆叠和燃烧。反复多次，每当他蹲下来休息时，就采用分散阻挡战术。
+
+
+
+
+
+### 瓦尔拉瑞尔
+
+> VARLARIEL
+
+
+攻略翻译如下：
+
+**VARLARIEL**是一个 BOSS，需要注意她会使用  这个技能。
+
+这个BOSS在机制方面非常简单，但可以是一个完全的混乱！这是副本的众所周知的队友不靠谱的克星。坦克应该站在BOSS旁边并嘲讽它，几乎始终让它面向坦克，同时维持嘲讽/减益等等。
+
+团队应该站在一个大圆圈内，不要叠加在一起，每个人都必须有自己的空间。
+
+* **「魔法箭」** :  在战斗中，Boss会向控制仇恨的人（通常是坦克）发射魔法箭。这会造成适中的伤害，不应该成为太大的问题。但是，如果DPS被多个魔法箭击中，他们很可能会死亡。
+
+* **分裂** :  在战斗中，首领会分裂成三个幽灵，每个幽灵会站在房间周围的柱子旁边。一段时间后，当它们被杀死时，首领会释放一次巨大的爆炸。幽灵的数量越多，攻击力就越强。如果没有幽灵存活，你就会完全安全！
+
+每次爆炸都会开始下一阶段，每个阶段持续30秒，直到下一次分裂。每次连续分裂都会增加一个幽灵到房间里，最多可达6个！
+
+有几种方式可以管理这种情况，尤其是对于新的团队。
+
+一种方法是让每个人被分配到一个柱子。每个柱子有两个人，不包括上面长着蘑菇的红橙色柱子。
+
+这样每个阶段都有人知道去哪里，他们可以成对杀死自己的小怪，然后再处理其他剩余的小怪，完成任务的人可以帮助完成。
+
+如果以上攻略成功完成，当然就会留下一个单独的。
+
+以下是攻略的翻译：
+
+这里是你的第二选择。召集你的团队轰击它，因为其他人都已死亡，每个人都可以快速击杀它。或者回到中间，并准备好在爆炸发生时进行格挡。
+
+只要BOSS身上有少量削减（debuff）效果，留下一个幽灵并格挡爆炸就不会致死你的队友。但若没有削减效果，或者人们没有格挡（或使用伤害护盾），他们很可能会死亡。
+
+简而言之，两人守一柱，杀掉幽灵，然后回来，或者两人守一柱，忽略蘑菇那个，但一定要格挡炮击！其中的专有名词有：Ghost（幽灵/鬼魂）、mage（法尊/法师）、pillar（柱）、mushroom（蘑菇）、block（格挡）、boom（炮击）。
+
+如果你有一个副坦克的话，他们应该四处奔跑并嘲讽所有的鬼魂，以确保“魔法弹”攻击不会对团队造成影响（鬼魂具有与Boss相同的效果），并削弱它们的能力，以便团队成员可以更快地击败它们。
+
+* **AOE爆发** :  整场战斗中，在加强和焚烧以及杀死幽灵的过程中，玩家们身下会冒出讨厌的AOE效果。这就是为什么你不要站在一起。如果你可以协调好而不像无头苍蝇乱跑，你可以走出AOE范围，或者你可以静止不动并接受治疗。
+
+最重要的是，不要叠加。叠加会使多个物品落在同一个地方。如果一个输出/治疗人员在满血状态下被一个落下的物品击中，他们将幸存，但如果被2个物品击中，他们会死亡！
+
+小心脚下！
 
 
 
@@ -212,45 +212,6 @@
 
 <eng>
 
-> VARLARIEL
-> 
-> 
-> **VARLARIEL**
-> 
-> This boss as far as mechanics go are pretty simple but this can be a complete mess! This is the well known PUG KILLER of the trial. The tank should stand by the boss and taunt it, and pretty much keep her facing the tank at all times while maintaining a taunt/debuffs etc etc.
-> 
-> The group should be in a large circle NOT stacking, everyone must have their own space.
-> 
-> **Magic Bolt** - during the fight the boss will fire magical bolts at the person who has the aggro (this should be the tank). These deal moderate damage and shouldn't prove too much of a problem BUT if a dps is hit by more than one of these they will most likely die.
-> 
-> **Split!** - The boss will split into 3 ghosts during the fight and each one will position themselves by the pillars around the room. Once they have been killed after a time, the boss will cast a huge explosion. The more ghosts still alive the stronger the hit. If no ghosts are alive you will be completely fine!
-> 
-> Every explosion starts the next phase and each phase lasts 30seconds until the NEXT split. Each consecutive split will add one more ghost to the room. The maximum is 6!
-> 
-> There are a couple of ways to manage this especially as new groups.
-> 
-> One way is to have everyone assigned to a pillar. Two people per pillar EXCLUDING the reddish orange one with the mushrooms on it.
-> 
-> This way every phase people know where to go, they can kill their add in twos and then any remaining, people who have finished theirs can help finish off.
-> 
-> With the above being successful there will of course be one left on its own.
-> 
-> Here is where your second choice comes in. Get your group collectively to nuke it since the others are dead and everyone can kill it fast. OR get back to the middle and be ready to BLOCK when the explosion happens.
-> 
-> So long as the boss has minor maim on it (debuff ) leaving ONE ghost alive and blocking the explosion will NOT kill your team. BUT with the debuff missing and people not blocking(or using a damage shield) they will most likely die.
-> 
-> So in a nut shell, 2 to a pillar, kill the ghost and come back in, OR 2 to a pillar and ignore the mushroom one, but be sure to block the boom!
-> 
-> If you have an off tank by the way, they should run around taunting all of the ghosts to make sure the 'Magic Bolts' attack stays off the group (the ghosts have the same effect as the boss) and also debuff them so people can kill them faster.
-> 
-> **AOE bursts** - Throughout the whole fight, the stacking and burning AND the killing of the ghosts, players will have nasty popping aoes under them. This is why you do NOT stack. You can step out of them if you can coordinate without running around like a headless chicken OR you can stand still and take heals.
-> 
-> MOST important of all though, again, do NOT stack. stacking will make multiples land in the same place. If a dps/healer is hit by ONE at full health, they will survive, if they are hit with 2x, they WILL die!
-> 
-> Watch your feet!
-> 
-> 
-> 
 > LIGHTNING STORM ATRONACH
 > 
 > 
@@ -306,6 +267,45 @@
 > Instead of stacking at the boss, everyone should spread out, and hold block to avoid being knocked down. You can still cast some abilities and heals while blocking.
 > 
 > Once he stands up again, go back to stacking and burning. Rinse repeat this, spread out blocking tactic every time he crouches down for the rest of the fight.
+> 
+> 
+> 
+> VARLARIEL
+> 
+> 
+> **VARLARIEL**
+> 
+> This boss as far as mechanics go are pretty simple but this can be a complete mess! This is the well known PUG KILLER of the trial. The tank should stand by the boss and taunt it, and pretty much keep her facing the tank at all times while maintaining a taunt/debuffs etc etc.
+> 
+> The group should be in a large circle NOT stacking, everyone must have their own space.
+> 
+> **Magic Bolt** - during the fight the boss will fire magical bolts at the person who has the aggro (this should be the tank). These deal moderate damage and shouldn't prove too much of a problem BUT if a dps is hit by more than one of these they will most likely die.
+> 
+> **Split!** - The boss will split into 3 ghosts during the fight and each one will position themselves by the pillars around the room. Once they have been killed after a time, the boss will cast a huge explosion. The more ghosts still alive the stronger the hit. If no ghosts are alive you will be completely fine!
+> 
+> Every explosion starts the next phase and each phase lasts 30seconds until the NEXT split. Each consecutive split will add one more ghost to the room. The maximum is 6!
+> 
+> There are a couple of ways to manage this especially as new groups.
+> 
+> One way is to have everyone assigned to a pillar. Two people per pillar EXCLUDING the reddish orange one with the mushrooms on it.
+> 
+> This way every phase people know where to go, they can kill their add in twos and then any remaining, people who have finished theirs can help finish off.
+> 
+> With the above being successful there will of course be one left on its own.
+> 
+> Here is where your second choice comes in. Get your group collectively to nuke it since the others are dead and everyone can kill it fast. OR get back to the middle and be ready to BLOCK when the explosion happens.
+> 
+> So long as the boss has minor maim on it (debuff ) leaving ONE ghost alive and blocking the explosion will NOT kill your team. BUT with the debuff missing and people not blocking(or using a damage shield) they will most likely die.
+> 
+> So in a nut shell, 2 to a pillar, kill the ghost and come back in, OR 2 to a pillar and ignore the mushroom one, but be sure to block the boom!
+> 
+> If you have an off tank by the way, they should run around taunting all of the ghosts to make sure the 'Magic Bolts' attack stays off the group (the ghosts have the same effect as the boss) and also debuff them so people can kill them faster.
+> 
+> **AOE bursts** - Throughout the whole fight, the stacking and burning AND the killing of the ghosts, players will have nasty popping aoes under them. This is why you do NOT stack. You can step out of them if you can coordinate without running around like a headless chicken OR you can stand still and take heals.
+> 
+> MOST important of all though, again, do NOT stack. stacking will make multiples land in the same place. If a dps/healer is hit by ONE at full health, they will survive, if they are hit with 2x, they WILL die!
+> 
+> Watch your feet!
 > 
 > 
 > 

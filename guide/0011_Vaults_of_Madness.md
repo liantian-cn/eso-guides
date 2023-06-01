@@ -4,23 +4,6 @@
 
 
 
-### “预兆”伊斯克拉
-
-
-这个任务并不像看起来的那么棘手或艰难，但局势可能很快就会变得不利。它的健康值很低，但它拥有一些大范围攻击技能，所以一定要注意。坦克应该让它保持在中央，而小组成员则尽可能靠近（同时注意机械装置）。如果每个人都保持密切联系，但有自己的空间，而不是堆在彼此脚下，那么很容易看出谁即将成为攻击焦点。
-
-* **吐息** :  这是一个朝着一个玩家的超大直线火焰吐息技能，目标是随机的，因此我们需要自己的站位。一旦你能看到它要攻击的玩家，那个玩家只需要向一侧移动并让技能通过即可。技能会留在地面上，不要站在上面。
-
-* **跳跃重击** :  病理魔物会直接跳到空中并重击地面。这个很简单，闪避/向后滚动并避免接触，然后尽快回到位置上。一旦病理魔物结束这个技能，很重要的是你必须再次接近它。
-
-* **跳跃** :  这个BOSS会对距离他最远的人进行跳跃攻击，所以要保持近距离！如果你太远了，BOSS跳的距离会非常远，你就需要花费更多的资源在巨大的房间里奔跑以重新施加伤害。诀窍是整场战斗尽可能地保持接近距离。这样当BOSS选择一个玩家时，你已经如此接近，之前施加的伤害会得以延续。BOSS只会移动几英尺而不是几英里！保持接近。跳跃攻击会像跳跃一样造成大面积的溅射伤害，需要避免。
-
-记住，遵循机制，出去，再回来！
-
-
-
-
-
 ### 被诅咒者
 
 > The Cursed One
@@ -133,6 +116,27 @@
 
 
 
+### “预兆”伊斯克拉
+
+> Iskra The Omen
+
+
+** 预兆之刃伊斯克拉 **
+
+这个任务并不像看起来的那么棘手或艰难，但局势可能很快就会变得不利。它的健康值很低，但它拥有一些大范围攻击技能，所以一定要注意。坦克应该让它保持在中央，而小组成员则尽可能靠近（同时注意机械装置）。如果每个人都保持密切联系，但有自己的空间，而不是堆在彼此脚下，那么很容易看出谁即将成为攻击焦点。另外已知专有名词"Un"翻译为"乌恩"，"Zur"翻译为"祖尔"，"En"翻译为"恩"，"Spirit"翻译为"灵魂"。
+
+* **吐息** :  这是一个朝着一个玩家的超大直线火焰吐息技能，目标是随机的，因此我们需要自己的站位。一旦你能看到它要攻击的玩家，那个玩家只需要向一侧移动并让技能通过即可。技能会留在地面上，不要站在上面。
+
+* **跳跃重击** :  病理魔物会直接跳到空中并重击地面。这个很简单，闪避/向后滚动并避免接触，然后尽快回到位置上。一旦病理魔物结束这个技能，很重要的是你必须再次接近它。注：Un、Zur、En均为该游戏中的专有名词，指代特定种族或势力，Spirit则指代灵魂。
+
+* **跳跃** :  这个BOSS会对距离他最远的人进行跳跃攻击，所以要保持近距离！如果你太远了，BOSS跳的距离会非常远，你就需要花费更多的资源在巨大的房间里奔跑以重新施加伤害。诀窍是整场战斗尽可能地保持接近距离。这样当BOSS选择一个玩家时，你已经如此接近，之前施加的伤害会得以延续。BOSS只会移动几英尺而不是几英里！保持接近。跳跃攻击会像跳跃一样造成大面积的溅射伤害，需要避免。其中，“Un”翻译为“乌恩”，“Zur”翻译为“祖尔”，“En”翻译为“恩”，“Spirit”翻译为“灵魂”。
+
+记住，遵循机制，出去，再回来！
+
+
+
+
+
 ### 疯狂建筑师
 
 > Mad Architect
@@ -168,23 +172,6 @@
 
 <eng>
 
-> Iskra The Omen
-> 
-> 
-> ** ISKRA THE OMEN **
-> 
-> This one is not as tricky or as tough as he looks but things can go wrong quickly. He has low health and some LARGE aoe abilities so make sure you pay attention to this. The tank should keep it dead center while the group stay as close as possible (while watching out for mechanics). If everyone stays close but has their OWN SPACE, not stacking on each others feet, it is easy to see who is about to be focused.
-> 
-> **Breath** - This is a flame breath ability in a HUGE straight line aimed at ONE player, The target is random so hence why we have our own positions. Once you can see who it is going to hit, that player simply needs to move to the side and let it pass.  It will remain on the floor so don't stand in it.
-> 
-> **Jump/slam** - The ill jump straight up in the air and slam the ground. Very simple this one. Dodge roll/run backwards and avoid it, then get back IN to position asap, it is VERY important that you get close again once it is gone...
-> 
-> **Leap** - The boss will LEAP to the person FURTHEST away in this fight, so STAY CLOSE! If you are too far away it will jump for MILES and you have to spend more resources running around this massive room to reapply damage. The trick is to stay as close as possible the whole fight. That way when it selects a player you will already be so close that the damage already applied will be continued. The boss will move a couple of feet rather than a couple of miles! STAY CLOSE. The leap hits with a large aoe splash just like the jump and should be avoided in the same way.
-> 
-> Remember, follow mechanics, get out, then get back in again!
-> 
-> 
-> 
 > The Cursed One
 > 
 > 
@@ -270,6 +257,23 @@
 > **Spin** - The spin  attack is a nasty one and does high damage in aoe. As dps and healers you can move away from this OR keep doing what you are doing with high health upkeep. So long as the heals are coming in this should be fine but if you are not max health when this hits, you run the risk of dying. So HP maintenance is key.
 > 
 > **Enrage** - With low health the bosses aoe damage escalates so at low health keep up the heals and execute it as fast as you can to prevent this from being a problem.
+> 
+> 
+> 
+> Iskra The Omen
+> 
+> 
+> ** ISKRA THE OMEN **
+> 
+> This one is not as tricky or as tough as he looks but things can go wrong quickly. He has low health and some LARGE aoe abilities so make sure you pay attention to this. The tank should keep it dead center while the group stay as close as possible (while watching out for mechanics). If everyone stays close but has their OWN SPACE, not stacking on each others feet, it is easy to see who is about to be focused.
+> 
+> **Breath** - This is a flame breath ability in a HUGE straight line aimed at ONE player, The target is random so hence why we have our own positions. Once you can see who it is going to hit, that player simply needs to move to the side and let it pass.  It will remain on the floor so don't stand in it.
+> 
+> **Jump/slam** - The ill jump straight up in the air and slam the ground. Very simple this one. Dodge roll/run backwards and avoid it, then get back IN to position asap, it is VERY important that you get close again once it is gone...
+> 
+> **Leap** - The boss will LEAP to the person FURTHEST away in this fight, so STAY CLOSE! If you are too far away it will jump for MILES and you have to spend more resources running around this massive room to reapply damage. The trick is to stay as close as possible the whole fight. That way when it selects a player you will already be so close that the damage already applied will be continued. The boss will move a couple of feet rather than a couple of miles! STAY CLOSE. The leap hits with a large aoe splash just like the jump and should be avoided in the same way.
+> 
+> Remember, follow mechanics, get out, then get back in again!
 > 
 > 
 > 

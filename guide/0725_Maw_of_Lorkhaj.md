@@ -4,6 +4,246 @@
 
 
 
+### 遗忘者扎哈撒
+
+> ZHAJ'HASSA THE FORGOTTEN
+
+
+**遗忘者扎哈撒**
+
+这个首领比较简单，但如果人们不踏实并公平地玩耍，可能会结束得一团糟。我所说的“公平地玩耍”，就是人们真的需要尝试不只是四处奔波取净化垫，并让其他人一无所获。纪律你的小组，如果你必须为别人的利益而死，那就忍耐吧。其中专有名词包括：恩，遗忘者扎哈撒，斯金莱，朗纳，性谦和，箭矢倾泻，奥顿，速射，新星，瓦沙，阿克，暗影。
+
+如果你乱跑的话，你会错位柱子，传播诅咒，基本上只会拖延战斗时间，这意味着团队最终会灭亡，因为战斗从技术上讲有一个时间限制。战斗时间越长，最后的爆炸杀死你们的机会就越大。其中涵盖的专有名词有：恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克和暗影。
+
+这个房间有6个垫子（足够每组分享2个），所以把你的团队分配到其中2个垫子上开始行动。始终遵守这个规则，并且除非你真的必须这样做，否则不要偏离这个规则。
+
+坦克应该将BOSS拉到中间或靠近自己的垫子附近，当然不要丢失仇恨。
+
+* **游戏攻略翻译如下
+
+当战斗开始时团队应该分成两个半圆形来包围首领（近战在前远程在后）彼此之间要接近但不要重叠（相距2** : 3米左右）。如果你们重叠在一起，那么会导致全灭，所以远程队员不要站得太外面，但也不要站太近，每个人都要有自己的空间。 
+
+注：En=>恩, Zhaj'hassa the Forgotten=>遗忘者扎哈撒, S'Kinrai=>斯金莱, Runner=>朗纳, Gracious=>性谦和, Arrow Spray=>箭矢倾泻, Otten=>奥顿, Rapid Fire=>速射, Nova=>新星, Vashai=>瓦沙, Ak=>阿克, Shadow=>暗影, S'kinrai=>斯金莱为游戏中出现的专有名词，未进行翻译。
+
+* **咒语／垫子** :  这很简单。每个咒语阶段，首领会举起手，随机咒语3个人。这3个人必须去垫子上净化，然后再回来。这里有6个垫子，每个垫子都有25秒的计时器。如果有人使用了垫子，那么它直到25秒后才会重新刷新。
+
+攻略翻译如下：
+使用6个垫子和3个诅咒意味着每个阶段将使用3个垫子。到第二阶段时，另外3个垫子将被使用，并且在第3阶段时，第一个3个垫子应该重新生成，这应该形成一个循环。始终应该有一个可用的垫子。其中，En翻译为恩，Zhaj'hassa the Forgotten翻译为遗忘者扎哈撒，S'Kinrai翻译为斯金莱，Runner翻译为朗纳，Gracious翻译为性谦和，Arrow Spray翻译为箭矢倾泻，Otten翻译为奥顿，Rapid Fire翻译为速射，Nova翻译为新星，Vashai翻译为瓦沙，Ak翻译为阿克，Shadow翻译为暗影。
+
+然而，这里有个问题。你必须分散开，因为诅咒会在其它玩家身上传播，如果他们被其它人的范围伤害区域影响到的话。如果这种情况发生，你会用尽治疗药剂，玩家会被诅咒太久而死亡。其中的专有名词包括：恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克、暗影。
+
+当这种情况发生时，如果你知道来不及到达传送点，或者你没有传送点可去，继续做你正在做的事情，准备为别人复活而接受死亡。注意：上文中包含了一些游戏角色和技能的专有名词，如需参考，请查看开头的名词翻译。
+
+如果您在开始时被分配了一个位置，并且与一个治疗者共用它。如果您被诅咒了，请始终检查他们是否也被诅咒。如果您是一个DPS（伤害输出职业），而治疗者需要使用这个位置而不是您，请留在原地让治疗者使用。坦克和治疗者是位置的优先生存者，否则事情会很快乱掉！以下为一些专有名词的翻译：Zhaj'hassa the Forgotten=>遗忘者扎哈撒,S'Kinrai=>斯金莱,Runner=>朗纳,Gracious=>性谦和,Arrow Spray=>箭矢倾泻,Otten=>奥顿,Rapid Fire=>速射,Nova=>新星,Vashai=>瓦沙,Ak=>阿克,Shadow=>暗影。
+
+注意：如果坦克被诅咒，坦克应该交换位置（副坦克拿住BOSS，主坦克被清理过程中安全后交换回来，但不要移动BOSS到房间的其他位置）。本段中出现的专有名词包括：坦克 (tank)。
+
+* **猫** :  每当首领的健康值降低20%，房间中会出现4只猫，它们会随机攻击团队中的玩家。主坦克或副坦克应将它们拉进战斗（如果可能的话就放在首领下面）并控制它们。它们不会受到嘲讽的影响（除了减益效果），但可以被控制技能控制。团队应该尽快将其集中攻击（使用必杀技）或对其进行AOE伤害。
+
+这个阶段会在首领剩余80%、60%、40%和20%的血量时重复出现。 
+
+以下是专有名词的翻译：
+
+En => 恩
+Zhaj'hassa the Forgotten => 遗忘者扎哈撒
+S'Kinrai => 斯金莱
+Runner => 朗纳
+Gracious => 性谦和
+Arrow Spray => 箭矢倾泻
+Otten => 奥顿
+Rapid Fire => 速射
+Nova => 新星
+Vashai => 瓦沙
+Ak => 阿克
+Shadow => 暗影
+
+* **柱子** :  在战斗中，首领将随机瞄准一名玩家，用他的锤子挥向他们，并使一根柱子从地面上升起。这就是为什么人们不应该靠近垫子周围，因为你想让这些柱子靠近！
+
+攻略翻译如下：
+在第一阶段，他最终会召唤出5个柱子。一旦这发生，他将祈祷并制造一个巨大的爆炸，任何被困在其中的人都将一击必杀。其中的专有名词如下：En=>恩，Zhaj'hassa the Forgotten=>遗忘者扎哈撒，S'Kinrai=>斯金莱，Runner=>朗纳，Gracious=>性谦和， Arrow Spray=>箭矢倾泻，Otten=>奥顿，Rapid Fire=>速射，Nova=>新星，Vashai=>瓦沙，Ak=>阿克，S'kinrai=>斯金莱，Shadow=>暗影。
+
+生存的方式是每个人都躲在任何柱后面。这样做将保护你，柱子也会消失。一旦安全，战斗将像往常一样继续进行。
+
+这个阶段会在整场战斗中不断重复，每个阶段中的柱子数量会越来越少。
+
+* **首阶段为5然后是4再然后是3接着是2最后是1然后就没有了如果你到了零支柱阶段他开始祈祷而你在爆炸之前没能把他杀死那么就是全灭你们都会死掉其中的专有名词翻译如下** :  En => 恩
+- Zhaj'hassa the Forgotten => 遗忘者扎哈撒
+- S'Kinrai => 斯金莱
+- Runner => 朗纳
+- Gracious => 性谦和
+- Arrow Spray => 箭矢倾泻
+- Otten => 奥顿
+- Rapid Fire => 速射
+- Nova => 新星
+- Vashai => 瓦沙
+- Ak => 阿克
+- Shadow => 暗影
+
+关键是要遵循这次战斗的机制，尽可能避免死亡，因为死亡会浪费时间，浪费时间会使你更接近零柱阶段。其中涉及的专有名词有：En（恩）、Zhaj'hassa the Forgotten（遗忘者扎哈撒）、S'Kinrai（斯金莱）、Runner（朗纳）、Gracious（性谦和）、Arrow Spray（箭矢倾泻）、Otten（奥顿）、Rapid Fire（速射）、Nova（新星）、Vashai（瓦沙）、Ak（阿克）、Shadow（暗影）。
+
+* **盾牌阶段** :  在战斗中当首领剩下70％和30％的生命值时，首领将会护盾自己，使小队成员下方会出现一个爆发AOE伤害区域（每人一个）。此伤害每次脉冲都会造成伤害，而伤害频率会随着首领持续保持护盾的时间而变得越来越快。其中，boss变成护盾状态时，被害者需要注意保护自己不要被伤害击中。
+
+这是你的团队需要靠近并集中造成尽可能多的伤害、减免和治疗，但最重要的是不要重叠！ 爆裂圆圈一定不能重叠，否则人们当然会受到其他人的区域攻击的伤害。专注、放松并把boss的伤害护盾除去。一旦护盾消失，战斗继续进行。在这里， "En"囤积，"遗忘者扎哈撒"，"斯金莱"，"朗纳"，"性谦和"，"箭矢倾泻"，"奥顿"，"速射"，"新星"，"瓦沙"，"阿克"和"暗影"都是一些专有名词。
+
+现在是释放新星或冰封领域的好时机，如果你有这两个技能都可以使用，这将有助于减少团队的伤害。如果你的队友伤害比较低，这仍然可以完成，但你需要更多地治疗来增加持续时间和进攻。不要惊慌！
+
+注意：你不需要每秒输出超过90k的伤害。每个玩家每秒输出25k以上的伤害，同时保持活着并掌握好机制就足够完成此任务，但务必确保操作干净和专注。你需要尽可能地存活下来，否则会变得混乱。游戏中出现的专有名词包括：恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克、暗影。
+
+
+
+
+
+### 瓦沙
+
+> VASHAI
+
+
+* **瓦沙和斯金莱** :  双子！**
+
+这可能是游戏中最臭名昭著的战斗。双子星！这需要真正的团队协调和对机制的理解！注意避免斯金莱的箭矢倾泻和新星技能，并集中打击遗忘者扎哈撒和斯金莱。朗纳将沿着巨大的火盆周围的道路奔跑来躲避攻击。尽量不要让他触发某些技能，例如暗影技能，因为它可能会导致灾难性的后果。一旦其中一个双子星的生命值降至50％以下，请注意，他们将在地面上留下冰冻十字架，并在一段时间后引发爆炸！
+
+你需要让你的队伍分成两组，每组有6名玩家。每组需要一个坦克、一个治疗师和四个输出职业。
+
+战斗的方式是，每个团队的角色头顶会有不同的颜色。你必须只能和和自己头顶颜色相同的队友呆在一起（黄色或蓝色）。如果你接触或靠近任何对立颜色的人，你们两个都会爆炸。在游戏中，恩，遗忘者扎哈撒，斯金莱，朗纳，性谦和，箭矢倾泻，奥顿，速射，新星，瓦沙，阿克，暗影等专有名词也会用到。
+
+此外，对于伤害输出，如果你攻击的敌人和你头上的颜色相同，你只会造成你的最大伤害的10％。你必须总是攻击相反颜色的敌人！其中En、Zhaj'hassa the Forgotten、S'Kinrai、Runner、Gracious、Arrow Spray、Otten、Rapid Fire、Nova、Vashai、Ak和Shadow是该游戏中的专有名词。
+
+非常重要的是，你清楚自己的队伍是什么颜色和首领是什么。一旦排序完成，坦克必须确保交换首领，以便他们的小组可以命中正确的目标。这非常重要。除非机制告诉你其他要求，否则请留在你的小组中。
+
+* **原始** :  这是指坦克（承受BOSS攻击的角色）。当战斗开始时，一组人将嘲讽黄色BOSS，另一组人将嘲讽蓝色BOSS。每一方的坦克必须记住自己所承受的那个BOSS，称其为自己的“原始”BOSS。这是至关重要的！- 在“原始”阶段下面有更详细的解释。其中，“yellow”和“blue”分别为游戏中两种不同颜色的BOSS标识。En翻译为“恩”，Zhaj'hassa the Forgotten翻译为“遗忘者扎哈撒”，S'Kinrai翻译为“斯金莱”，Runner翻译为“朗纳”，Gracious翻译为“性谦和”，Arrow Spray翻译为“箭矢倾泻”，Otten翻译为“奥顿”，Rapid Fire翻译为“速射”，Nova翻译为“新星”，Vashai翻译为“瓦沙”，Ak翻译为“阿克”，Shadow翻译为“暗影”。
+
+* **增援怪物** :  每一队都会出现蓝色和黄色两种增援怪物，它们的反应方式各不相同。蓝色增援怪物是远程攻击型的，类似于阳光吞噬者类型的怪物。而黄色增援怪物更偏近战类型，会受到嘲讽而靠近玩家攻击，而不是从远程攻击（虽然它们也有远程攻击能力）。
+
+每个新阶段后都会有一个加入阶段，在颜色公布后的10秒钟内会出现。注意遗忘者扎哈撒和斯金莱的出现和朗纳的射箭攻击，同时，性谦和的加入会使得伤害增加。在战斗中使用箭矢倾泻、速射和新星等技能，随时注意阿克和暗影的位置。瓦沙可能会在战斗中出现，奥顿需要被优先消灭。
+
+攻略翻译如下：
+战斗一开始会有每种类型的一个小怪，然后是两个，再是三个，最后是四个，这可能会非常混乱。小怪数量取决于你在战斗中对首领造成了多少伤害。请注意，En, Zhaj'hassa the Forgotten, S'Kinrai, Runner, Gracious, Arrow Spray, Otten, Rapid Fire, Nova, Vashai, Ak, Shadow等专有名词的翻译不变。
+
+* **黄色小怪** :  这些怪物具有反射光能力，必须通过净化来去除，同时还有“耶稣光束”（圣辉压制），必须通过打断来阻止，否则被攻击的目标将会被震晕直到死亡！所以，无论如何，保持打断非常关键。
+
+* **攻略翻译如下
+蓝色小怪** :  会向房间各个方向投掷不友好的球体，因此你需要确保这些球体始终背对着对方团队（球体对于拥有黄色头衔的人造成更多伤害）。其中 "En" 没有在攻略中出现。"遗忘者扎哈撒"翻译为 "Zhaj'hassa the Forgotten"，"斯金莱" 翻译为 "S'Kinrai"，"朗纳"翻译为 "Runner"，"性谦和" 翻译为 "Gracious"，"箭矢倾泻" 翻译为 "Arrow Spray"，"奥顿" 翻译为 "Otten"，"速射" 翻译为 "Rapid Fire"，"新星" 翻译为 "Nova"，"瓦沙" 翻译为 "Vashai"，"阿克" 翻译为 "Ak"，"暗影" 翻译为 "Shadow"。
+
+攻击黄色boss的队伍，必须控制并消灭黄色小怪。
+
+攻击蓝色首领的队伍必须控制并消灭蓝色小兵。
+
+黄色的敌人很容易被远程嘲讽控制住，但蓝色的敌人就不是那么容易了，您需要有锁链、传送门、银链等团队支援，或者一个非常灵活的坦克能够操控它们。其中"yellows"指的是普通的敌人，"blues"指的是更难以应对的敌人，具体的名称没有给出。
+
+然而，不管你决定如何定位，你必须无论如何击败这些敌人。如果在后面的阶段中有其他敌人加入战斗，局面会变得非常混乱。其中，遗忘者扎哈撒、斯金莱和朗纳等是非常危险的对手。在战斗中，要注意性谦和、奥顿和阿克等敌人经常会施放大范围的技能，像箭矢倾泻、速射和新星等。暗影和瓦沙等敌人则会迅速穿越战场，经常使你失去目标。
+
+所以，最重要的是要一直集中攻击小怪物！
+
+* **黄色首领 斯金莱** :  这个首领有一些需要格挡的前方斩击，当然也需要把它们转向远离小队的方向。
+
+他会发射类似黄色小怪物射出的反射光，需要清除。最后他还有一个耶稣光束（辉光压制），通常会瞄准坦克并把其钉在地上，这必须中断。 
+
+注：En=>恩,Zhaj'hassa the Forgotten=>遗忘者扎哈撒,S'Kinrai=>斯金莱,Runner=>朗纳,Gracious=>性谦和,Arrow Spray=>箭矢倾泻,Otten=>奥顿,Rapid Fire=>速射,Nova=>新星,Vashai=>瓦沙,Ak=>阿克,Shadow=>暗影。
+
+将这个Boss放置在房间的一侧中央是非常完美的，因为它可以让你处于一个很好的位置来吸引小怪。站在原地击杀这个Boss！
+
+* **蓝色BOSS（瓦沙）** :  这个BOSS有几个轻攻击和一个重击，会将任何被击中的人击飞，因此一定要确保坦克一直对其进行控制。如果你使用格挡来抵挡它，就不会有任何问题，因为它的攻击可以被格挡住。
+
+* **然而这个BOSS有一个negate bubble（否决泡泡）的技能每个阶段会施放2** : 3个。通常会瞄准坦克（但不总是），因此在视频中，坦克不会站在队伍那一侧战斗，而是贴着墙壁，物理上欺骗泡泡着陆的位置。每个泡泡到位后，坦克就会从泡泡中走出来，到墙边的安全位置等待下一个泡泡。从泡泡到泡泡缓慢地诱导BOSS，直到阶段结束。
+
+* **攻略翻译如下
+
+转换阶段** :  在这个阶段，BOSS会祈祷（如视频所示），然后随机选择每一方的3个人（不包括坦克），这些人会在脚下看到一种颜色，表示他们需要快速转换阵营。
+
+基本上你的头的颜色即将改变...如果你不能及时改变，你将加入现在错误的团队并炸死人。
+
+每边有3人，快速交换位置！顺时针交换，以免混淆。
+
+当它们到位后，它们会在一个有不同颜色头的不同首领身上，然后继续正常执行。
+
+《上古卷轴Online》攻略：
+
+**转换还是留下？！**——在“转换”之后，首领会传送到房间的两侧，一个靠近每个团队。这就是你需要集中注意力看你刚才做了什么的地方...
+
+如果你旁边的BOSS是你刚刚攻击的BOSS（颜色与你的头衔不同），那么你没事了...“站在原地”继续战斗（但要靠近BOSS）。
+
+如果靠近你的BOSS和你的头部颜色相同，那么你要像鬼一样地逃跑并顺时针“交换”并拥抱房间另一侧的另一个BOSS。其中的专有名词恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克和暗影则不需要翻译。
+
+* **简单点说如果Boss的颜色和你相反就留下来攻击它如果颜色和你相同就换位置攻击 
+
+另外以下是已知专有名词的翻译** :  En => 恩
+- Zhaj'hassa the Forgotten => 遗忘者扎哈撒
+- S'Kinrai => 斯金莱
+- Runner => 朗纳
+- Gracious => 性谦和
+- Arrow Spray => 箭矢倾泻
+- Otten => 奥顿
+- Rapid Fire => 速射
+- Nova => 新星
+- Vashai => 瓦沙
+- Ak => 阿克
+- Shadow => 暗影
+
+* **原版阶段** :  这是给坦克们的。
+
+在这个阶段，你需要将恩和遗忘者扎哈撒分开。让遗忘者扎哈撒跑到远处，然后再打恩。坦克应该将斯金莱引导到远离队友的地方。
+
+在你和遗忘者扎哈撒的战斗中，朗纳需要不断移动，以避免被箭矢倾泻和速射击中。
+
+在恩或斯金莱使用新星之前，性谦和应该使用治疗技能。
+
+奥顿应该一直在使用AOE技能来攻击暗影。
+
+当阿克出现时，坦克需要立即将其引导到远离队友的地方并打倒它。
+
+在这个阶段，所有队员都应该使用自己的治疗技能，以确保生命值保持较高水平。
+
+在“切换或保持”阶段结束后，首领们将会祈祷，房间会爆炸，将所有玩家的颜色清除。不久之后，所有玩家将会获得与他们最接近的首领的颜色...这是坦克唯一的机会，要做对这一点...
+
+还记得你当时嘲讽的第一个Boss吗？它是什么颜色的？在人们恢复颜色之前，赶快跑向那个Boss！
+
+如果您已经在需要的位置，请待在原地并留在您附近的首领（不要挑衅它）并获取您需要的颜色... 一旦您拿到了它，挑衅相反的首领，然后继续像一开始那样。游戏中的专有名词：颜色在游戏中不确定，无法翻译。
+
+如果你没有和正确的Boss站在一起，你需要在颜色分配之前快速跑到房间的另一边，找到正确站位。其中，En，遗忘者扎哈撒，斯金莱，朗纳，性谦和，箭矢倾泻，奥顿，速射，新星，瓦沙，阿克，暗影均为该游戏特有的专有名词。
+
+基本上在这个“没有颜色阶段”期间，有一个短暂的时间窗口可以重新定位。一旦结束，你需要确保你靠近你想要的首领并且想要染色的目标。如果你离得太远或位置不对，那么就会有人死亡。请注意，恩或遗忘者扎哈撒可能会使用多个新的技能，如斯金莱、朗纳和性谦和的箭矢倾泻，速射和新星的能力，所以一定要小心并保持准备。
+
+提示：当你回去打你原来的首领时，你的下一个阶段是嘲讽另一个首领（记住吗？坦克像起始拉力一样轮番交换）......为了省些麻烦，如果你必须穿过房间...（En，恩；Zhaj'hassa the Forgotten，遗忘者扎哈撒；S'Kinrai，斯金莱；Runner，朗纳；Gracious，性谦和；Arrow Spray，箭矢倾泻；Otten，奥顿；Rapid Fire，速射；Nova，新星；Vashai，瓦沙；Ak，阿克；S'kinrai，斯金莱；Shadow，暗影）
+
+不要一直奔跑，获得你的颜色，然后转身回去，嘲笑其他人越过终点线（交换boss），然后再重新安排位置...
+
+让你自己简单些，挑衅坏的那个，跑到好的那个，当你到达正确的一侧，当你获得彩色，Boss们会停止祈祷，你已经得到了你想要的那个的仇恨，他会从房间另一侧简单地朝你奔来。其中"taunt"指用嘲讽技能吸引敌人攻击自己。
+
+这需要一些练习，但一旦你掌握了它，就会变得容易很多。
+
+注意：一旦这个阶段结束，你需要重复第一步，添加、转换、切换或保留原始选项。反复这个过程。
+
+* **执行** :  执行比较棘手，两个Boss有不同的生命值条，尽管它们共享总体生命值。控制伤害的节奏。确保在最后让它们保持在比较靠近的位置。如果必要，减少其中一个的伤害以平衡两个Boss的生命值。其中一个Boss死亡后，另一个Boss将获得额外的技能和伤害加成，需要额外小心。在任务中使用扎哈撒的异端派的能力（例如恩斯金莱的助跑（S'Kinrai Runner））对于减少生命值很有帮助，并在击杀一个Boss的情况下提供相当可观的伤害加成，以帮助尽早击败另一个Boss。在战斗中需要随时注意这些Boss的技能（例如性谦和的箭矢倾泻（Gracious Arrow Spray）和奥顿的速射（Otten Rapid Fire）），并利用技能和装备来干扰/克制它们。在阿克和瓦沙的新星（Ak and Vashai Nova）到来时，最好找到掩护或远离，以降低受到的伤害。
+
+攻略翻译如下：
+
+这是因为一旦其中一个首领死亡，所有的颜色都会消失，你们将能够集中精力攻击一个目标，并且另外4个仍然活着的颜色首领会重新出现（所以你们可以拥有大约8个添加）。当这种情况发生时，你们只有20秒的时间去杀死它，否则它会进入房间中间，祈祷，爆炸，你们就会全部死亡...没有压力。其中 "Zhaj'hassa the Forgotten"翻译为"遗忘者扎哈撒"，"S'Kinrai"翻译为"斯金莱"，"Runner"翻译为"朗纳"，"Gracious"翻译为"性谦和"，"Arrow Spray"翻译为"箭矢倾泻"，"Otten"翻译为"奥顿"，"Rapid Fire"翻译为"速射"，"Nova"翻译为"新星"，"Vashai"翻译为"瓦沙"，"Ak"翻译为"阿克"，"Shadow"翻译为"暗影"。
+
+基本地，在低血量时控制输出，不要冲上去，否则可能会被击杀。 
+
+以下为专有名词的翻译： 
+
+En => 恩 
+Zhaj'hassa the Forgotten => 遗忘者扎哈撒 
+S'Kinrai => 斯金莱 
+Runner => 朗纳 
+Gracious => 性谦和 
+Arrow Spray => 箭矢倾泻 
+Otten => 奥顿 
+Rapid Fire => 速射 
+Nova => 新星 
+Vashai => 瓦沙 
+Ak => 阿克 
+Shadow => 暗影
+
+当小怪进入房间时，如果可能的话，坦克应该控制小怪，而小组则应该完成对它们的消灭。建议首先击杀黄色小怪，以免最终有8个「耶稣光束者」同时攻击，造成伤害。注意避免误伤恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克、暗影等专有名词角色。
+
+注意：完成此任务需要多少个阶段并不重要，每个阶段是否需要击杀4个小怪也不重要，只要你的机制处理干净，并且始终“聚焦小怪”，那么就只是重复这个过程。当人们惊慌时，他们会失败，当人们过度烧掉一个Boss而不是另一个时，他们也会失败。所以请放松，遵循机制，你就能做到！
+
+
+
+
+
 ### 拉卡特
 
 > RAKKHAT
@@ -350,252 +590,162 @@ Shadow=>暗影
 
 
 
-### 遗忘者扎哈撒
-
-> ZHAJ'HASSA THE FORGOTTEN
-
-
-**遗忘者扎哈撒**
-
-这个首领比较简单，但如果人们不踏实并公平地玩耍，可能会结束得一团糟。我所说的“公平地玩耍”，就是人们真的需要尝试不只是四处奔波取净化垫，并让其他人一无所获。纪律你的小组，如果你必须为别人的利益而死，那就忍耐吧。其中专有名词包括：恩，遗忘者扎哈撒，斯金莱，朗纳，性谦和，箭矢倾泻，奥顿，速射，新星，瓦沙，阿克，暗影。
-
-如果你乱跑的话，你会错位柱子，传播诅咒，基本上只会拖延战斗时间，这意味着团队最终会灭亡，因为战斗从技术上讲有一个时间限制。战斗时间越长，最后的爆炸杀死你们的机会就越大。其中涵盖的专有名词有：恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克和暗影。
-
-这个房间有6个垫子（足够每组分享2个），所以把你的团队分配到其中2个垫子上开始行动。始终遵守这个规则，并且除非你真的必须这样做，否则不要偏离这个规则。
-
-坦克应该将BOSS拉到中间或靠近自己的垫子附近，当然不要丢失仇恨。
-
-* **游戏攻略翻译如下
-
-当战斗开始时团队应该分成两个半圆形来包围首领（近战在前远程在后）彼此之间要接近但不要重叠（相距2** : 3米左右）。如果你们重叠在一起，那么会导致全灭，所以远程队员不要站得太外面，但也不要站太近，每个人都要有自己的空间。 
-
-注：En=>恩, Zhaj'hassa the Forgotten=>遗忘者扎哈撒, S'Kinrai=>斯金莱, Runner=>朗纳, Gracious=>性谦和, Arrow Spray=>箭矢倾泻, Otten=>奥顿, Rapid Fire=>速射, Nova=>新星, Vashai=>瓦沙, Ak=>阿克, Shadow=>暗影, S'kinrai=>斯金莱为游戏中出现的专有名词，未进行翻译。
-
-* **咒语／垫子** :  这很简单。每个咒语阶段，首领会举起手，随机咒语3个人。这3个人必须去垫子上净化，然后再回来。这里有6个垫子，每个垫子都有25秒的计时器。如果有人使用了垫子，那么它直到25秒后才会重新刷新。
-
-攻略翻译如下：
-使用6个垫子和3个诅咒意味着每个阶段将使用3个垫子。到第二阶段时，另外3个垫子将被使用，并且在第3阶段时，第一个3个垫子应该重新生成，这应该形成一个循环。始终应该有一个可用的垫子。其中，En翻译为恩，Zhaj'hassa the Forgotten翻译为遗忘者扎哈撒，S'Kinrai翻译为斯金莱，Runner翻译为朗纳，Gracious翻译为性谦和，Arrow Spray翻译为箭矢倾泻，Otten翻译为奥顿，Rapid Fire翻译为速射，Nova翻译为新星，Vashai翻译为瓦沙，Ak翻译为阿克，Shadow翻译为暗影。
-
-然而，这里有个问题。你必须分散开，因为诅咒会在其它玩家身上传播，如果他们被其它人的范围伤害区域影响到的话。如果这种情况发生，你会用尽治疗药剂，玩家会被诅咒太久而死亡。其中的专有名词包括：恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克、暗影。
-
-当这种情况发生时，如果你知道来不及到达传送点，或者你没有传送点可去，继续做你正在做的事情，准备为别人复活而接受死亡。注意：上文中包含了一些游戏角色和技能的专有名词，如需参考，请查看开头的名词翻译。
-
-如果您在开始时被分配了一个位置，并且与一个治疗者共用它。如果您被诅咒了，请始终检查他们是否也被诅咒。如果您是一个DPS（伤害输出职业），而治疗者需要使用这个位置而不是您，请留在原地让治疗者使用。坦克和治疗者是位置的优先生存者，否则事情会很快乱掉！以下为一些专有名词的翻译：Zhaj'hassa the Forgotten=>遗忘者扎哈撒,S'Kinrai=>斯金莱,Runner=>朗纳,Gracious=>性谦和,Arrow Spray=>箭矢倾泻,Otten=>奥顿,Rapid Fire=>速射,Nova=>新星,Vashai=>瓦沙,Ak=>阿克,Shadow=>暗影。
-
-注意：如果坦克被诅咒，坦克应该交换位置（副坦克拿住BOSS，主坦克被清理过程中安全后交换回来，但不要移动BOSS到房间的其他位置）。本段中出现的专有名词包括：坦克 (tank)。
-
-* **猫** :  每当首领的健康值降低20%，房间中会出现4只猫，它们会随机攻击团队中的玩家。主坦克或副坦克应将它们拉进战斗（如果可能的话就放在首领下面）并控制它们。它们不会受到嘲讽的影响（除了减益效果），但可以被控制技能控制。团队应该尽快将其集中攻击（使用必杀技）或对其进行AOE伤害。
-
-这个阶段会在首领剩余80%、60%、40%和20%的血量时重复出现。 
-
-以下是专有名词的翻译：
-
-En => 恩
-Zhaj'hassa the Forgotten => 遗忘者扎哈撒
-S'Kinrai => 斯金莱
-Runner => 朗纳
-Gracious => 性谦和
-Arrow Spray => 箭矢倾泻
-Otten => 奥顿
-Rapid Fire => 速射
-Nova => 新星
-Vashai => 瓦沙
-Ak => 阿克
-Shadow => 暗影
-
-* **柱子** :  在战斗中，首领将随机瞄准一名玩家，用他的锤子挥向他们，并使一根柱子从地面上升起。这就是为什么人们不应该靠近垫子周围，因为你想让这些柱子靠近！
-
-攻略翻译如下：
-在第一阶段，他最终会召唤出5个柱子。一旦这发生，他将祈祷并制造一个巨大的爆炸，任何被困在其中的人都将一击必杀。其中的专有名词如下：En=>恩，Zhaj'hassa the Forgotten=>遗忘者扎哈撒，S'Kinrai=>斯金莱，Runner=>朗纳，Gracious=>性谦和， Arrow Spray=>箭矢倾泻，Otten=>奥顿，Rapid Fire=>速射，Nova=>新星，Vashai=>瓦沙，Ak=>阿克，S'kinrai=>斯金莱，Shadow=>暗影。
-
-生存的方式是每个人都躲在任何柱后面。这样做将保护你，柱子也会消失。一旦安全，战斗将像往常一样继续进行。
-
-这个阶段会在整场战斗中不断重复，每个阶段中的柱子数量会越来越少。
-
-* **首阶段为5然后是4再然后是3接着是2最后是1然后就没有了如果你到了零支柱阶段他开始祈祷而你在爆炸之前没能把他杀死那么就是全灭你们都会死掉其中的专有名词翻译如下** :  En => 恩
-- Zhaj'hassa the Forgotten => 遗忘者扎哈撒
-- S'Kinrai => 斯金莱
-- Runner => 朗纳
-- Gracious => 性谦和
-- Arrow Spray => 箭矢倾泻
-- Otten => 奥顿
-- Rapid Fire => 速射
-- Nova => 新星
-- Vashai => 瓦沙
-- Ak => 阿克
-- Shadow => 暗影
-
-关键是要遵循这次战斗的机制，尽可能避免死亡，因为死亡会浪费时间，浪费时间会使你更接近零柱阶段。其中涉及的专有名词有：En（恩）、Zhaj'hassa the Forgotten（遗忘者扎哈撒）、S'Kinrai（斯金莱）、Runner（朗纳）、Gracious（性谦和）、Arrow Spray（箭矢倾泻）、Otten（奥顿）、Rapid Fire（速射）、Nova（新星）、Vashai（瓦沙）、Ak（阿克）、Shadow（暗影）。
-
-* **盾牌阶段** :  在战斗中当首领剩下70％和30％的生命值时，首领将会护盾自己，使小队成员下方会出现一个爆发AOE伤害区域（每人一个）。此伤害每次脉冲都会造成伤害，而伤害频率会随着首领持续保持护盾的时间而变得越来越快。其中，boss变成护盾状态时，被害者需要注意保护自己不要被伤害击中。
-
-这是你的团队需要靠近并集中造成尽可能多的伤害、减免和治疗，但最重要的是不要重叠！ 爆裂圆圈一定不能重叠，否则人们当然会受到其他人的区域攻击的伤害。专注、放松并把boss的伤害护盾除去。一旦护盾消失，战斗继续进行。在这里， "En"囤积，"遗忘者扎哈撒"，"斯金莱"，"朗纳"，"性谦和"，"箭矢倾泻"，"奥顿"，"速射"，"新星"，"瓦沙"，"阿克"和"暗影"都是一些专有名词。
-
-现在是释放新星或冰封领域的好时机，如果你有这两个技能都可以使用，这将有助于减少团队的伤害。如果你的队友伤害比较低，这仍然可以完成，但你需要更多地治疗来增加持续时间和进攻。不要惊慌！
-
-注意：你不需要每秒输出超过90k的伤害。每个玩家每秒输出25k以上的伤害，同时保持活着并掌握好机制就足够完成此任务，但务必确保操作干净和专注。你需要尽可能地存活下来，否则会变得混乱。游戏中出现的专有名词包括：恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克、暗影。
-
-
-
-
-
-### 瓦沙
-
-> VASHAI
-
-
-* **瓦沙和斯金莱** :  双子！**
-
-这可能是游戏中最臭名昭著的战斗。双子星！这需要真正的团队协调和对机制的理解！注意避免斯金莱的箭矢倾泻和新星技能，并集中打击遗忘者扎哈撒和斯金莱。朗纳将沿着巨大的火盆周围的道路奔跑来躲避攻击。尽量不要让他触发某些技能，例如暗影技能，因为它可能会导致灾难性的后果。一旦其中一个双子星的生命值降至50％以下，请注意，他们将在地面上留下冰冻十字架，并在一段时间后引发爆炸！
-
-你需要让你的队伍分成两组，每组有6名玩家。每组需要一个坦克、一个治疗师和四个输出职业。
-
-战斗的方式是，每个团队的角色头顶会有不同的颜色。你必须只能和和自己头顶颜色相同的队友呆在一起（黄色或蓝色）。如果你接触或靠近任何对立颜色的人，你们两个都会爆炸。在游戏中，恩，遗忘者扎哈撒，斯金莱，朗纳，性谦和，箭矢倾泻，奥顿，速射，新星，瓦沙，阿克，暗影等专有名词也会用到。
-
-此外，对于伤害输出，如果你攻击的敌人和你头上的颜色相同，你只会造成你的最大伤害的10％。你必须总是攻击相反颜色的敌人！其中En、Zhaj'hassa the Forgotten、S'Kinrai、Runner、Gracious、Arrow Spray、Otten、Rapid Fire、Nova、Vashai、Ak和Shadow是该游戏中的专有名词。
-
-非常重要的是，你清楚自己的队伍是什么颜色和首领是什么。一旦排序完成，坦克必须确保交换首领，以便他们的小组可以命中正确的目标。这非常重要。除非机制告诉你其他要求，否则请留在你的小组中。
-
-* **原始** :  这是指坦克（承受BOSS攻击的角色）。当战斗开始时，一组人将嘲讽黄色BOSS，另一组人将嘲讽蓝色BOSS。每一方的坦克必须记住自己所承受的那个BOSS，称其为自己的“原始”BOSS。这是至关重要的！- 在“原始”阶段下面有更详细的解释。其中，“yellow”和“blue”分别为游戏中两种不同颜色的BOSS标识。En翻译为“恩”，Zhaj'hassa the Forgotten翻译为“遗忘者扎哈撒”，S'Kinrai翻译为“斯金莱”，Runner翻译为“朗纳”，Gracious翻译为“性谦和”，Arrow Spray翻译为“箭矢倾泻”，Otten翻译为“奥顿”，Rapid Fire翻译为“速射”，Nova翻译为“新星”，Vashai翻译为“瓦沙”，Ak翻译为“阿克”，Shadow翻译为“暗影”。
-
-* **增援怪物** :  每一队都会出现蓝色和黄色两种增援怪物，它们的反应方式各不相同。蓝色增援怪物是远程攻击型的，类似于阳光吞噬者类型的怪物。而黄色增援怪物更偏近战类型，会受到嘲讽而靠近玩家攻击，而不是从远程攻击（虽然它们也有远程攻击能力）。
-
-每个新阶段后都会有一个加入阶段，在颜色公布后的10秒钟内会出现。注意遗忘者扎哈撒和斯金莱的出现和朗纳的射箭攻击，同时，性谦和的加入会使得伤害增加。在战斗中使用箭矢倾泻、速射和新星等技能，随时注意阿克和暗影的位置。瓦沙可能会在战斗中出现，奥顿需要被优先消灭。
-
-攻略翻译如下：
-战斗一开始会有每种类型的一个小怪，然后是两个，再是三个，最后是四个，这可能会非常混乱。小怪数量取决于你在战斗中对首领造成了多少伤害。请注意，En, Zhaj'hassa the Forgotten, S'Kinrai, Runner, Gracious, Arrow Spray, Otten, Rapid Fire, Nova, Vashai, Ak, Shadow等专有名词的翻译不变。
-
-* **黄色小怪** :  这些怪物具有反射光能力，必须通过净化来去除，同时还有“耶稣光束”（圣辉压制），必须通过打断来阻止，否则被攻击的目标将会被震晕直到死亡！所以，无论如何，保持打断非常关键。
-
-* **攻略翻译如下
-蓝色小怪** :  会向房间各个方向投掷不友好的球体，因此你需要确保这些球体始终背对着对方团队（球体对于拥有黄色头衔的人造成更多伤害）。其中 "En" 没有在攻略中出现。"遗忘者扎哈撒"翻译为 "Zhaj'hassa the Forgotten"，"斯金莱" 翻译为 "S'Kinrai"，"朗纳"翻译为 "Runner"，"性谦和" 翻译为 "Gracious"，"箭矢倾泻" 翻译为 "Arrow Spray"，"奥顿" 翻译为 "Otten"，"速射" 翻译为 "Rapid Fire"，"新星" 翻译为 "Nova"，"瓦沙" 翻译为 "Vashai"，"阿克" 翻译为 "Ak"，"暗影" 翻译为 "Shadow"。
-
-攻击黄色boss的队伍，必须控制并消灭黄色小怪。
-
-攻击蓝色首领的队伍必须控制并消灭蓝色小兵。
-
-黄色的敌人很容易被远程嘲讽控制住，但蓝色的敌人就不是那么容易了，您需要有锁链、传送门、银链等团队支援，或者一个非常灵活的坦克能够操控它们。其中"yellows"指的是普通的敌人，"blues"指的是更难以应对的敌人，具体的名称没有给出。
-
-然而，不管你决定如何定位，你必须无论如何击败这些敌人。如果在后面的阶段中有其他敌人加入战斗，局面会变得非常混乱。其中，遗忘者扎哈撒、斯金莱和朗纳等是非常危险的对手。在战斗中，要注意性谦和、奥顿和阿克等敌人经常会施放大范围的技能，像箭矢倾泻、速射和新星等。暗影和瓦沙等敌人则会迅速穿越战场，经常使你失去目标。
-
-所以，最重要的是要一直集中攻击小怪物！
-
-* **黄色首领 斯金莱** :  这个首领有一些需要格挡的前方斩击，当然也需要把它们转向远离小队的方向。
-
-他会发射类似黄色小怪物射出的反射光，需要清除。最后他还有一个耶稣光束（辉光压制），通常会瞄准坦克并把其钉在地上，这必须中断。 
-
-注：En=>恩,Zhaj'hassa the Forgotten=>遗忘者扎哈撒,S'Kinrai=>斯金莱,Runner=>朗纳,Gracious=>性谦和,Arrow Spray=>箭矢倾泻,Otten=>奥顿,Rapid Fire=>速射,Nova=>新星,Vashai=>瓦沙,Ak=>阿克,Shadow=>暗影。
-
-将这个Boss放置在房间的一侧中央是非常完美的，因为它可以让你处于一个很好的位置来吸引小怪。站在原地击杀这个Boss！
-
-* **蓝色BOSS（瓦沙）** :  这个BOSS有几个轻攻击和一个重击，会将任何被击中的人击飞，因此一定要确保坦克一直对其进行控制。如果你使用格挡来抵挡它，就不会有任何问题，因为它的攻击可以被格挡住。
-
-* **然而这个BOSS有一个negate bubble（否决泡泡）的技能每个阶段会施放2** : 3个。通常会瞄准坦克（但不总是），因此在视频中，坦克不会站在队伍那一侧战斗，而是贴着墙壁，物理上欺骗泡泡着陆的位置。每个泡泡到位后，坦克就会从泡泡中走出来，到墙边的安全位置等待下一个泡泡。从泡泡到泡泡缓慢地诱导BOSS，直到阶段结束。
-
-* **攻略翻译如下
-
-转换阶段** :  在这个阶段，BOSS会祈祷（如视频所示），然后随机选择每一方的3个人（不包括坦克），这些人会在脚下看到一种颜色，表示他们需要快速转换阵营。
-
-基本上你的头的颜色即将改变...如果你不能及时改变，你将加入现在错误的团队并炸死人。
-
-每边有3人，快速交换位置！顺时针交换，以免混淆。
-
-当它们到位后，它们会在一个有不同颜色头的不同首领身上，然后继续正常执行。
-
-《上古卷轴Online》攻略：
-
-**转换还是留下？！**——在“转换”之后，首领会传送到房间的两侧，一个靠近每个团队。这就是你需要集中注意力看你刚才做了什么的地方...
-
-如果你旁边的BOSS是你刚刚攻击的BOSS（颜色与你的头衔不同），那么你没事了...“站在原地”继续战斗（但要靠近BOSS）。
-
-如果靠近你的BOSS和你的头部颜色相同，那么你要像鬼一样地逃跑并顺时针“交换”并拥抱房间另一侧的另一个BOSS。其中的专有名词恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克和暗影则不需要翻译。
-
-* **简单点说如果Boss的颜色和你相反就留下来攻击它如果颜色和你相同就换位置攻击 
-
-另外以下是已知专有名词的翻译** :  En => 恩
-- Zhaj'hassa the Forgotten => 遗忘者扎哈撒
-- S'Kinrai => 斯金莱
-- Runner => 朗纳
-- Gracious => 性谦和
-- Arrow Spray => 箭矢倾泻
-- Otten => 奥顿
-- Rapid Fire => 速射
-- Nova => 新星
-- Vashai => 瓦沙
-- Ak => 阿克
-- Shadow => 暗影
-
-* **原版阶段** :  这是给坦克们的。
-
-在这个阶段，你需要将恩和遗忘者扎哈撒分开。让遗忘者扎哈撒跑到远处，然后再打恩。坦克应该将斯金莱引导到远离队友的地方。
-
-在你和遗忘者扎哈撒的战斗中，朗纳需要不断移动，以避免被箭矢倾泻和速射击中。
-
-在恩或斯金莱使用新星之前，性谦和应该使用治疗技能。
-
-奥顿应该一直在使用AOE技能来攻击暗影。
-
-当阿克出现时，坦克需要立即将其引导到远离队友的地方并打倒它。
-
-在这个阶段，所有队员都应该使用自己的治疗技能，以确保生命值保持较高水平。
-
-在“切换或保持”阶段结束后，首领们将会祈祷，房间会爆炸，将所有玩家的颜色清除。不久之后，所有玩家将会获得与他们最接近的首领的颜色...这是坦克唯一的机会，要做对这一点...
-
-还记得你当时嘲讽的第一个Boss吗？它是什么颜色的？在人们恢复颜色之前，赶快跑向那个Boss！
-
-如果您已经在需要的位置，请待在原地并留在您附近的首领（不要挑衅它）并获取您需要的颜色... 一旦您拿到了它，挑衅相反的首领，然后继续像一开始那样。游戏中的专有名词：颜色在游戏中不确定，无法翻译。
-
-如果你没有和正确的Boss站在一起，你需要在颜色分配之前快速跑到房间的另一边，找到正确站位。其中，En，遗忘者扎哈撒，斯金莱，朗纳，性谦和，箭矢倾泻，奥顿，速射，新星，瓦沙，阿克，暗影均为该游戏特有的专有名词。
-
-基本上在这个“没有颜色阶段”期间，有一个短暂的时间窗口可以重新定位。一旦结束，你需要确保你靠近你想要的首领并且想要染色的目标。如果你离得太远或位置不对，那么就会有人死亡。请注意，恩或遗忘者扎哈撒可能会使用多个新的技能，如斯金莱、朗纳和性谦和的箭矢倾泻，速射和新星的能力，所以一定要小心并保持准备。
-
-提示：当你回去打你原来的首领时，你的下一个阶段是嘲讽另一个首领（记住吗？坦克像起始拉力一样轮番交换）......为了省些麻烦，如果你必须穿过房间...（En，恩；Zhaj'hassa the Forgotten，遗忘者扎哈撒；S'Kinrai，斯金莱；Runner，朗纳；Gracious，性谦和；Arrow Spray，箭矢倾泻；Otten，奥顿；Rapid Fire，速射；Nova，新星；Vashai，瓦沙；Ak，阿克；S'kinrai，斯金莱；Shadow，暗影）
-
-不要一直奔跑，获得你的颜色，然后转身回去，嘲笑其他人越过终点线（交换boss），然后再重新安排位置...
-
-让你自己简单些，挑衅坏的那个，跑到好的那个，当你到达正确的一侧，当你获得彩色，Boss们会停止祈祷，你已经得到了你想要的那个的仇恨，他会从房间另一侧简单地朝你奔来。其中"taunt"指用嘲讽技能吸引敌人攻击自己。
-
-这需要一些练习，但一旦你掌握了它，就会变得容易很多。
-
-注意：一旦这个阶段结束，你需要重复第一步，添加、转换、切换或保留原始选项。反复这个过程。
-
-* **执行** :  执行比较棘手，两个Boss有不同的生命值条，尽管它们共享总体生命值。控制伤害的节奏。确保在最后让它们保持在比较靠近的位置。如果必要，减少其中一个的伤害以平衡两个Boss的生命值。其中一个Boss死亡后，另一个Boss将获得额外的技能和伤害加成，需要额外小心。在任务中使用扎哈撒的异端派的能力（例如恩斯金莱的助跑（S'Kinrai Runner））对于减少生命值很有帮助，并在击杀一个Boss的情况下提供相当可观的伤害加成，以帮助尽早击败另一个Boss。在战斗中需要随时注意这些Boss的技能（例如性谦和的箭矢倾泻（Gracious Arrow Spray）和奥顿的速射（Otten Rapid Fire）），并利用技能和装备来干扰/克制它们。在阿克和瓦沙的新星（Ak and Vashai Nova）到来时，最好找到掩护或远离，以降低受到的伤害。
-
-攻略翻译如下：
-
-这是因为一旦其中一个首领死亡，所有的颜色都会消失，你们将能够集中精力攻击一个目标，并且另外4个仍然活着的颜色首领会重新出现（所以你们可以拥有大约8个添加）。当这种情况发生时，你们只有20秒的时间去杀死它，否则它会进入房间中间，祈祷，爆炸，你们就会全部死亡...没有压力。其中 "Zhaj'hassa the Forgotten"翻译为"遗忘者扎哈撒"，"S'Kinrai"翻译为"斯金莱"，"Runner"翻译为"朗纳"，"Gracious"翻译为"性谦和"，"Arrow Spray"翻译为"箭矢倾泻"，"Otten"翻译为"奥顿"，"Rapid Fire"翻译为"速射"，"Nova"翻译为"新星"，"Vashai"翻译为"瓦沙"，"Ak"翻译为"阿克"，"Shadow"翻译为"暗影"。
-
-基本地，在低血量时控制输出，不要冲上去，否则可能会被击杀。 
-
-以下为专有名词的翻译： 
-
-En => 恩 
-Zhaj'hassa the Forgotten => 遗忘者扎哈撒 
-S'Kinrai => 斯金莱 
-Runner => 朗纳 
-Gracious => 性谦和 
-Arrow Spray => 箭矢倾泻 
-Otten => 奥顿 
-Rapid Fire => 速射 
-Nova => 新星 
-Vashai => 瓦沙 
-Ak => 阿克 
-Shadow => 暗影
-
-当小怪进入房间时，如果可能的话，坦克应该控制小怪，而小组则应该完成对它们的消灭。建议首先击杀黄色小怪，以免最终有8个「耶稣光束者」同时攻击，造成伤害。注意避免误伤恩、遗忘者扎哈撒、斯金莱、朗纳、性谦和、箭矢倾泻、奥顿、速射、新星、瓦沙、阿克、暗影等专有名词角色。
-
-注意：完成此任务需要多少个阶段并不重要，每个阶段是否需要击杀4个小怪也不重要，只要你的机制处理干净，并且始终“聚焦小怪”，那么就只是重复这个过程。当人们惊慌时，他们会失败，当人们过度烧掉一个Boss而不是另一个时，他们也会失败。所以请放松，遵循机制，你就能做到！
-
-
-
-
-
 
 
 
 
 <eng>
 
+> ZHAJ'HASSA THE FORGOTTEN
+> 
+> 
+> ** ZHAJ'HASSA THE FORGOTTEN **
+> 
+> This boss is pretty straight forward but can end in a mess if people don't plant their feet and play fair. What i mean by play fair, is people really need to try to NOT just run around taking cleanse pads and leave everyone else with nothing. Discipline your group and if you have to die for the sake of someone else, suck it up.
+> 
+> If you dance around you will misplace pillars, you will spread curses, you will basically just case the fight to prolong which means the group will eventually wipe since the fight is technically on a timer. The longer the fight the more chance of a final BOOM which will kill you all.
+> 
+> There are 6 pads around the room (enough to share 2 each) so assign your group to 2 a pad to start with. Stick to this rule all the way through and don't deviate from this unless you REALLY have to.
+> 
+> The tank should tank the boss in the middle or near his/her own pad and of course not drop agro.
+> 
+> When the fight starts the group should surround the boss in 2 semi circles (melee up front and range behind) close together but NOT stacked (about 2-3 meters apart). IF you stack you will kill everyone, so be sure the ranged are not too far out, but not standing on people's heads. EVERYONE must have their own space.
+> 
+> **Curses/pads** - These are very simple. Every curse phase the boss will raise his hands and curse 3x people randomly. These 3 people must go to a pad and cleanse and then come back in again. There are 6x pads, each one is on a 25 second timer. If one is taken it wont respawn until 25seconds have passed.
+> 
+> With 6x pads and 3x curses this means every 1 phase, 3 pads will be used. By the time the second phase comes up, another 3 will be used, and by the 3rd phase, the first 3 should be re-spawned and this should go on a loop. There should ALWAYS be a pad free.
+> 
+> HOWEVER there is a catch. The reason you MUST be spread out is because the curses will SPREAD to more players IF they are hit by someone else's curse aoe when it lands. If this happens you will run out of pads, people will be cursed for too long and die.
+> 
+> When this happens if you know there is no time to get to a pad, OR you have none to go to , keep doing what you are doing and suck up the death ready for someone to resurrect you.
+> 
+> If you are assigned a pad at the beginning and are sharing it with a healer. If you are cursed, always check to see if they are cursed or not. If you are a dps and a healer needs the pad instead of you, stay where you are and let the healer take it. Tank and healers are priority survivors for pads else things will get messy fast!
+> 
+> NOTE: If the tank gets cursed, the tanks should swap positions (off tank takes the boss while main tank gets cleansed and then swap back when safe, don't move the boss around the room though.
+> 
+> **Cats** - Every 20% of the bosses health 4x cats will appear in the room and randomly attack players in the group. The main tank OR the off tank should pull these into the fight (under the boss if possible) and control them. They will not respond do taunts (apart from the debuff) but can be CC'd. The group should focus these down fast(with ultimates if they have them) and/or do as much aoe damage as possible.
+> 
+> This phase repeats at 80% 60% 40% and 20% of the boss's health.
+> 
+> **Pillars** - During the fight the boss will aim at a random player and swing his hammer at them making a pillar spawn out of the ground. This is why people should not hang around near pads, because you want to keep these CLOSE!
+> 
+> The first phase he will eventually spawn 5 pillars. Once this happens he will pray and create a massive explosion and anyone caught in it will take a one shot and die.
+> 
+> The way to survive is for everyone to hide behind ANY pillar. Doing so will protect you and the pillars will disappear. Once safe the fight will carry on as normal.
+> 
+> This phase will repeat through out the fight with less and less pillars per phase.
+> 
+> First phase is 5, then 4, then 3 , then 2 , then 1 , then NONE!! If you get to the ZERO pillar phase and he starts praying, and you don't kill him before the explosion, it is a wipe and you are all dead.
+> 
+> It is crucial that you follow the mechanics of this fight and avoid as many deaths as possible because, deaths cause wasted time spent, and wasted time pushes you closer to a zero pillar phase.
+> 
+> **Shield Phase** - During the fight at 70% health and 30% health the boss will cover himself in a damage shield which will place a bursting aoe under the members of the group (one each). It will pulse with damage over and over getting faster and faster the longer the boss has a damage shield.
+> 
+> This is where your group need to move in closer and focus on as much damage, mitigation and healing as possible BUT above all DO NOT STACK! The bursting circles must NOT overlap, else people will of course take damage from other people's aoes. Focus, relax, and take the damage shield off the boss. Once it is gone, the fight continues as normal.
+> 
+> This is a great time to throw in a Nova or permafrost, or both if you have them available to help the group take less damage. If you have a low damage group this is still doable but you will need to pump out more heals as it will take longer and get more aggressive. Don't panic!
+> 
+> NOTE: you do not need 90k+ dps for this. 25k+ each and ALIVE and solid mechanics is more than enough to complete this, BUT be sure that it is clean and focused. You will have to stay alive as much as possible to do so else it will get messy.
+> 
+> 
+> 
+> VASHAI
+> 
+> 
+> ** VASHAI AND S'KINRAI - THE TWINS! **
+> 
+> This is quite possibly the most infamous fight in the game. The TWINS! This requires true group co-ordination and understanding of mechanics!
+> 
+> You need your group to split into 2x groups of x6 players. One tank, one healer and 4x dps on either side.
+> 
+> The way the fight works is, each team will have colours on their heads. You must ONLY stay with people of the same colour head as you, (yellow of blue) if you touch or go near anyone of an opposing colour, you will both explode.
+> 
+> Also for damage output, IF you hit an enemy that is the same colour as the colour on your head, you will ONLY do 10% of your maximum damage. You must always hit the OPPOSITE!
+> 
+> It is important that you are clear what colour your team is and what the boss is. And once sorted, the tanks must be sure to swap their bosses so their groups can hit the correct targets. This is very important. Stay with YOUR group unless the mechanics tell you to do otherwise...and they will...
+> 
+> **Original!** - This is the term for the tanks. When the fight starts, one team will taunt the yellow boss and one team will taunt the blue boss. The tank from each side must remember THAT boss, is their 'original' boss. THIS IS CRUCIAL! - Explained more below under 'originals phase'.
+> 
+> **Adds** - Each side will be presented with a blue add/yellow add and both are different in how they react. The blue adds are ranged and very similar to sun eater types. While the yellow ones are actually more melee types which will respond to taunts and run to the player rather than hit them from range (although they have ranged attacks).
+> 
+> EACH fresh phase there will be an add phase 10seconds after the colours have been given out.
+> 
+> It will start with 1 add of each, then 2 then 3, then finally 4 which can be mayhem. The amount of adds depends on how far you are into the fight health wise on the boss.
+> 
+> **Yellow adds** - These have reflective light abilities which MUST be purged/cleansed and also a jesus beam (radiant Oppression) Which must be interrupted because otherwise the target they are hitting will be stunned until they die! So it is key no matter what to stay on interrupts.
+> 
+> **Blue adds** - throw out nasty orbs across the room so you want to be sure these are always faced away from the opposing team (they do more damage to people with yellow heads).
+> 
+> The team attacking the yellow boss, must control and kill the yellow adds.
+> 
+> The team attacking the blue boss must control and kill the blue adds.
+> 
+> The yellows are simple because a ranged taunt will control them but the blue ones not so much, you will need chains, portals, silverleashes etc in your group or a very flexible tank capable of manipulating them.
+> 
+> Above all however, however you decide to position these, you MUST kill these at ALL costs. If you end up with adds when the phases ahead kick in, it can be a real mess.
+> 
+> So above all, always focus the adds!
+> 
+> **Yellow Boss (S'kinrai)** - This boss has some frontal cleaves that need to be block and of course turned away from the group.
+> 
+> He fires reflective light much like the yellow adds which must be purged/cleansed. And finally he has a jesus beam (radiant oppression) which will usually be aimed at the tank to pin them to the ground and this Must be interrupted.
+> 
+> Tanking this boss in the middle of the one side of the room is actually perfect since it puts you in a good position to bring the adds in. Stack and burn this boss without moving!
+> 
+> **Blue Boss (Vashai)** - This has a few light attacks and a heavy attack that will knock back anyone caught by it so be sure this is on the tank at all times. Blocking this will cause you no problems at all since it is weak through block.
+> 
+> However this boss does have a negate buubble in which he will cast 2-3 of per phase. This will USUALLY be aimed at the tank (but not always) hence why in the video instead of tanking him in the middle of the team's side of the room, the tank hugs the wall and physically decoys for the bubbles to land where he is standing. Each one that is placed will then make the tank move out of the bubble into a safe spot against the wall ready to recieve another. Slow kiting the boss from bubble to bubble until the phase is over.
+> 
+> **Conversions** - This phase the bosses will pray (as shown in the video) and 3x people from EACH side at random (not the tanks) will be notified of conversion with a colour under their feet. This is when you must SWAP sides FAST.
+> 
+> Basically your head colour is now about to change...if you don't change fast enough, you will be with the now WRONG team and blow people up.
+> 
+> So 3x people from each side, Swap sides fast! Do this clockwise as not to confuse things.
+> 
+> When they are in place they will be on a different boss with a different colour head and cary on as normal.
+> 
+> **Switch or Stay??!** - Shortly after 'conversions' the bosses will teleport to opposite sides of the room, one close to each of the teams. THIS is where you need to focus on what you were just doing...
+> 
+> IF the boss next to you is the boss you were just hitting (different colour to your head) then you are fine...'STAY' where you are and keep fighting (but get close).
+> 
+> IF the boss near you has the SAME colour head as you, run like hell and 'SWITCH ' in a clockwise direction and hug the other boss on the other side of the room.
+> 
+> So to simplify. If the boss is opposite of your colour, STAY if it is the same as you, SWITCH.
+> 
+> **Originals Phase** - THIS IS FOR THE TANKS.
+> 
+> Straight after the 'switch or stay' phase, the bosses will pray and the room will explode removing all colours from all players, shortly after all players will recieve the colour of the boss they are closest to... This is the tank's only opportunity to get this right...
+> 
+> Remember the first boss you taunted? What colour was it? before people get their colours back, RUN TO THAT BOSS NOW!
+> 
+> If you are already where you need to be, stay where you are and stay with the boss you are near (dont taunt it) and get your head colour...once you have it, taunt the opposite boss and carry on just like you started from the beginning.
+> 
+> If you are NOT with the correct boss, you need to RUN to the other side of the room to get in position before colours are given out.
+> 
+> Basically during this 'no colour phase' there is a brief window where you can reposition. Once it is over you need to be sure you are near the boss you want the colour of when they dish out the pickings. If you are too far away or in the wrong place, BOOM, people are going to die.
+> 
+> TIP: When going to your original boss, your NEXT phase is to taunt the opposite one (remember? tanks swap once you have colours just like the beginning pull)...to save your self a bit of hassle, IF you have to run across the room...
+> 
+> Instead of running, getting your colour, turning back , taunting the other over the line (Swapping bosses) and then repositioning...
+> 
+> Make it simple for yourself, Instead, taunt the bad one, run to the good one, and when you GET to the correct side, when you GET your colour, the bosses will have stopped praying and you will already HAVE the agro of the one you want, and he will simply, run to you from the other side of the room.
+> 
+> THIS will take some practice but once you nail it, it gets a LOT easier.
+> 
+> NOTE: once this phase is over, you repeat the first step all over again, adds, conversions, switch or stay, originals. Rinse repeat.
+> 
+> **Execute** - Execute is tricky, both bosses have seperate health bars although they share an overall. PACE your damage. Be sure to keep them close together % wiese at the end. And if you have to, ease up on one or the other to level it out.
+> 
+> The reason for this is. Once ONE boss dies, all colours will go away, you will all be able to focus one target, and another 4x spawn of the colour boss whom is alive will appear (so yes you can have 8xadds+ around). When this happens you only have 20seconds to kill it, or he will enter the middle of the room, pray, explode and you all die...no pressure.
+> 
+> Basically pace your damage at low health and don't yolo, it CAN kill you.
+> 
+> When the adds are in the room, the tanks should control the adds if possible while the group finishes them off. It is advisable to kill the yellow one first so that you don't end up with 8x jesus beamers, that can hurt.
+> 
+> NOTE: it doesn't matter how many laps it takes for you to complete this, it doesnt matter if you have to kill 4x adds per side every single phase, as long as your mechanics are clean and you DO 'focus the adds' at all times. Then it is just rinse repeat. When people panic, they fail, when people over burn one boss and not the other they fail. So relax, follow the mechanics and you will do it!
+> 
+> 
+> 
 > RAKKHAT
 > 
 > 
@@ -780,156 +930,6 @@ Shadow => 暗影
 > Also one final note, during execute, bombs, large orbs and tethers will be present so HIGH mitigation and heal will be required and strong focus for the group not to get execute panic.
 > 
 > BEST OF LUCK!!
-> 
-> 
-> 
-> ZHAJ'HASSA THE FORGOTTEN
-> 
-> 
-> ** ZHAJ'HASSA THE FORGOTTEN **
-> 
-> This boss is pretty straight forward but can end in a mess if people don't plant their feet and play fair. What i mean by play fair, is people really need to try to NOT just run around taking cleanse pads and leave everyone else with nothing. Discipline your group and if you have to die for the sake of someone else, suck it up.
-> 
-> If you dance around you will misplace pillars, you will spread curses, you will basically just case the fight to prolong which means the group will eventually wipe since the fight is technically on a timer. The longer the fight the more chance of a final BOOM which will kill you all.
-> 
-> There are 6 pads around the room (enough to share 2 each) so assign your group to 2 a pad to start with. Stick to this rule all the way through and don't deviate from this unless you REALLY have to.
-> 
-> The tank should tank the boss in the middle or near his/her own pad and of course not drop agro.
-> 
-> When the fight starts the group should surround the boss in 2 semi circles (melee up front and range behind) close together but NOT stacked (about 2-3 meters apart). IF you stack you will kill everyone, so be sure the ranged are not too far out, but not standing on people's heads. EVERYONE must have their own space.
-> 
-> **Curses/pads** - These are very simple. Every curse phase the boss will raise his hands and curse 3x people randomly. These 3 people must go to a pad and cleanse and then come back in again. There are 6x pads, each one is on a 25 second timer. If one is taken it wont respawn until 25seconds have passed.
-> 
-> With 6x pads and 3x curses this means every 1 phase, 3 pads will be used. By the time the second phase comes up, another 3 will be used, and by the 3rd phase, the first 3 should be re-spawned and this should go on a loop. There should ALWAYS be a pad free.
-> 
-> HOWEVER there is a catch. The reason you MUST be spread out is because the curses will SPREAD to more players IF they are hit by someone else's curse aoe when it lands. If this happens you will run out of pads, people will be cursed for too long and die.
-> 
-> When this happens if you know there is no time to get to a pad, OR you have none to go to , keep doing what you are doing and suck up the death ready for someone to resurrect you.
-> 
-> If you are assigned a pad at the beginning and are sharing it with a healer. If you are cursed, always check to see if they are cursed or not. If you are a dps and a healer needs the pad instead of you, stay where you are and let the healer take it. Tank and healers are priority survivors for pads else things will get messy fast!
-> 
-> NOTE: If the tank gets cursed, the tanks should swap positions (off tank takes the boss while main tank gets cleansed and then swap back when safe, don't move the boss around the room though.
-> 
-> **Cats** - Every 20% of the bosses health 4x cats will appear in the room and randomly attack players in the group. The main tank OR the off tank should pull these into the fight (under the boss if possible) and control them. They will not respond do taunts (apart from the debuff) but can be CC'd. The group should focus these down fast(with ultimates if they have them) and/or do as much aoe damage as possible.
-> 
-> This phase repeats at 80% 60% 40% and 20% of the boss's health.
-> 
-> **Pillars** - During the fight the boss will aim at a random player and swing his hammer at them making a pillar spawn out of the ground. This is why people should not hang around near pads, because you want to keep these CLOSE!
-> 
-> The first phase he will eventually spawn 5 pillars. Once this happens he will pray and create a massive explosion and anyone caught in it will take a one shot and die.
-> 
-> The way to survive is for everyone to hide behind ANY pillar. Doing so will protect you and the pillars will disappear. Once safe the fight will carry on as normal.
-> 
-> This phase will repeat through out the fight with less and less pillars per phase.
-> 
-> First phase is 5, then 4, then 3 , then 2 , then 1 , then NONE!! If you get to the ZERO pillar phase and he starts praying, and you don't kill him before the explosion, it is a wipe and you are all dead.
-> 
-> It is crucial that you follow the mechanics of this fight and avoid as many deaths as possible because, deaths cause wasted time spent, and wasted time pushes you closer to a zero pillar phase.
-> 
-> **Shield Phase** - During the fight at 70% health and 30% health the boss will cover himself in a damage shield which will place a bursting aoe under the members of the group (one each). It will pulse with damage over and over getting faster and faster the longer the boss has a damage shield.
-> 
-> This is where your group need to move in closer and focus on as much damage, mitigation and healing as possible BUT above all DO NOT STACK! The bursting circles must NOT overlap, else people will of course take damage from other people's aoes. Focus, relax, and take the damage shield off the boss. Once it is gone, the fight continues as normal.
-> 
-> This is a great time to throw in a Nova or permafrost, or both if you have them available to help the group take less damage. If you have a low damage group this is still doable but you will need to pump out more heals as it will take longer and get more aggressive. Don't panic!
-> 
-> NOTE: you do not need 90k+ dps for this. 25k+ each and ALIVE and solid mechanics is more than enough to complete this, BUT be sure that it is clean and focused. You will have to stay alive as much as possible to do so else it will get messy.
-> 
-> 
-> 
-> VASHAI
-> 
-> 
-> ** VASHAI AND S'KINRAI - THE TWINS! **
-> 
-> This is quite possibly the most infamous fight in the game. The TWINS! This requires true group co-ordination and understanding of mechanics!
-> 
-> You need your group to split into 2x groups of x6 players. One tank, one healer and 4x dps on either side.
-> 
-> The way the fight works is, each team will have colours on their heads. You must ONLY stay with people of the same colour head as you, (yellow of blue) if you touch or go near anyone of an opposing colour, you will both explode.
-> 
-> Also for damage output, IF you hit an enemy that is the same colour as the colour on your head, you will ONLY do 10% of your maximum damage. You must always hit the OPPOSITE!
-> 
-> It is important that you are clear what colour your team is and what the boss is. And once sorted, the tanks must be sure to swap their bosses so their groups can hit the correct targets. This is very important. Stay with YOUR group unless the mechanics tell you to do otherwise...and they will...
-> 
-> **Original!** - This is the term for the tanks. When the fight starts, one team will taunt the yellow boss and one team will taunt the blue boss. The tank from each side must remember THAT boss, is their 'original' boss. THIS IS CRUCIAL! - Explained more below under 'originals phase'.
-> 
-> **Adds** - Each side will be presented with a blue add/yellow add and both are different in how they react. The blue adds are ranged and very similar to sun eater types. While the yellow ones are actually more melee types which will respond to taunts and run to the player rather than hit them from range (although they have ranged attacks).
-> 
-> EACH fresh phase there will be an add phase 10seconds after the colours have been given out.
-> 
-> It will start with 1 add of each, then 2 then 3, then finally 4 which can be mayhem. The amount of adds depends on how far you are into the fight health wise on the boss.
-> 
-> **Yellow adds** - These have reflective light abilities which MUST be purged/cleansed and also a jesus beam (radiant Oppression) Which must be interrupted because otherwise the target they are hitting will be stunned until they die! So it is key no matter what to stay on interrupts.
-> 
-> **Blue adds** - throw out nasty orbs across the room so you want to be sure these are always faced away from the opposing team (they do more damage to people with yellow heads).
-> 
-> The team attacking the yellow boss, must control and kill the yellow adds.
-> 
-> The team attacking the blue boss must control and kill the blue adds.
-> 
-> The yellows are simple because a ranged taunt will control them but the blue ones not so much, you will need chains, portals, silverleashes etc in your group or a very flexible tank capable of manipulating them.
-> 
-> Above all however, however you decide to position these, you MUST kill these at ALL costs. If you end up with adds when the phases ahead kick in, it can be a real mess.
-> 
-> So above all, always focus the adds!
-> 
-> **Yellow Boss (S'kinrai)** - This boss has some frontal cleaves that need to be block and of course turned away from the group.
-> 
-> He fires reflective light much like the yellow adds which must be purged/cleansed. And finally he has a jesus beam (radiant oppression) which will usually be aimed at the tank to pin them to the ground and this Must be interrupted.
-> 
-> Tanking this boss in the middle of the one side of the room is actually perfect since it puts you in a good position to bring the adds in. Stack and burn this boss without moving!
-> 
-> **Blue Boss (Vashai)** - This has a few light attacks and a heavy attack that will knock back anyone caught by it so be sure this is on the tank at all times. Blocking this will cause you no problems at all since it is weak through block.
-> 
-> However this boss does have a negate buubble in which he will cast 2-3 of per phase. This will USUALLY be aimed at the tank (but not always) hence why in the video instead of tanking him in the middle of the team's side of the room, the tank hugs the wall and physically decoys for the bubbles to land where he is standing. Each one that is placed will then make the tank move out of the bubble into a safe spot against the wall ready to recieve another. Slow kiting the boss from bubble to bubble until the phase is over.
-> 
-> **Conversions** - This phase the bosses will pray (as shown in the video) and 3x people from EACH side at random (not the tanks) will be notified of conversion with a colour under their feet. This is when you must SWAP sides FAST.
-> 
-> Basically your head colour is now about to change...if you don't change fast enough, you will be with the now WRONG team and blow people up.
-> 
-> So 3x people from each side, Swap sides fast! Do this clockwise as not to confuse things.
-> 
-> When they are in place they will be on a different boss with a different colour head and cary on as normal.
-> 
-> **Switch or Stay??!** - Shortly after 'conversions' the bosses will teleport to opposite sides of the room, one close to each of the teams. THIS is where you need to focus on what you were just doing...
-> 
-> IF the boss next to you is the boss you were just hitting (different colour to your head) then you are fine...'STAY' where you are and keep fighting (but get close).
-> 
-> IF the boss near you has the SAME colour head as you, run like hell and 'SWITCH ' in a clockwise direction and hug the other boss on the other side of the room.
-> 
-> So to simplify. If the boss is opposite of your colour, STAY if it is the same as you, SWITCH.
-> 
-> **Originals Phase** - THIS IS FOR THE TANKS.
-> 
-> Straight after the 'switch or stay' phase, the bosses will pray and the room will explode removing all colours from all players, shortly after all players will recieve the colour of the boss they are closest to... This is the tank's only opportunity to get this right...
-> 
-> Remember the first boss you taunted? What colour was it? before people get their colours back, RUN TO THAT BOSS NOW!
-> 
-> If you are already where you need to be, stay where you are and stay with the boss you are near (dont taunt it) and get your head colour...once you have it, taunt the opposite boss and carry on just like you started from the beginning.
-> 
-> If you are NOT with the correct boss, you need to RUN to the other side of the room to get in position before colours are given out.
-> 
-> Basically during this 'no colour phase' there is a brief window where you can reposition. Once it is over you need to be sure you are near the boss you want the colour of when they dish out the pickings. If you are too far away or in the wrong place, BOOM, people are going to die.
-> 
-> TIP: When going to your original boss, your NEXT phase is to taunt the opposite one (remember? tanks swap once you have colours just like the beginning pull)...to save your self a bit of hassle, IF you have to run across the room...
-> 
-> Instead of running, getting your colour, turning back , taunting the other over the line (Swapping bosses) and then repositioning...
-> 
-> Make it simple for yourself, Instead, taunt the bad one, run to the good one, and when you GET to the correct side, when you GET your colour, the bosses will have stopped praying and you will already HAVE the agro of the one you want, and he will simply, run to you from the other side of the room.
-> 
-> THIS will take some practice but once you nail it, it gets a LOT easier.
-> 
-> NOTE: once this phase is over, you repeat the first step all over again, adds, conversions, switch or stay, originals. Rinse repeat.
-> 
-> **Execute** - Execute is tricky, both bosses have seperate health bars although they share an overall. PACE your damage. Be sure to keep them close together % wiese at the end. And if you have to, ease up on one or the other to level it out.
-> 
-> The reason for this is. Once ONE boss dies, all colours will go away, you will all be able to focus one target, and another 4x spawn of the colour boss whom is alive will appear (so yes you can have 8xadds+ around). When this happens you only have 20seconds to kill it, or he will enter the middle of the room, pray, explode and you all die...no pressure.
-> 
-> Basically pace your damage at low health and don't yolo, it CAN kill you.
-> 
-> When the adds are in the room, the tanks should control the adds if possible while the group finishes them off. It is advisable to kill the yellow one first so that you don't end up with 8x jesus beamers, that can hurt.
-> 
-> NOTE: it doesn't matter how many laps it takes for you to complete this, it doesnt matter if you have to kill 4x adds per side every single phase, as long as your mechanics are clean and you DO 'focus the adds' at all times. Then it is just rinse repeat. When people panic, they fail, when people over burn one boss and not the other they fail. So relax, follow the mechanics and you will do it!
 > 
 > 
 > 

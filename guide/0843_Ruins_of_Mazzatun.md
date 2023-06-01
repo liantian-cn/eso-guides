@@ -4,41 +4,6 @@
 
 
 
-### 奴隶主夏尔-努尔
-
-> XAL-NUR THE SLAVER
-
-
-* **奴隶主夏尔** : 努尔 **
-
-这个首领需要团队协调和集中注意力。坦克应该尽可能将首领靠近房间中心，以防止团队跑得太远（接下来会有）。虽然他的攻击并不特别强大，但是有一些机制可能会迅速压倒整个团队。
-
-* **Roar** :  这个BOSS会时不时地咆哮，周围会有一个相当大的范围效果，可以造成高额的持续伤害和小型打断/击退效果。除非你是坦克，否则不要故意站在里面。
-
-* **冲锋** :  BOSS会随机选一个人进行冲锋。从技术上讲，这看起来像是一次重击（白色火花效果）。被选中的目标应该格挡，以免被他撞过去，但是...如果小组足够快，一旦他开始奔跑（注意他必须已经开始移动，之前的吟颂不算），你就可以打断它。这需要练习，但是通过时机的把握，这个机制就非常容易应对了。
-
-* **弓箭手** :  在战斗中，弓箭手将会加入房间，他们会进行令人讨厌的远程攻击和“瞄准”能力，可以一击杀死DPS。如果他们开始施展“瞄准”，必须击败他们。
-
-* **巨魔** :  除了弓箭手外，每个阶段房间里都会有一个巨魔。这些巨魔必须由坦克控制，并尽可能快地击杀（集中攻击小怪而不是BOSS，因为BOSS本身有生命值计时器）。他们会造成高额伤害并经常对地面造成伤害范围。如果你能击败它们，就不要留它们活着。
-
-* **跺脚** :  与漩涡竞技场里的巨兽完全相同，首领偶尔会跺脚，房间周围的石头会沿着地面发射，如果被击中将会造成中等伤害和中断/小击退。
-
-* **瓦马苏奴隶贩子** :  战斗中，首领会变得免疫所有伤害。这会根据他的最大生命值发生3次，生命值越低次数越多（尽管如果你的伤害很高，这些可以重叠并有时甚至跳过最后一个阶段）。在这些阶段，巨魔会进入房间，需要杀死一个奴隶贩子，让他们释放他们的瓦马苏来帮助你四处杀死小怪。确保你的小组指定一个成员在每个免疫阶段仅释放一次瓦马苏。
-
-* **吐口水泥蟹** :  在免疫阶段，首领会在地上吐口水。不要站在上面。看看房间周围，有两个角落需要关注。其中一个会有一股喷水的天然气柱，那个方向是你需要朝向的。
-
-因此，确定目标/方向后，小组中的一名成员（不是坦克）需要穿过口水，直接走到间歇泉。你拿到的口水持续时间越长，你移动的速度就会越慢，你没有资源，你会因为小怪的攻击而受到伤害，你会被螃蟹追赶，而且boss在这个阶段也可以选择向你冲锋。其中，"spit"翻译为口水，"geyser"翻译为间歇泉，"tank"翻译为坦克，"goo"翻译为口水，"adds"翻译为小怪，"mudcrabs"翻译为螃蟹。
-
-尽可能靠近间歇泉，然后扔下它。让另一个队员接过它并完成任务。如果有人在途中为您治疗会很有帮助，因为大多数人在途中都会死亡。一旦间歇泉被堵住，BOSS将会进入咆哮机制，这时他又能够承受伤害了。
-
-如上所述，在战斗期间将出现三次此情况。在这些时候，你必须让你的坦克抓住尽可能多的小兵却不放下BOSS。当他不再免疫后，使用终极技能有助于推动他进入下一阶段并快速处理小兵。但选择权在你手中。
-
-注意：如上所述，这个BOSS的机制是基于它的血量的。所以你越快地烧掉它，越可能出现多个同时发生的机制，导致重叠。所以为了保险起见，慢慢来！集中攻击添加物并清空房间，然后再集中攻击BOSS。反复重复这个过程！
-
-
-
-
-
 ### 扎茨
 
 > ZATZU
@@ -107,6 +72,41 @@ THE MIGHTY CHUDAN -> 强大的楚丹
 
 
 
+### 奴隶主夏尔-努尔
+
+> XAL-NUR THE SLAVER
+
+
+* **奴隶主夏尔** : 努尔 **
+
+这个首领需要团队协调和集中注意力。坦克应该尽可能将首领靠近房间中心，以防止团队跑得太远（接下来会有）。虽然他的攻击并不特别强大，但是有一些机制可能会迅速压倒整个团队。
+
+* **Roar** :  这个BOSS会时不时地咆哮，周围会有一个相当大的范围效果，可以造成高额的持续伤害和小型打断/击退效果。除非你是坦克，否则不要故意站在里面。
+
+* **冲锋** :  BOSS会随机选一个人进行冲锋。从技术上讲，这看起来像是一次重击（白色火花效果）。被选中的目标应该格挡，以免被他撞过去，但是...如果小组足够快，一旦他开始奔跑（注意他必须已经开始移动，之前的吟颂不算），你就可以打断它。这需要练习，但是通过时机的把握，这个机制就非常容易应对了。
+
+* **弓箭手** :  在战斗中，弓箭手将会加入房间，他们会进行令人讨厌的远程攻击和“瞄准”能力，可以一击杀死DPS。如果他们开始施展“瞄准”，必须击败他们。
+
+* **巨魔** :  除了弓箭手外，每个阶段房间里都会有一个巨魔。这些巨魔必须由坦克控制，并尽可能快地击杀（集中攻击小怪而不是BOSS，因为BOSS本身有生命值计时器）。他们会造成高额伤害并经常对地面造成伤害范围。如果你能击败它们，就不要留它们活着。
+
+* **跺脚** :  与漩涡竞技场里的巨兽完全相同，首领偶尔会跺脚，房间周围的石头会沿着地面发射，如果被击中将会造成中等伤害和中断/小击退。
+
+* **瓦马苏奴隶贩子** :  战斗中，首领会变得免疫所有伤害。这会根据他的最大生命值发生3次，生命值越低次数越多（尽管如果你的伤害很高，这些可以重叠并有时甚至跳过最后一个阶段）。在这些阶段，巨魔会进入房间，需要杀死一个奴隶贩子，让他们释放他们的瓦马苏来帮助你四处杀死小怪。确保你的小组指定一个成员在每个免疫阶段仅释放一次瓦马苏。
+
+* **吐口水泥蟹** :  在免疫阶段，首领会在地上吐口水。不要站在上面。看看房间周围，有两个角落需要关注。其中一个会有一股喷水的天然气柱，那个方向是你需要朝向的。
+
+因此，确定目标/方向后，小组中的一名成员（不是坦克）需要穿过口水，直接走到间歇泉。你拿到的口水持续时间越长，你移动的速度就会越慢，你没有资源，你会因为小怪的攻击而受到伤害，你会被螃蟹追赶，而且boss在这个阶段也可以选择向你冲锋。其中，"spit"翻译为口水，"geyser"翻译为间歇泉，"tank"翻译为坦克，"goo"翻译为口水，"adds"翻译为小怪，"mudcrabs"翻译为螃蟹。
+
+尽可能靠近间歇泉，然后扔下它。让另一个队员接过它并完成任务。如果有人在途中为您治疗会很有帮助，因为大多数人在途中都会死亡。一旦间歇泉被堵住，BOSS将会进入咆哮机制，这时他又能够承受伤害了。
+
+如上所述，在战斗期间将出现三次此情况。在这些时候，你必须让你的坦克抓住尽可能多的小兵却不放下BOSS。当他不再免疫后，使用终极技能有助于推动他进入下一阶段并快速处理小兵。但选择权在你手中。
+
+注意：如上所述，这个BOSS的机制是基于它的血量的。所以你越快地烧掉它，越可能出现多个同时发生的机制，导致重叠。所以为了保险起见，慢慢来！集中攻击添加物并清空房间，然后再集中攻击BOSS。反复重复这个过程！
+
+
+
+
+
 ### 树之牧者纳-凯石
 
 > TREE-MINDER NA-KESH
@@ -168,37 +168,6 @@ THE MIGHTY CHUDAN -> 强大的楚丹
 
 <eng>
 
-> XAL-NUR THE SLAVER
-> 
-> 
-> ** XAL-NUR THE SLAVER **
-> 
-> This boss is all about co-ordination and focus as a group. The tank should hold the boss as close to the middle of the room as possible to prevent any long runs for the group(coming up). He doesn't hit particularly hard but there are some mechanics which can overwhelm the group quickly.
-> 
-> **Roar** - The boss will roar occasionally with a fairly large aoe around him, this does tiny interrupt/knock backs while doing high damage over time. Do not stand in this intentionally unless you are the tank.
-> 
-> **Charge** - he boss will pick one person at random to charge at. Now this TECHNICALLY is and looks like a heavy attack (white sparks). The target chosen should block so they don't get run over by him BUT...if the group is fast enough, as soon as he starts running (note he must have started moving, the channeling before doesn't count) you CAN interrupt it. This will take practice, but timing makes this mechanic very easy.
-> 
-> **Archers** - During the fight archers will be added to the room, they will do nasty long ranged attacks and 'take aim' abilities which Can one shot a dps. if they start channeling a take aim they must be killed.
-> 
-> **Trolls** - As well as archers, each phase will had a troll added to the room. These must be controlled by the tank and if possible killed fast(focus adds not the boss, the boss is on health timers anyway). These can deal high damage and do regular ground stomping aoes. Don't let the trolls live if you can help it.
-> 
-> **Stomp** - Exactly the same as the behemoth in Maelstrom Arena, the boss will occasionally stomp the ground and rocks will fire across the floor around the room and if caught in the path it will deal moderate damage and interrupt/small knock back.
-> 
-> **Wamasu Slavers** - During the fight the boss will go Immune to all damage. This will happen based on his max health 3 times the lower he goes (although if you have crazy damage these can overlap and sometimes even skip the last phase). During these phases trolls will come into the room and ONE slaver needs to be killed so they release their Wamasu to help run around killing the adds for you. Be sure that you assign one member of your group to release the Wamasus ONCE per immune phase.
-> 
-> **Spit/mudcrabs** - During the immune phase the boss will spit on the floor. DO NOT stand in it yet. Look around the room, there are two corners to focus on. One of them with have a geyser of water firing form it, THAT is the direction you need to be headed towards.
-> 
-> So once your goal/direction is determined, that is when one member from the group (not the tank) needs to run through the spit and go straight to the geyser. The longer you have the goo you just picked up the slower you will move, you have 0 resources and you will take damage from adds throwing stray attacks at you, you will be chased by mudcrabs and yes the boss can choose to charge you during this stage.
-> 
-> Get as close as you can to the geyser and then drop it. Let another member pick it up and finish the job. It helps if someone is healing you along the way because most die on the run. Once the geyser is plugged, the boss with go into a roar mechanic and he is able to take damage again.
-> 
-> As stated above, this will happen 3 times during the fight. During these times you must have your tank grab as many adds as possible without dropping the boss. Throwing ultimates after he is no longer immune helps push him to the next phase AND deal with adds fast. But the choice is yours.
-> 
-> NOTE: As mentioned above, the boss has mechanics based on health amount. SO the faster you burn it, the more mechanics will happen at once and possibly overlap. So to play it safe, take your time! Focus the adds and empty the room and THEN focus the boss. Rinse repeat!
-> 
-> 
-> 
 > ZATZU
 > 
 > 
@@ -236,6 +205,37 @@ THE MIGHTY CHUDAN -> 强大的楚丹
 > **CHARGE!!** - The boss will pick a random player and a big fast spreading aoe under their feet will start to spread...Don't try to run away from it, it is on YOU!. Remember the lightning guy above? well THIS is how you stop him. Take that aoe and stand infront of him.
 > 
 > Once the aoe hits peek..cChudan will take a massive underground dive at YOU. Just before it reaches you, you need to dodge roll. Chudan will go straight past and destroy the lightning guy and his shield. From here on out it is rinse repeat until it happens again, new haj-motas, new archers etc.
+> 
+> 
+> 
+> XAL-NUR THE SLAVER
+> 
+> 
+> ** XAL-NUR THE SLAVER **
+> 
+> This boss is all about co-ordination and focus as a group. The tank should hold the boss as close to the middle of the room as possible to prevent any long runs for the group(coming up). He doesn't hit particularly hard but there are some mechanics which can overwhelm the group quickly.
+> 
+> **Roar** - The boss will roar occasionally with a fairly large aoe around him, this does tiny interrupt/knock backs while doing high damage over time. Do not stand in this intentionally unless you are the tank.
+> 
+> **Charge** - he boss will pick one person at random to charge at. Now this TECHNICALLY is and looks like a heavy attack (white sparks). The target chosen should block so they don't get run over by him BUT...if the group is fast enough, as soon as he starts running (note he must have started moving, the channeling before doesn't count) you CAN interrupt it. This will take practice, but timing makes this mechanic very easy.
+> 
+> **Archers** - During the fight archers will be added to the room, they will do nasty long ranged attacks and 'take aim' abilities which Can one shot a dps. if they start channeling a take aim they must be killed.
+> 
+> **Trolls** - As well as archers, each phase will had a troll added to the room. These must be controlled by the tank and if possible killed fast(focus adds not the boss, the boss is on health timers anyway). These can deal high damage and do regular ground stomping aoes. Don't let the trolls live if you can help it.
+> 
+> **Stomp** - Exactly the same as the behemoth in Maelstrom Arena, the boss will occasionally stomp the ground and rocks will fire across the floor around the room and if caught in the path it will deal moderate damage and interrupt/small knock back.
+> 
+> **Wamasu Slavers** - During the fight the boss will go Immune to all damage. This will happen based on his max health 3 times the lower he goes (although if you have crazy damage these can overlap and sometimes even skip the last phase). During these phases trolls will come into the room and ONE slaver needs to be killed so they release their Wamasu to help run around killing the adds for you. Be sure that you assign one member of your group to release the Wamasus ONCE per immune phase.
+> 
+> **Spit/mudcrabs** - During the immune phase the boss will spit on the floor. DO NOT stand in it yet. Look around the room, there are two corners to focus on. One of them with have a geyser of water firing form it, THAT is the direction you need to be headed towards.
+> 
+> So once your goal/direction is determined, that is when one member from the group (not the tank) needs to run through the spit and go straight to the geyser. The longer you have the goo you just picked up the slower you will move, you have 0 resources and you will take damage from adds throwing stray attacks at you, you will be chased by mudcrabs and yes the boss can choose to charge you during this stage.
+> 
+> Get as close as you can to the geyser and then drop it. Let another member pick it up and finish the job. It helps if someone is healing you along the way because most die on the run. Once the geyser is plugged, the boss with go into a roar mechanic and he is able to take damage again.
+> 
+> As stated above, this will happen 3 times during the fight. During these times you must have your tank grab as many adds as possible without dropping the boss. Throwing ultimates after he is no longer immune helps push him to the next phase AND deal with adds fast. But the choice is yours.
+> 
+> NOTE: As mentioned above, the boss has mechanics based on health amount. SO the faster you burn it, the more mechanics will happen at once and possibly overlap. So to play it safe, take your time! Focus the adds and empty the room and THEN focus the boss. Rinse repeat!
 > 
 > 
 > 

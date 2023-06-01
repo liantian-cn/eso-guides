@@ -4,107 +4,6 @@
 
 
 
-### 法尔格拉文领主
-
-> LORD FALGRAVN
-
-
-**法尔格拉文领主（瘦身的瑞凯特）**
-
-这个BOSS很简单...但他的血量巨大！他非常巨大！
-
-这个游戏的机制需要一些协调、专注和理解，就像其他战斗一样，但基本上是一场耐久战。你能走多远并表现出色吗？还是会疲惫不堪失败？这才是真正的考验。
-
-让我们来谈一下位置和策略的重要性。首先，老板没有前方AOE（范围攻击）/cleave（横劈）能力影响除坦克之外的任何人。因此，大多数时间将老板保持在房间中央是安全的，如果人们不小心站在他附近，也不会对游戏产生影响。然而，保持简单，如果你不是坦克，也不要站在他的面前。
-
-一般来说，对于整个小队，要形成一个漂亮的广泛分散的圆圈！在这场战斗中不要堆叠。这会引起问题。在站立范围内使用任何技能时，有足够的空间，在治疗方面也会在这场战斗中起到很大的作用。这场战斗是被设计成没有正面的AOE技能的，这会让你认为你可以堆叠并燃烧。错了。距离是关键，找到一个位置，立足于此（稍后再谈）。
-
-* **爪牙** :  首领会对坦克发动一个持续20秒的伤害效果。每次攻击都会使这个伤害更加强大。然而，他会频繁施放这个技能，并且会用新技能取消旧技能，因此只要维持仇恨，坦克很少会完全受到其效果。所以只要集中治疗就很简单了。然而，如果这个技能攻击了一个输出或治疗，那么最后的几次伤害将会瞬间造成致命伤害。你不能清除它！
-
-* **中尉Njordal** :  在大约95％的时间（非常早期），这个小怪/副本BOSS将会出现。主坦克应将主要BOSS远离团队。离线坦克应该抓住这个小怪并靠在墙上。整个团队全力打击这个小怪！像对待Boss一样环绕它，很好地分散开，并将其视为当前的Boss战，直到它死亡。
-
-他有四个主要机制，它们很容易理解。
-
-* **Cleave** :  BOSS会用双手握紧的武器对着坦克砍，同时也会带有锥形AOE攻击，所以确保其他人不要站在攻击范围内！同时，攻击命中的人还会受到一个持续20秒的dot效果，该效果无法被清除。
-
-* **召唤** :  首领会将他的剑刺入地面，并不断从地下召唤红色骸骨拳头（类似于未坟墓的怪物组和机制）。其中三个会一起爆炸，然后这种持续的频道会一直发生，直到他停下来并把剑从地面上拿出来。所有人需要做的就是移动双脚，避免小范围的爆炸伤害。
-
-* **瞬移打击** :  这个技能与Spindleclutch II中的最后一名BOSS完全相同。BOSS会从一个玩家跳到另一个玩家并造成直接伤害。如果他瞬移到你这里，使用格挡。简单易行。
-
-**注意！** 如果你离他太远，你将会受到惩罚！如果你这么做了，他将会用无法闪避和无法打断的眩晕锁定你。要注意你的脚下！
-
-一旦小BOSS死亡，回到房间中央的主BOSS处，恢复原来的阵型/位置。
-
-* **闪电爆炸** :  在战斗中，BOSS会同时以电击能力瞄准3个玩家，这是一个会对其他玩家造成伤害的AOE脉冲电击，因此你必须不要叠在一起，如果能避免就不要重叠。3秒后，玩家将爆炸，带有闪电的玩家将受到电击伤害。任何被这些AOE困住的玩家也会受到伤害，如果人们太愚蠢和恐慌就会造成团灭。放松，分散开来，不要伤害彼此。你可以站得离开得比较远，这样就永远不需要移动，或者稍微后退一下，以免与他人接触。
-
-注意：你无法格挡这个伤害，但你可以使用伤害护盾来减轻一些伤害，同时使用抗性和伤害减免技能/加成/冠军点数。
-
-* **雏菊连锁** :  当BOSS血量分别达到90%和80%时，它会开始聚集闪电，所有玩家都会遭受每秒钟的伤害。房间里有4个导管/灯（北、南、东、西）。当前活动的那个，所有玩家都需要跑到那里，并在导管和BOSS之间排成一条直线。 快！创造这个协调的雏菊连锁将会沿着导管震动，并在BOSS身上爆炸。这必须重复4次，以使所有的导管爆炸。完成后，您可以像往常一样继续站位。
-
-注意：在这个阶段，Boss受到的伤害要少得多，你应该让治疗师进行重度治疗以弥补线路拉拽期间的任何松懈（是的，有些人可能会搞砸这个，所以要事先准备好！）。
-
-* **每个人都想成为一只猫** :  当生命值降至70%时，我们将会遇到一种我所称的《猫歌舞团》机制。这时你要像电影中钢琴的场景一样，砸穿地面（参见视频😉）。当你降落到下一层时，你将被每个吸血鬼领主/骑士中的一个所迎接，然后在首领加入之前将他们全部消灭。
-
-你现在已经见过的3种敌人类型，但它们都有自己的机制。
-
-* **红衣骑士** :  这是一个牛逼的敌人，他可以愤怒并变成像BOSS一样的大小。当他这样做时，他的横扫攻击非常强力，任何人都不应该站在这个家伙的面前，只有坦克和你需要使用大治疗术！
-
-* **苦涩骑士** :  这个小怪可以关押一个玩家。你需要攻击监狱并释放他们，以免他们爆炸死亡。如果你不确定该找什么或者一次发生太多事情而感到不知所措，就打开字幕！它会告诉你哪个玩家被关押了。
-
-* **上古卷轴在线游戏攻略
-
-血骑士** :  这个BOSS会在地上施放一个大的血十字形。当这个发生时一定要格挡它！你可以使用盾牌并格挡，但不能躲避！受到的伤害将施加一定伤害时间效果给玩家，并且每次伤害效果会变得更强。一定要确保治疗师保持清醒并及时治疗！
-
-注意：每个被击杀的附加怪物会将他们的能力授予其他骑士，因此尝试同时杀死它们，以防止重复的机制。
-
-值得注意的是，在剩余的战斗中，BOSS现在会吸收这些机制。因此，骑士的幽影会每隔一段时间出现，并随机拥有每个机制。然而，现在没有骑士可以赋予力量了，相反，BOSS会得到这个力量！使他的攻击非常强大并变得巨大！
-
-打破监狱，注视脚下，强力治疗！
-
-* **失血和血珠** :  在战斗中，首领会对每个玩家施加红色的失血效果，持续30秒。在此期间请尽量不要移动，每移动一步将会造成巨大的伤害。移动的玩家将会死亡！因此，只有在你真的非常必要的情况下，才移动，并且只在非常短的距离内移动。这里需要大量的治疗。
-
-在这段时间内，会出现一个大的红色血块。任何被困在其中的人都会受到伤害。它是可以格挡的，但是如果可能的话，您绝对不想靠近它。它的范围非常小，但是还是要尽量避免。
-
-* **凝固物** :  在上述阶段中，凝固物将会生成，并慢慢移动到房间中间的血球处！每一个到达血球的凝固物都会加强它。以上阶段结束后，血球将会爆炸并对所有玩家造成伤害，伤害值取决于有多少凝固物到达中间。请确保你的治疗和减伤很足够，以防你的伤害不够高，在阶段中无法摆脱大量的凝固物。
-
-一旦它爆炸，会生成一个巨大的凝固物，必须被消灭，但可以被嘲讽。注意它的前置斩击，任何DPS或治疗者都不应站在它附近。
-
-* **「貴族猫2」** :  上述机制将重复使用，直到你达到35％，然后地板会再次破裂到最终区域！有趣！现在最终机制出现了。
-
-这里不再有血液机制和闪电机制，而是进入了完全增强模式。他可以回复高达40%的生命值，现在基本上是堆叠输出和大量治疗。但当然还有一个主要机制要考虑，除了BOSS的横扫/重击攻击更强之外。现在你还需要处理囚犯和拷问者。
-
-* **受害者和酷刑者** :  在楼下的战斗中（每50秒钟），boss会释放头顶上方和周围区域的雾气，会出现两个受害者和两个酷刑者。
-
-首领会有导向宝珠告诉你该去哪里，所以要跟随它们并快速行动。基本上你要找一个敌人去击杀。你可以分成小组去杀死两个折磨者，然后再回来，但必须明白这是如何运作的。
-
-每个小怪都有100万的生命值，所以DPS检测非常低。你有30秒的时间来击杀它们。
-
-如果你杀死了两个折磨者，那么受害者会在战斗中帮助你。如果你失败了，那么他们就会跳入战斗，并进行猛烈的双手攻击。这意味着你现在必须杀死他们，而且他们比楼上的版本更加强化。选择在你手中，但我建议你尽快杀死他们楼上的版本，让战斗变得更容易。
-
-* **砸开** :  位置非常重要，一定要让boss保持在房间中央附近。如果他靠近楼梯任何地方，他会<strong>砸开</strong>它们，房间将会压垮所有人，全队灭亡。你必须让他保持在主要区域/场地。
-
-* **处以死刑** :  由于你已经了解了上述所有机制，现在当然基本上是处以死刑模式。继续做你该做的事情，保持遵循机制的节奏，不管这需要多长时间都没有关系。然而，有一件非常重要的事情你必须注意。BOSS现在会不断地对团队产生范围伤害，并且伤害非常大！你必须确保团队在接下来的战斗中有强大的治疗。继续保持那些伤害减免奖励和那些治疗。
-
-注意：这是范围伤害，因此范围伤害减轻技能，奖励和CP会生效！
-
-* **困难模式** :  困难模式没有太多重大的改变，但是由于已经有很多要处理的事情，因此增加更多的难度可能会比较棘手，不过这些改变是非常重要的！
-
-* **抓取骷髅拳** :  这个小boss现在会使用6只骷髅拳来施放骷髅拳/抓取机制，而不是原来的3只。
-
-* **闪电** :  主要的闪电范围伤害机制现在可以影响6个人而不是3个。
-
-* **重击横劈攻击** :  在最后阶段，Boss的横劈/重击会产生一个血球，需要避开。它有一个小范围伤害，并会一直留在房间里直至战斗结束。
-
-* **死亡寻求者（复活机制）** :  如果你在顶层或第二层复活了另一个玩家，你将被拖到最低层，并且必须通过传送门找到出路，以便重新加入战斗！如果你在那里被任何敌人攻击，你必须闪避他们的攻击，但最重要的是要迅速返回。如果那里的任何东西击中了你，你就死了！
-
-在困难模式下，Boss和迷你Boss的生命值大幅增加，但通常除了以上加成之外的机制都是完全相同的。你会惊讶于一些小差别可以产生如此大的影响，但确实如此。因此请多多练习。
-
-这场战斗实际上没有DPS（伤害输出）检测，甚至囚犯部分的伤害输出也很低。只是时间较长。所以大家要全力以赴，祝你们好运！
-
-
-
-
-
 ### 屠夫扬迪尔
 
 > YANDIR THE BUTCHER
@@ -228,107 +127,113 @@
 
 
 
+### 法尔格拉文领主
+
+> LORD FALGRAVN
+
+
+**法尔格拉文领主（瘦身的瑞凯特）**
+
+这个BOSS很简单...但他的血量巨大！他非常巨大！
+
+这个游戏的机制需要一些协调、专注和理解，就像其他战斗一样，但基本上是一场耐久战。你能走多远并表现出色吗？还是会疲惫不堪失败？这才是真正的考验。
+
+让我们来谈一下位置和策略的重要性。首先，老板没有前方AOE（范围攻击）/cleave（横劈）能力影响除坦克之外的任何人。因此，大多数时间将老板保持在房间中央是安全的，如果人们不小心站在他附近，也不会对游戏产生影响。然而，保持简单，如果你不是坦克，也不要站在他的面前。
+
+一般来说，对于整个小队，要形成一个漂亮的广泛分散的圆圈！在这场战斗中不要堆叠。这会引起问题。在站立范围内使用任何技能时，有足够的空间，在治疗方面也会在这场战斗中起到很大的作用。这场战斗是被设计成没有正面的AOE技能的，这会让你认为你可以堆叠并燃烧。错了。距离是关键，找到一个位置，立足于此（稍后再谈）。
+
+* **爪牙** :  首领会对坦克发动一个持续20秒的伤害效果。每次攻击都会使这个伤害更加强大。然而，他会频繁施放这个技能，并且会用新技能取消旧技能，因此只要维持仇恨，坦克很少会完全受到其效果。所以只要集中治疗就很简单了。然而，如果这个技能攻击了一个输出或治疗，那么最后的几次伤害将会瞬间造成致命伤害。你不能清除它！
+
+* **中尉Njordal** :  在大约95％的时间（非常早期），这个小怪/副本BOSS将会出现。主坦克应将主要BOSS远离团队。离线坦克应该抓住这个小怪并靠在墙上。整个团队全力打击这个小怪！像对待Boss一样环绕它，很好地分散开，并将其视为当前的Boss战，直到它死亡。
+
+他有四个主要机制，它们很容易理解。
+
+* **Cleave** :  BOSS会用双手握紧的武器对着坦克砍，同时也会带有锥形AOE攻击，所以确保其他人不要站在攻击范围内！同时，攻击命中的人还会受到一个持续20秒的dot效果，该效果无法被清除。
+
+* **召唤** :  首领会将他的剑刺入地面，并不断从地下召唤红色骸骨拳头（类似于未坟墓的怪物组和机制）。其中三个会一起爆炸，然后这种持续的频道会一直发生，直到他停下来并把剑从地面上拿出来。所有人需要做的就是移动双脚，避免小范围的爆炸伤害。
+
+* **瞬移打击** :  这个技能与Spindleclutch II中的最后一名BOSS完全相同。BOSS会从一个玩家跳到另一个玩家并造成直接伤害。如果他瞬移到你这里，使用格挡。简单易行。
+
+**注意！** 如果你离他太远，你将会受到惩罚！如果你这么做了，他将会用无法闪避和无法打断的眩晕锁定你。要注意你的脚下！
+
+一旦小BOSS死亡，回到房间中央的主BOSS处，恢复原来的阵型/位置。
+
+* **闪电爆炸** :  在战斗中，BOSS会同时以电击能力瞄准3个玩家，这是一个会对其他玩家造成伤害的AOE脉冲电击，因此你必须不要叠在一起，如果能避免就不要重叠。3秒后，玩家将爆炸，带有闪电的玩家将受到电击伤害。任何被这些AOE困住的玩家也会受到伤害，如果人们太愚蠢和恐慌就会造成团灭。放松，分散开来，不要伤害彼此。你可以站得离开得比较远，这样就永远不需要移动，或者稍微后退一下，以免与他人接触。
+
+注意：你无法格挡这个伤害，但你可以使用伤害护盾来减轻一些伤害，同时使用抗性和伤害减免技能/加成/冠军点数。
+
+* **雏菊连锁** :  当BOSS血量分别达到90%和80%时，它会开始聚集闪电，所有玩家都会遭受每秒钟的伤害。房间里有4个导管/灯（北、南、东、西）。当前活动的那个，所有玩家都需要跑到那里，并在导管和BOSS之间排成一条直线。 快！创造这个协调的雏菊连锁将会沿着导管震动，并在BOSS身上爆炸。这必须重复4次，以使所有的导管爆炸。完成后，您可以像往常一样继续站位。
+
+注意：在这个阶段，Boss受到的伤害要少得多，你应该让治疗师进行重度治疗以弥补线路拉拽期间的任何松懈（是的，有些人可能会搞砸这个，所以要事先准备好！）。
+
+* **每个人都想成为一只猫** :  当生命值降至70%时，我们将会遇到一种我所称的《猫歌舞团》机制。这时你要像电影中钢琴的场景一样，砸穿地面（参见视频😉）。当你降落到下一层时，你将被每个吸血鬼领主/骑士中的一个所迎接，然后在首领加入之前将他们全部消灭。
+
+你现在已经见过的3种敌人类型，但它们都有自己的机制。
+
+* **红衣骑士** :  这是一个牛逼的敌人，他可以愤怒并变成像BOSS一样的大小。当他这样做时，他的横扫攻击非常强力，任何人都不应该站在这个家伙的面前，只有坦克和你需要使用大治疗术！
+
+* **苦涩骑士** :  这个小怪可以关押一个玩家。你需要攻击监狱并释放他们，以免他们爆炸死亡。如果你不确定该找什么或者一次发生太多事情而感到不知所措，就打开字幕！它会告诉你哪个玩家被关押了。
+
+* **上古卷轴在线游戏攻略
+
+血骑士** :  这个BOSS会在地上施放一个大的血十字形。当这个发生时一定要格挡它！你可以使用盾牌并格挡，但不能躲避！受到的伤害将施加一定伤害时间效果给玩家，并且每次伤害效果会变得更强。一定要确保治疗师保持清醒并及时治疗！
+
+注意：每个被击杀的附加怪物会将他们的能力授予其他骑士，因此尝试同时杀死它们，以防止重复的机制。
+
+值得注意的是，在剩余的战斗中，BOSS现在会吸收这些机制。因此，骑士的幽影会每隔一段时间出现，并随机拥有每个机制。然而，现在没有骑士可以赋予力量了，相反，BOSS会得到这个力量！使他的攻击非常强大并变得巨大！
+
+打破监狱，注视脚下，强力治疗！
+
+* **失血和血珠** :  在战斗中，首领会对每个玩家施加红色的失血效果，持续30秒。在此期间请尽量不要移动，每移动一步将会造成巨大的伤害。移动的玩家将会死亡！因此，只有在你真的非常必要的情况下，才移动，并且只在非常短的距离内移动。这里需要大量的治疗。
+
+在这段时间内，会出现一个大的红色血块。任何被困在其中的人都会受到伤害。它是可以格挡的，但是如果可能的话，您绝对不想靠近它。它的范围非常小，但是还是要尽量避免。
+
+* **凝固物** :  在上述阶段中，凝固物将会生成，并慢慢移动到房间中间的血球处！每一个到达血球的凝固物都会加强它。以上阶段结束后，血球将会爆炸并对所有玩家造成伤害，伤害值取决于有多少凝固物到达中间。请确保你的治疗和减伤很足够，以防你的伤害不够高，在阶段中无法摆脱大量的凝固物。
+
+一旦它爆炸，会生成一个巨大的凝固物，必须被消灭，但可以被嘲讽。注意它的前置斩击，任何DPS或治疗者都不应站在它附近。
+
+* **「貴族猫2」** :  上述机制将重复使用，直到你达到35％，然后地板会再次破裂到最终区域！有趣！现在最终机制出现了。
+
+这里不再有血液机制和闪电机制，而是进入了完全增强模式。他可以回复高达40%的生命值，现在基本上是堆叠输出和大量治疗。但当然还有一个主要机制要考虑，除了BOSS的横扫/重击攻击更强之外。现在你还需要处理囚犯和拷问者。
+
+* **受害者和酷刑者** :  在楼下的战斗中（每50秒钟），boss会释放头顶上方和周围区域的雾气，会出现两个受害者和两个酷刑者。
+
+首领会有导向宝珠告诉你该去哪里，所以要跟随它们并快速行动。基本上你要找一个敌人去击杀。你可以分成小组去杀死两个折磨者，然后再回来，但必须明白这是如何运作的。
+
+每个小怪都有100万的生命值，所以DPS检测非常低。你有30秒的时间来击杀它们。
+
+如果你杀死了两个折磨者，那么受害者会在战斗中帮助你。如果你失败了，那么他们就会跳入战斗，并进行猛烈的双手攻击。这意味着你现在必须杀死他们，而且他们比楼上的版本更加强化。选择在你手中，但我建议你尽快杀死他们楼上的版本，让战斗变得更容易。
+
+* **砸开** :  位置非常重要，一定要让boss保持在房间中央附近。如果他靠近楼梯任何地方，他会<strong>砸开</strong>它们，房间将会压垮所有人，全队灭亡。你必须让他保持在主要区域/场地。
+
+* **处以死刑** :  由于你已经了解了上述所有机制，现在当然基本上是处以死刑模式。继续做你该做的事情，保持遵循机制的节奏，不管这需要多长时间都没有关系。然而，有一件非常重要的事情你必须注意。BOSS现在会不断地对团队产生范围伤害，并且伤害非常大！你必须确保团队在接下来的战斗中有强大的治疗。继续保持那些伤害减免奖励和那些治疗。
+
+注意：这是范围伤害，因此范围伤害减轻技能，奖励和CP会生效！
+
+* **困难模式** :  困难模式没有太多重大的改变，但是由于已经有很多要处理的事情，因此增加更多的难度可能会比较棘手，不过这些改变是非常重要的！
+
+* **抓取骷髅拳** :  这个小boss现在会使用6只骷髅拳来施放骷髅拳/抓取机制，而不是原来的3只。
+
+* **闪电** :  主要的闪电范围伤害机制现在可以影响6个人而不是3个。
+
+* **重击横劈攻击** :  在最后阶段，Boss的横劈/重击会产生一个血球，需要避开。它有一个小范围伤害，并会一直留在房间里直至战斗结束。
+
+* **死亡寻求者（复活机制）** :  如果你在顶层或第二层复活了另一个玩家，你将被拖到最低层，并且必须通过传送门找到出路，以便重新加入战斗！如果你在那里被任何敌人攻击，你必须闪避他们的攻击，但最重要的是要迅速返回。如果那里的任何东西击中了你，你就死了！
+
+在困难模式下，Boss和迷你Boss的生命值大幅增加，但通常除了以上加成之外的机制都是完全相同的。你会惊讶于一些小差别可以产生如此大的影响，但确实如此。因此请多多练习。
+
+这场战斗实际上没有DPS（伤害输出）检测，甚至囚犯部分的伤害输出也很低。只是时间较长。所以大家要全力以赴，祝你们好运！
+
+
+
+
+
 
 
 
 
 <eng>
 
-> LORD FALGRAVN
-> 
-> 
-> ** LORD FALGRAVN (SKINNY RAKKHAT) **
-> 
-> This boss is SIMPLE...however, he has a TRUCK LOAD of health! He is BIG!!!
-> 
-> The mechanics require some coordination, focus and understanding much like any other fight, but it is an endurance fight basically. Can you go the distance and perform? or will you get fatigued and fail? That is the real test.
-> 
-> So let's talk importance of positioning and tactics for the most part..The boss has ZERO frontal aoe/cleave abilities that affect anyone other than the tank. So it is safe to hold the boss in the middle of the room the majority of the time and not a game changer if people accidentally stand near him. However, keep it simple, if you are not a tank...don't stand in his face anyway.
-> 
-> Generally for the rest of the group, make a nice wide spread out circle! Do NOT stack in this fight for the majority. It will cause problems. Plenty of space while standing in range of whatever abilities you are using,  and in the heals will make a big difference in this fight. It is designed (no frontal aoe) to make you THINK you can stack and burn. Wrong. Distance is key, find a spot and plant your feet (more on that later).
-> 
-> **Claw** - The boss will hit the tank with a 20second damage over time ability. This will get stronger and stronger per tick. However, he will cast this a lot, and will actually cancel out the old one with a new one so the tank will rarely get the full effect of it so long as they maintain aggro. So pretty simple to out heal if focused. If this hits a dps or healer however, those final ticks will literally one tick BOOM and kill you. You cannot cleanse it!
-> 
-> **Lieutenant Njordal** - Around 95% (very early on) this add/miniboss will spawn. The main tank should hold the main boss away from the group. The off tank should grab this and back against a wall. FULL focus damage on this boss from the whole group! Literally circle him like you did the boss, nicely spread out and treat this as your current boss fight until he is dead.
-> 
-> He does have 4 major mechanics and they are simple to understand
-> 
-> **Cleave** - The boss will cleave with his two hander in the direction of the tank. This DOES have a  conal aoe attached to it so make sure no one else stands in it! This also has a 20second dot applied to anyone hit by it which cannot be purged.
-> 
-> **Summoning** - The boss will stab his sword into the ground and constantly summon red skeletal fists from the ground ( like the monster set and mechanic from unhallowed Grave). Three of these will burst at once and then constant channels of this will happen over and over until he stops and takes his sword out of the ground. All people need to do is move their feet and avoid the BURST damage that comes from them in small aoe.
-> 
-> **Teleport Strike** - This is exactly the same as the last boss in Spindleclutch II. The boss will jump from one player to the other hitting them with direct damage. If he teleports to you, BLOCK it. Simple.
-> 
-> **Grip!** - You will be punished for moving too far away from him! If you do, he will chain you in with an undodgeable unbreakable stun. Watch your feet!
-> 
-> Once the miniboss is dead, go back to the main boss in the middle of the room and resume your original formation/positions.
-> 
-> **Lightning pop!** - During the fight the boss will target 3 players at once with a shock ability, this is an aoe pulsing shock that WILL hurt other players, so you must NOT stack and must NOT overlap them if you can help it. After 3 seconds they will burst and the players with lightning on them will take shock damage. Anyone caught in these aoes will ALSO take damage, resulting in wipes if people are stupid and panic. Relax, spread out, don't kill each other. You can position wide so you never need to move, or simply step back a bit so you don't hit people with it.
-> 
-> NOTE: You cannot block the damage from this but you can apply damage shields to help mitigate some of it as well as resistance and damage mitigation skills/bonuses/cps.
-> 
-> **DAISY CHAIN!!!** - At 90% health and 80% health the boss will charge up channeling lightning from the sky and every single player will take damage per second. There are 4 conduit/lights in the room (north south east west). Whichever one is currently active, all players need to run to and make a straight line between the conduit and the boss. FAST!! Creating this co-ordinated Daisy Chain will send a shock all the way down the light and POP on the boss. This must be done 4 times so that all conduits explode. Once completed you can resume positions as usual.
-> 
-> NOTE: The boss takes MUCH less damage during this time and also you should have your healers play heavy heals during this phase to cover up for any slack while drawing that line (yes some people can mess this up so always come prepared!).
-> 
-> **Every body want's to be a cat!** - At 70% we have what i like to call the Aristocats mechanic! This is where you basically smash through the floor (much like the piano scene in the movie, see video 😉 ). When you land on the next floor you will be greeted bye one of EACH of the Vampire lords/knights and have to kill them all before the boss joins you.
-> 
-> The 3 enemy types you HAVE seen before now however they do all have their own mechanics.
-> 
-> **Crimson Knight** - This is the BIG one, he can enrage and grow to the size of the boss. When he does this his swipes hit VERY hard, no one should be standing in front of this guy but the tank and you need some BIG heals!
-> 
-> **Bitter Knight** - This add can imprison a player. You need to attack the prison and break them free before they explode and die. If you are not sure what to look for or are generally overwhelmed by many things going on at once, put subtitles on! It will tell you when a player is imprisoned.
-> 
-> **Blood Knight** - This boss will cast a large blood cross shape on the floor. When this happens be sure to BLOCK it! You can shield and you can block but you cannot dodge it! Damage taken from this will apply a 7 second damage overtime to the players and will get stronger per tick. Be sure the healers are awake and on point!
-> 
-> NOTE: Each add killed will grant their power to the other knights, so try to kill them all at the same time to prevent duplicated mechanics.
-> 
-> Also note for the remainder of the fight the BOSS now absorbs these mechanics. So a shade of the knights will appear periodically with a random mechanic of each. However, while there is no Knight to empower anymore, instead, the BOSS will get it! Making him hit very hard and grow HUGE!
-> 
-> Break prisons, watch feet, big heals!
-> 
-> **Hemorrhage and Blood orb** - During the fight the boss will cast red blood visual type debuffs on each player for 30seconds. During this time try NOT to move. Every step you take will cause HUGE damage. Moving players will DIE! So only move if you really really must, and only if it is a VERY short distance. Big heals will be required here.
-> 
-> During this time a BIG red blood blob will appear. Anyone caught under this will take damage. It is blockable but you do NOT want to be anywhere near this if you can help it. The aoe from it is very small range wise but avoid it all the same.
-> 
-> **Coagulants** - During the above phase coagulants will spawn and move slowly to the middle of the room towards the Blood orb! Each one that makes it to the orb will empower it. After the Above phase is over the orb will burst and do damage to all players based on how many coagulants made it to the middle. Be sure you have PLENTY of heals and damage mitigation in case your damage is not high enough to get rid of a lot of them during the phase.
-> 
-> Once it explodes are LARGE coagulant will spawn and must be killed but CAN be taunted. Be aware of it's frontal cleave, no dps or healer should be standing near it.
-> 
-> **Aristocats part II?** - The above mechanics will be rinse repeat for as long as it takes until you hit 35%, THEN the floor will break again down to the final area! FUN! Now the final mechanics come in.
-> 
-> The blood mechanics no longer happen down here, nor does the lightning. Instead he is FULL empower mode. He will heal up to 40% health and now it is basically stack and burn with massive heals. BUT there is of course ONE more major mechanic to consider aside from the fact the boss's swipe/heavy attacks hit harder. You now have to deal with prisoners and torturers.
-> 
-> **Victims and Torturers** - During the fight downstairs (every 50seconds) the boss will release the mist above your head and around the area and there will be a 2 victims and 2 torturers.
-> 
-> The boss will have orbs directing you to where to go, so follow these and act fast. Basically you are looking for an enemy to kill. You can split up onto small groups to go and kill two torturers and then come back again but MUST understand how this works.
-> 
-> The adds have 1mil health each so the DPS check is very very low. You have 30seconds to kill them.
-> 
-> IF you kill both Torturers, the victims will help you in the fight. If you FAIL, then they will jump into the fight and cast HARD hitting two hander attacks. Meaning you must now kill these and they are buffed vs their upstairs version. The choice is yours but i would recommend killing this nice and quick upstairs and make the fight easier for yourself.
-> 
-> **SMASH!!!!!!!!!!** - Position is everything, KEEP that boss near the middle of the room. If he is anywhere near the stairs, he will SMASH them and the room will come crushing down effectively on everyone. It is a GROUP wipe. You must keep him in the main pit/area.
-> 
-> **Execute** - Since you know all of the above mechanics you are of course basically in execute mode now. Keep doing what you are doing, KEEP following the mechanics, and it doesn't matter HOW long this takes. However, there is ONE major thing you MUST be aware of. The boss is now constantly pulsing aoe damage at the group, and it hits VERY hard! You must be sure that the group has huge heals for the rest of the fight. Keep up those damage mitigation bonuses and keep up those heals.
-> 
-> NOTE: It is aoe damage so aoe damage mitigation skills, bonuses and CPs DO apply!
-> 
-> **HARDMODE!** - There are not many MAJOR differences in hardmode but there is already a lot going on so adding more spice can be tricky, but the changes are important!
-> 
-> **Grasp/Skeletal fists** - The miniboss now casts the Skeletal fist/grasp mechanic with 6 skeletal fists instead of 3.
-> 
-> **Lightning** - The main lightning aoe damage mechanic is now on 6 people not 3.
-> 
-> **Heavy/Swipe Attack** - At the last phase the boss's cross swipe/heavy attack places a blood orb which should be avoided. it has a small aoe to it and will stay in the room for the rest of the fight.
-> 
-> **DEATH SEEKERS! (Resurrection mechanic)** -  If you are at the top floor or the second floor and you resurrect another player, you will be dragged down to the lowest level and have to find your way out via a portal so you can rejoin the fight! If you are attacked by any enemies down there you MUST dodge roll their attacks, but above all get back quick. If anything down there hits you, you are dead!
-> 
-> On hard mode the boss and the miniboss have a MASSIVE amount more health, but generally the mechanics exeluding the additional above ones, are EXACTLY the same. You would be surprised how a couple of small differences can make that much of an impact, but it can. So practice practice.
-> 
-> There are technically no DPS checks in this fight and even the Prisoners section is really low. It's just LONG. So get stuck in people, and GOOD LUCK!
-> 
-> 
-> 
 > YANDIR THE BUTCHER
 > 
 > 
@@ -440,6 +345,101 @@
 > When the adds come through the portal you will ALSO get Bulwarks. These much like the others in the trash pulls follow a simple mechanic. They carry a protection shield. They themselves are not protected but ANYTHING inside of the shield will NOT take damage until the shield is done. So be sure to heavily focus the bulwark as your main target. Others can STILL be interrupted so don't skip that part of the mechanics but these must die first, OR be taken out of the group while you kill the others. Since you are on a timer however with them spawning every 45 seconds, it makes sense to get rid of them.
 > 
 > Also one more thing to note during the entire fight lightning will strike random players in the group directly with a tiny aoe attached. DON'T STACK too tight!
+> 
+> 
+> 
+> LORD FALGRAVN
+> 
+> 
+> ** LORD FALGRAVN (SKINNY RAKKHAT) **
+> 
+> This boss is SIMPLE...however, he has a TRUCK LOAD of health! He is BIG!!!
+> 
+> The mechanics require some coordination, focus and understanding much like any other fight, but it is an endurance fight basically. Can you go the distance and perform? or will you get fatigued and fail? That is the real test.
+> 
+> So let's talk importance of positioning and tactics for the most part..The boss has ZERO frontal aoe/cleave abilities that affect anyone other than the tank. So it is safe to hold the boss in the middle of the room the majority of the time and not a game changer if people accidentally stand near him. However, keep it simple, if you are not a tank...don't stand in his face anyway.
+> 
+> Generally for the rest of the group, make a nice wide spread out circle! Do NOT stack in this fight for the majority. It will cause problems. Plenty of space while standing in range of whatever abilities you are using,  and in the heals will make a big difference in this fight. It is designed (no frontal aoe) to make you THINK you can stack and burn. Wrong. Distance is key, find a spot and plant your feet (more on that later).
+> 
+> **Claw** - The boss will hit the tank with a 20second damage over time ability. This will get stronger and stronger per tick. However, he will cast this a lot, and will actually cancel out the old one with a new one so the tank will rarely get the full effect of it so long as they maintain aggro. So pretty simple to out heal if focused. If this hits a dps or healer however, those final ticks will literally one tick BOOM and kill you. You cannot cleanse it!
+> 
+> **Lieutenant Njordal** - Around 95% (very early on) this add/miniboss will spawn. The main tank should hold the main boss away from the group. The off tank should grab this and back against a wall. FULL focus damage on this boss from the whole group! Literally circle him like you did the boss, nicely spread out and treat this as your current boss fight until he is dead.
+> 
+> He does have 4 major mechanics and they are simple to understand
+> 
+> **Cleave** - The boss will cleave with his two hander in the direction of the tank. This DOES have a  conal aoe attached to it so make sure no one else stands in it! This also has a 20second dot applied to anyone hit by it which cannot be purged.
+> 
+> **Summoning** - The boss will stab his sword into the ground and constantly summon red skeletal fists from the ground ( like the monster set and mechanic from unhallowed Grave). Three of these will burst at once and then constant channels of this will happen over and over until he stops and takes his sword out of the ground. All people need to do is move their feet and avoid the BURST damage that comes from them in small aoe.
+> 
+> **Teleport Strike** - This is exactly the same as the last boss in Spindleclutch II. The boss will jump from one player to the other hitting them with direct damage. If he teleports to you, BLOCK it. Simple.
+> 
+> **Grip!** - You will be punished for moving too far away from him! If you do, he will chain you in with an undodgeable unbreakable stun. Watch your feet!
+> 
+> Once the miniboss is dead, go back to the main boss in the middle of the room and resume your original formation/positions.
+> 
+> **Lightning pop!** - During the fight the boss will target 3 players at once with a shock ability, this is an aoe pulsing shock that WILL hurt other players, so you must NOT stack and must NOT overlap them if you can help it. After 3 seconds they will burst and the players with lightning on them will take shock damage. Anyone caught in these aoes will ALSO take damage, resulting in wipes if people are stupid and panic. Relax, spread out, don't kill each other. You can position wide so you never need to move, or simply step back a bit so you don't hit people with it.
+> 
+> NOTE: You cannot block the damage from this but you can apply damage shields to help mitigate some of it as well as resistance and damage mitigation skills/bonuses/cps.
+> 
+> **DAISY CHAIN!!!** - At 90% health and 80% health the boss will charge up channeling lightning from the sky and every single player will take damage per second. There are 4 conduit/lights in the room (north south east west). Whichever one is currently active, all players need to run to and make a straight line between the conduit and the boss. FAST!! Creating this co-ordinated Daisy Chain will send a shock all the way down the light and POP on the boss. This must be done 4 times so that all conduits explode. Once completed you can resume positions as usual.
+> 
+> NOTE: The boss takes MUCH less damage during this time and also you should have your healers play heavy heals during this phase to cover up for any slack while drawing that line (yes some people can mess this up so always come prepared!).
+> 
+> **Every body want's to be a cat!** - At 70% we have what i like to call the Aristocats mechanic! This is where you basically smash through the floor (much like the piano scene in the movie, see video 😉 ). When you land on the next floor you will be greeted bye one of EACH of the Vampire lords/knights and have to kill them all before the boss joins you.
+> 
+> The 3 enemy types you HAVE seen before now however they do all have their own mechanics.
+> 
+> **Crimson Knight** - This is the BIG one, he can enrage and grow to the size of the boss. When he does this his swipes hit VERY hard, no one should be standing in front of this guy but the tank and you need some BIG heals!
+> 
+> **Bitter Knight** - This add can imprison a player. You need to attack the prison and break them free before they explode and die. If you are not sure what to look for or are generally overwhelmed by many things going on at once, put subtitles on! It will tell you when a player is imprisoned.
+> 
+> **Blood Knight** - This boss will cast a large blood cross shape on the floor. When this happens be sure to BLOCK it! You can shield and you can block but you cannot dodge it! Damage taken from this will apply a 7 second damage overtime to the players and will get stronger per tick. Be sure the healers are awake and on point!
+> 
+> NOTE: Each add killed will grant their power to the other knights, so try to kill them all at the same time to prevent duplicated mechanics.
+> 
+> Also note for the remainder of the fight the BOSS now absorbs these mechanics. So a shade of the knights will appear periodically with a random mechanic of each. However, while there is no Knight to empower anymore, instead, the BOSS will get it! Making him hit very hard and grow HUGE!
+> 
+> Break prisons, watch feet, big heals!
+> 
+> **Hemorrhage and Blood orb** - During the fight the boss will cast red blood visual type debuffs on each player for 30seconds. During this time try NOT to move. Every step you take will cause HUGE damage. Moving players will DIE! So only move if you really really must, and only if it is a VERY short distance. Big heals will be required here.
+> 
+> During this time a BIG red blood blob will appear. Anyone caught under this will take damage. It is blockable but you do NOT want to be anywhere near this if you can help it. The aoe from it is very small range wise but avoid it all the same.
+> 
+> **Coagulants** - During the above phase coagulants will spawn and move slowly to the middle of the room towards the Blood orb! Each one that makes it to the orb will empower it. After the Above phase is over the orb will burst and do damage to all players based on how many coagulants made it to the middle. Be sure you have PLENTY of heals and damage mitigation in case your damage is not high enough to get rid of a lot of them during the phase.
+> 
+> Once it explodes are LARGE coagulant will spawn and must be killed but CAN be taunted. Be aware of it's frontal cleave, no dps or healer should be standing near it.
+> 
+> **Aristocats part II?** - The above mechanics will be rinse repeat for as long as it takes until you hit 35%, THEN the floor will break again down to the final area! FUN! Now the final mechanics come in.
+> 
+> The blood mechanics no longer happen down here, nor does the lightning. Instead he is FULL empower mode. He will heal up to 40% health and now it is basically stack and burn with massive heals. BUT there is of course ONE more major mechanic to consider aside from the fact the boss's swipe/heavy attacks hit harder. You now have to deal with prisoners and torturers.
+> 
+> **Victims and Torturers** - During the fight downstairs (every 50seconds) the boss will release the mist above your head and around the area and there will be a 2 victims and 2 torturers.
+> 
+> The boss will have orbs directing you to where to go, so follow these and act fast. Basically you are looking for an enemy to kill. You can split up onto small groups to go and kill two torturers and then come back again but MUST understand how this works.
+> 
+> The adds have 1mil health each so the DPS check is very very low. You have 30seconds to kill them.
+> 
+> IF you kill both Torturers, the victims will help you in the fight. If you FAIL, then they will jump into the fight and cast HARD hitting two hander attacks. Meaning you must now kill these and they are buffed vs their upstairs version. The choice is yours but i would recommend killing this nice and quick upstairs and make the fight easier for yourself.
+> 
+> **SMASH!!!!!!!!!!** - Position is everything, KEEP that boss near the middle of the room. If he is anywhere near the stairs, he will SMASH them and the room will come crushing down effectively on everyone. It is a GROUP wipe. You must keep him in the main pit/area.
+> 
+> **Execute** - Since you know all of the above mechanics you are of course basically in execute mode now. Keep doing what you are doing, KEEP following the mechanics, and it doesn't matter HOW long this takes. However, there is ONE major thing you MUST be aware of. The boss is now constantly pulsing aoe damage at the group, and it hits VERY hard! You must be sure that the group has huge heals for the rest of the fight. Keep up those damage mitigation bonuses and keep up those heals.
+> 
+> NOTE: It is aoe damage so aoe damage mitigation skills, bonuses and CPs DO apply!
+> 
+> **HARDMODE!** - There are not many MAJOR differences in hardmode but there is already a lot going on so adding more spice can be tricky, but the changes are important!
+> 
+> **Grasp/Skeletal fists** - The miniboss now casts the Skeletal fist/grasp mechanic with 6 skeletal fists instead of 3.
+> 
+> **Lightning** - The main lightning aoe damage mechanic is now on 6 people not 3.
+> 
+> **Heavy/Swipe Attack** - At the last phase the boss's cross swipe/heavy attack places a blood orb which should be avoided. it has a small aoe to it and will stay in the room for the rest of the fight.
+> 
+> **DEATH SEEKERS! (Resurrection mechanic)** -  If you are at the top floor or the second floor and you resurrect another player, you will be dragged down to the lowest level and have to find your way out via a portal so you can rejoin the fight! If you are attacked by any enemies down there you MUST dodge roll their attacks, but above all get back quick. If anything down there hits you, you are dead!
+> 
+> On hard mode the boss and the miniboss have a MASSIVE amount more health, but generally the mechanics exeluding the additional above ones, are EXACTLY the same. You would be surprised how a couple of small differences can make that much of an impact, but it can. So practice practice.
+> 
+> There are technically no DPS checks in this fight and even the Prisoners section is really low. It's just LONG. So get stuck in people, and GOOD LUCK!
 > 
 > 
 > 

@@ -4,134 +4,6 @@
 
 
 
-### 纳温塔丝
-
-> NAHVIINTAAS
-
-
-**纳温塔丝**
-
-就像其他首领一样，这个首领也有非常基本的机制需要跟随，反复练习。我的意思是，一旦你掌握了一个阶段，你就可以掌握其他阶段，它们并没有真正发生太多变化。
-
-然而，保持团队机制的一致性，不要无缘无故地改变计划是困难的。重复和专注是关键！另外，注意翻译错误： Lokkestiiz是Lokkestiiz，Nahviintaas是纳维因塔斯，Yolnahkriin是约尔纳克林。
-
-这个首领的坦克方式与其他首领相似。主坦克站在龙的一侧，副坦克需要注意额外机制，并准备在事情出错时接替坦克。团队应该聚集在龙头的另一侧。
-
-保持嘲讽，除非您已死亡或被标记（下面有解释），否则不要放弃它。
-
-首先，你会看到一个房间里充满了附加怪物，你必须处理这些怪物。与试炼的其余部分一样，必须尽快专注地解决“命运”（Fate） boss。剩余的怪物必须由坦克控制，同时小组留在坦克的身后。这需要练习，因为有很多事情要处理，但记住不要惊慌。你有足够的时间。一旦小怪都死了，你就会进入第一个火焰阶段，了解你需要了解的关于剩下的战斗。这个阶段会一遍又一遍地重复。
-
-* **隐藏攻击阶段** :  打倒小怪后，Boss将开始向房间中央喷火。团队应该靠近一座雕像，但也保持散开。多个火焰将会瞄准多个玩家，你不希望它们重叠。
-
-这个BOSS会在房间的中心造成三次大范围火焰爆炸。最后一次爆炸将会覆盖整个房间，当这一次发生时，团队必须全员叠在一起躲在一个雕像后面以躲避。
-
-在此阶段，会有烈焰元素，必须尽快击杀。最后的一波将会出现三个烈焰元素！把它们拉进来，干掉它们，准备好和龙降落开始战斗。
-
-在清理掉小兵之后，每次龙起飞时都会出现这个阶段。
-
-当龙到达80％，60％和40％时飞起来时，通过远离龙腾飞的位置为坦克腾出空间以抓住小怪物！要准备好面对小怪物的出现！
-
-* **湖镇** :  当小怪阶段时，纳维将在整个区域飞行，喷出炙热的火焰形成类似于《霍比特人》中斯矛格对湖镇的攻击的巨大直线。不要站在里面！
-
-* **咬** :  Boss将咬住坦克，造成严重伤害，需要格挡！
-
-* **火息之吐息** :  首领会对坦克喷出一股火息之吐息，应该尽量格挡！
-
-* **团队之息** :  是一个整个小队都要应对的吐息机制！这很简单，龙会连续吐息从一侧到另一侧。你只需要使用格挡就可以安全度过。如果不使用格挡，你就会死亡。
-
-* **头槌颈部摆动** :  BOSS会砸地并抬起头。他这样做时，就会对整个小队发起一个180度的巨大颈部摆动头槌。 要么格挡，要么被击退并有可能被击杀。很简单。
-
-注意：如果你距离目标很远，攻击不会命中。对于远程组很有帮助。
-
-* **火焰象形** :  与火焰BOSS不同，这些象形可以被拖到团队中，应该这样做。这些必须快速击败，因为它们会爆炸并杀死人。确保一旦它们死亡，不要站在它们的AOE范围内，并确保快速杀死它们，优先考虑这样做，以免炸掉所有人。如果一个火焰象形仍然活着，那么你做错了些什么。
-
-* **时间静止** :  这些会使玩家眩晕，所以你需要避开它们。但在传送门阶段（下文解释）时，你需要有一个人故意站在它们里面，因为这样会向团队的传送门传递非常需要的增益！另外，建议团队中的**聪慧者**或其他有突进能力的角色负责快速跳过它们，以防耽误战斗进度。在这一阶段，
-需要特别留意几个**重击**技能，包括**旋风、横劈、巴什**等，它们可以显著削弱传送门的护盾。在之后的两个阶段，注意掌握好各类**龙**的特性和弱点。其中，**洛克提兹、里、纳温塔丝、尤尔纳克林、乌恩**都是必须要重点注意的龙。最后，进入**血根熔炉**需要考虑好组员之间的配合和技能选择，充分利用团队的输出和控制能力，才能成功完成挑战。
-
-* **传送门永恒仆从** :  在进入飞行阶段之前，即在血量剩下10%时，也就是在血量剩下90%, 70%, 和50%的时候，房间后面会出现3个传送门。需要3个人进入这些传送门中。
-
-在里面将会有一个拥有大约360万生命值的永恒仆人。三个DPS玩家需要在同时生存并与机制作战的情况下同时杀死它！
-
-该仆从将施放许多技能。
-
-必须避开闪电飞溅，所以移动你的脚并且不要堆在一起！
-
-巨大的闪电范围会覆盖在地面上，不要站在范围内，因为它会造成很大的伤害并且削弱你的魔法能力！
-
-一个锥形范围的AOE将瞄准团队中的一个成员，他们需要保持位置并格挡它（也可以通过非常特定的时机躲避它）。最重要的是，没有人应该跑进它，玩家也不应该四处奔波，你不希望击中其他人（就像VAS中的毒素一样）。其中Whirlwind为技能名，Lokkestiiz为龙名，Dragon为专有名词，Nahviintaas为龙名，Yolnahkriin为龙名，Ri为技能名，Cleave为技能名，Bash为技能名，Bloodroot Forge为地名，Clever为人名，Un为专有名词，Time Stop为技能名，Meteor为技能名，Guard为技能名。
-
-一个大爆炸的aoe技能会影响一个玩家，然后爆炸，你应该把它带到老板附近，让它在老板旁边爆炸，这样像命运能力一样的流星就会落到老板身上，将旋风投掷在他身上。其中，Whirlwind（旋风）是一个技能名称，Lokkestiiz（洛克提兹）是一个专有名词，Meteor（流星）也是一个技能名称。
-
-当boss在祷告时，你必须打断他，否则你们所有人都会被击退并眩晕！
-
-玩家会被单独按在地上，就像在圣所奥菲迪亚与奥扎拉战斗时一样。其他玩家需要跑过去激活协同技能来释放他们！其中"Sanctum Ophidia"为专有名词，暂未提供翻译。
-
-最后，如果有人站在楼上的时间静止区域，你将会在楼下看到一个小小的绿色圆圈！拾取它，它会在短时间内增加你的伤害并且让战斗变得容易很多！
-
-注：在楼下，你有90秒的时间杀死仆人。如果你失败了，他会进入楼上的战斗，完全无敌并且杀死整个队伍。
-
-* **在90秒内与3个拥有3536百万血量的人战斗这意味着您需要确保每个玩家都能够遵循机制并且输出约126** : 13.3k的DPS（有些会波动，因此需要考虑执行力等因素）。以上是成功击杀所需的最低要求。因此有DPS检查，但只要您遵循这些机制并且没有死亡或灭团，要求的DPS检查非常低。
-
-* **治疗或死亡** :  玩家可能会面临一种负面效果，在他们的状态栏上可能会出现伤害护盾的图标，但是他们的健康值会很低。基本上，他们必须通过治疗来填满状态栏，否则就会死亡。这就像在Moongrave Fane中hoavar机制一样。
-
-* **被标记死亡** :  Boss会用一种喷溅类型的攻击打击坦克，将它标记为死亡，会有一个debuff来显示这一点。如果玩家在这种状态下被再次打中，他们将会死亡。因此，这个技巧很简单。每次有人被标记死亡时交换坦克，一切都会没事，因为debuff的计时器会在不需要被击败的情况下消失...... 或者如果你非常有经验的坦克，你可以躲闪它，完全避免被打中。但这需要一些练习。
-
-在普通难度下，你实际上可以存活下来，但是在老练难度下，除非你闪避滚动/交替坦克，否则你无法生存。 
-
-建议使用以下技能和装备： 
-
-技能：Whirlwind（旋风）、Lokkestiiz（洛克提兹）、Dragon（龙）、Nahviintaas（纳温塔丝）、Yolnahkriin（尤尔纳克林）、Ri（里）、Cleave（横劈）、Bash（巴什）、Time Stop（时间静止）、Meteor（流星）。 
-
-装备：Bloodroot Forge（血根熔炉）、Clever（聪慧者）、Lokkestiiz（洛克提兹）、Un（乌恩），以及其他适合你的装备。 
-
-对于Guard（守卫），最好有一个坚实的团队一起作战。
-
-* **处决** :  在31%以下的时候，龙会向空中喊叫，屏幕会略微改变颜色，并开始以3人为目标！基本上，你要紧密并非主攻击，同时遵循基本原则，但是如果你被AOE攻击锁定，你必须跑到房间的侧面/后面并将其放在地上，否则你会有麻烦。如果它在你所在的团队中掉落，人们无法站在上面，但是如果你将其放在侧面并回来，那就没问题了。
-
-* **困难模式** :  困难模式中的主要区别并不多，但已经有很多要处理了，所以增加更多要注意，但这些变化很重要！
-
-雕像会活过来！必须击杀它们，比较容易控制它们的位置，在龙的周围远离侧边或后方。这样大部分攻击都会落空，除了龙的火息攻击。这些雕像有非常特定的机制。
-
-直到他们开始施法之前，他们对所有伤害都免疫。当他们开始施法时，每秒钟对整个团队会造成越来越多的伤害。这是你造成伤害的机会。如果你想停止施法，打断并且它会再次免疫很长一段时间。反复执行此操作。 
-
-其中出现的专有名词翻译如下：
-Whirlwind=>旋风
-Lokkestiiz=>洛克提兹
-Dragon=>龙
-Nahviintaas=>纳温塔丝
-Yolnahkriin=>尤尔纳克林
-Ri=>里
-Cleave=>横劈
-Bash=>巴什 
-Bloodroot Forge=>血根熔炉  
-Clever=>聪慧者
-Un=>乌恩
-Time Stop=>时间静止
-Meteor=>流星
-Guard=>守卫
-
-问题在于，如果有人在完成巴什技能或使用会打断的技能，你永远都不会杀死它。因此，请确保没有人使用破甲冲击或任何基于打断的技能。只有当整个团队同意并且不仅仅是因为房间上有红色闪光时才打断。一旦它死了，它就会离开房间，你就不能再躲在它后面了（请注意，你有足够的地方可以在整个战斗中躲藏）。
-
-根据下层传送门的玩家，你完全可以跳过整个阶段，但这不是我们要讨论的重点。了解你的机制。
-
-楼下的传送门有个变化。关于机制的一切都完全相同, 但是...仆从的生命值现在是1,130万！
-
-意思是每个玩家下去必须能够输出41.8k的DPS，并同时保持机械结构。是的，当然，一个人可以有50，另一个人可以有30，但基本上楼下需要三个人之间的125k的DPS。因此，可以按照您喜欢的方式分配，但这是要求的。
-
-* **所以你不需要每个人都有90k** : 100k的输出！这将是270-300k的总输出，而你甚至不需要其一半来完成 #事实！
-
-这场战斗有一个DPS检查，但在目前的游戏状态下，每个人的DPS都达到42K并不难，特别是如果你已经到达了这个首领所在的位置！
-
-了解机制，不要失败基础，即使是不懂得CP的玩家也可以达到这些数字。不要因为无意义的跟木桶练习而惊慌。专注于发挥自己的长处，不要死亡！
-
-在执行时，地上的流星不会消失，你需要非常好地利用你的空间，特别是如果团队的DPS较低。它仍然100%可行，但一定要确保尽可能多地使用房间。
-
-当传送门出现时，你将会在楼上面对两个普通的小兵。你可以把它们放在Boss身边一起打，或者将它们拉到一边，让龙自己面对Boss，之后再回来处理它们。其中一个小兵会放锋风斩，需要小心躲避；另一个小兵则只会普攻。在这里，你可以使用普通技能来击败这些小兵。总之，处理好这两个小兵是接下来打Boss的必要准备。在处理完这两个小兵之后，Boss会进入下一个阶段，届时你需要跟随BOSS的位置移到正确的范围内继续对付Boss。
-
-
-
-
-
 ### 洛克提兹
 
 > LOKKESTIIZ
@@ -312,111 +184,140 @@ Guard=>守卫
 
 
 
+### 纳温塔丝
+
+> NAHVIINTAAS
+
+
+**纳温塔丝**
+
+就像其他首领一样，这个首领也有非常基本的机制需要跟随，反复练习。我的意思是，一旦你掌握了一个阶段，你就可以掌握其他阶段，它们并没有真正发生太多变化。
+
+然而，保持团队机制的一致性，不要无缘无故地改变计划是困难的。重复和专注是关键！另外，注意翻译错误： Lokkestiiz是Lokkestiiz，Nahviintaas是纳维因塔斯，Yolnahkriin是约尔纳克林。
+
+这个首领的坦克方式与其他首领相似。主坦克站在龙的一侧，副坦克需要注意额外机制，并准备在事情出错时接替坦克。团队应该聚集在龙头的另一侧。
+
+保持嘲讽，除非您已死亡或被标记（下面有解释），否则不要放弃它。
+
+首先，你会看到一个房间里充满了附加怪物，你必须处理这些怪物。与试炼的其余部分一样，必须尽快专注地解决“命运”（Fate） boss。剩余的怪物必须由坦克控制，同时小组留在坦克的身后。这需要练习，因为有很多事情要处理，但记住不要惊慌。你有足够的时间。一旦小怪都死了，你就会进入第一个火焰阶段，了解你需要了解的关于剩下的战斗。这个阶段会一遍又一遍地重复。
+
+* **隐藏攻击阶段** :  打倒小怪后，Boss将开始向房间中央喷火。团队应该靠近一座雕像，但也保持散开。多个火焰将会瞄准多个玩家，你不希望它们重叠。
+
+这个BOSS会在房间的中心造成三次大范围火焰爆炸。最后一次爆炸将会覆盖整个房间，当这一次发生时，团队必须全员叠在一起躲在一个雕像后面以躲避。
+
+在此阶段，会有烈焰元素，必须尽快击杀。最后的一波将会出现三个烈焰元素！把它们拉进来，干掉它们，准备好和龙降落开始战斗。
+
+在清理掉小兵之后，每次龙起飞时都会出现这个阶段。
+
+当龙到达80％，60％和40％时飞起来时，通过远离龙腾飞的位置为坦克腾出空间以抓住小怪物！要准备好面对小怪物的出现！
+
+* **湖镇** :  当小怪阶段时，纳维将在整个区域飞行，喷出炙热的火焰形成类似于《霍比特人》中斯矛格对湖镇的攻击的巨大直线。不要站在里面！
+
+* **咬** :  Boss将咬住坦克，造成严重伤害，需要格挡！
+
+* **火息之吐息** :  首领会对坦克喷出一股火息之吐息，应该尽量格挡！
+
+* **团队之息** :  是一个整个小队都要应对的吐息机制！这很简单，龙会连续吐息从一侧到另一侧。你只需要使用格挡就可以安全度过。如果不使用格挡，你就会死亡。
+
+* **头槌颈部摆动** :  BOSS会砸地并抬起头。他这样做时，就会对整个小队发起一个180度的巨大颈部摆动头槌。 要么格挡，要么被击退并有可能被击杀。很简单。
+
+注意：如果你距离目标很远，攻击不会命中。对于远程组很有帮助。
+
+* **火焰象形** :  与火焰BOSS不同，这些象形可以被拖到团队中，应该这样做。这些必须快速击败，因为它们会爆炸并杀死人。确保一旦它们死亡，不要站在它们的AOE范围内，并确保快速杀死它们，优先考虑这样做，以免炸掉所有人。如果一个火焰象形仍然活着，那么你做错了些什么。
+
+* **时间静止** :  这些会使玩家眩晕，所以你需要避开它们。但在传送门阶段（下文解释）时，你需要有一个人故意站在它们里面，因为这样会向团队的传送门传递非常需要的增益！另外，建议团队中的**聪慧者**或其他有突进能力的角色负责快速跳过它们，以防耽误战斗进度。在这一阶段，
+需要特别留意几个**重击**技能，包括**旋风、横劈、巴什**等，它们可以显著削弱传送门的护盾。在之后的两个阶段，注意掌握好各类**龙**的特性和弱点。其中，**洛克提兹、里、纳温塔丝、尤尔纳克林、乌恩**都是必须要重点注意的龙。最后，进入**血根熔炉**需要考虑好组员之间的配合和技能选择，充分利用团队的输出和控制能力，才能成功完成挑战。
+
+* **传送门永恒仆从** :  在进入飞行阶段之前，即在血量剩下10%时，也就是在血量剩下90%, 70%, 和50%的时候，房间后面会出现3个传送门。需要3个人进入这些传送门中。
+
+在里面将会有一个拥有大约360万生命值的永恒仆人。三个DPS玩家需要在同时生存并与机制作战的情况下同时杀死它！
+
+该仆从将施放许多技能。
+
+必须避开闪电飞溅，所以移动你的脚并且不要堆在一起！
+
+巨大的闪电范围会覆盖在地面上，不要站在范围内，因为它会造成很大的伤害并且削弱你的魔法能力！
+
+一个锥形范围的AOE将瞄准团队中的一个成员，他们需要保持位置并格挡它（也可以通过非常特定的时机躲避它）。最重要的是，没有人应该跑进它，玩家也不应该四处奔波，你不希望击中其他人（就像VAS中的毒素一样）。其中Whirlwind为技能名，Lokkestiiz为龙名，Dragon为专有名词，Nahviintaas为龙名，Yolnahkriin为龙名，Ri为技能名，Cleave为技能名，Bash为技能名，Bloodroot Forge为地名，Clever为人名，Un为专有名词，Time Stop为技能名，Meteor为技能名，Guard为技能名。
+
+一个大爆炸的aoe技能会影响一个玩家，然后爆炸，你应该把它带到老板附近，让它在老板旁边爆炸，这样像命运能力一样的流星就会落到老板身上，将旋风投掷在他身上。其中，Whirlwind（旋风）是一个技能名称，Lokkestiiz（洛克提兹）是一个专有名词，Meteor（流星）也是一个技能名称。
+
+当boss在祷告时，你必须打断他，否则你们所有人都会被击退并眩晕！
+
+玩家会被单独按在地上，就像在圣所奥菲迪亚与奥扎拉战斗时一样。其他玩家需要跑过去激活协同技能来释放他们！其中"Sanctum Ophidia"为专有名词，暂未提供翻译。
+
+最后，如果有人站在楼上的时间静止区域，你将会在楼下看到一个小小的绿色圆圈！拾取它，它会在短时间内增加你的伤害并且让战斗变得容易很多！
+
+注：在楼下，你有90秒的时间杀死仆人。如果你失败了，他会进入楼上的战斗，完全无敌并且杀死整个队伍。
+
+* **在90秒内与3个拥有3536百万血量的人战斗这意味着您需要确保每个玩家都能够遵循机制并且输出约126** : 13.3k的DPS（有些会波动，因此需要考虑执行力等因素）。以上是成功击杀所需的最低要求。因此有DPS检查，但只要您遵循这些机制并且没有死亡或灭团，要求的DPS检查非常低。
+
+* **治疗或死亡** :  玩家可能会面临一种负面效果，在他们的状态栏上可能会出现伤害护盾的图标，但是他们的健康值会很低。基本上，他们必须通过治疗来填满状态栏，否则就会死亡。这就像在Moongrave Fane中hoavar机制一样。
+
+* **被标记死亡** :  Boss会用一种喷溅类型的攻击打击坦克，将它标记为死亡，会有一个debuff来显示这一点。如果玩家在这种状态下被再次打中，他们将会死亡。因此，这个技巧很简单。每次有人被标记死亡时交换坦克，一切都会没事，因为debuff的计时器会在不需要被击败的情况下消失...... 或者如果你非常有经验的坦克，你可以躲闪它，完全避免被打中。但这需要一些练习。
+
+在普通难度下，你实际上可以存活下来，但是在老练难度下，除非你闪避滚动/交替坦克，否则你无法生存。 
+
+建议使用以下技能和装备： 
+
+技能：Whirlwind（旋风）、Lokkestiiz（洛克提兹）、Dragon（龙）、Nahviintaas（纳温塔丝）、Yolnahkriin（尤尔纳克林）、Ri（里）、Cleave（横劈）、Bash（巴什）、Time Stop（时间静止）、Meteor（流星）。 
+
+装备：Bloodroot Forge（血根熔炉）、Clever（聪慧者）、Lokkestiiz（洛克提兹）、Un（乌恩），以及其他适合你的装备。 
+
+对于Guard（守卫），最好有一个坚实的团队一起作战。
+
+* **处决** :  在31%以下的时候，龙会向空中喊叫，屏幕会略微改变颜色，并开始以3人为目标！基本上，你要紧密并非主攻击，同时遵循基本原则，但是如果你被AOE攻击锁定，你必须跑到房间的侧面/后面并将其放在地上，否则你会有麻烦。如果它在你所在的团队中掉落，人们无法站在上面，但是如果你将其放在侧面并回来，那就没问题了。
+
+* **困难模式** :  困难模式中的主要区别并不多，但已经有很多要处理了，所以增加更多要注意，但这些变化很重要！
+
+雕像会活过来！必须击杀它们，比较容易控制它们的位置，在龙的周围远离侧边或后方。这样大部分攻击都会落空，除了龙的火息攻击。这些雕像有非常特定的机制。
+
+直到他们开始施法之前，他们对所有伤害都免疫。当他们开始施法时，每秒钟对整个团队会造成越来越多的伤害。这是你造成伤害的机会。如果你想停止施法，打断并且它会再次免疫很长一段时间。反复执行此操作。 
+
+其中出现的专有名词翻译如下：
+Whirlwind=>旋风
+Lokkestiiz=>洛克提兹
+Dragon=>龙
+Nahviintaas=>纳温塔丝
+Yolnahkriin=>尤尔纳克林
+Ri=>里
+Cleave=>横劈
+Bash=>巴什 
+Bloodroot Forge=>血根熔炉  
+Clever=>聪慧者
+Un=>乌恩
+Time Stop=>时间静止
+Meteor=>流星
+Guard=>守卫
+
+问题在于，如果有人在完成巴什技能或使用会打断的技能，你永远都不会杀死它。因此，请确保没有人使用破甲冲击或任何基于打断的技能。只有当整个团队同意并且不仅仅是因为房间上有红色闪光时才打断。一旦它死了，它就会离开房间，你就不能再躲在它后面了（请注意，你有足够的地方可以在整个战斗中躲藏）。
+
+根据下层传送门的玩家，你完全可以跳过整个阶段，但这不是我们要讨论的重点。了解你的机制。
+
+楼下的传送门有个变化。关于机制的一切都完全相同, 但是...仆从的生命值现在是1,130万！
+
+意思是每个玩家下去必须能够输出41.8k的DPS，并同时保持机械结构。是的，当然，一个人可以有50，另一个人可以有30，但基本上楼下需要三个人之间的125k的DPS。因此，可以按照您喜欢的方式分配，但这是要求的。
+
+* **所以你不需要每个人都有90k** : 100k的输出！这将是270-300k的总输出，而你甚至不需要其一半来完成 #事实！
+
+这场战斗有一个DPS检查，但在目前的游戏状态下，每个人的DPS都达到42K并不难，特别是如果你已经到达了这个首领所在的位置！
+
+了解机制，不要失败基础，即使是不懂得CP的玩家也可以达到这些数字。不要因为无意义的跟木桶练习而惊慌。专注于发挥自己的长处，不要死亡！
+
+在执行时，地上的流星不会消失，你需要非常好地利用你的空间，特别是如果团队的DPS较低。它仍然100%可行，但一定要确保尽可能多地使用房间。
+
+当传送门出现时，你将会在楼上面对两个普通的小兵。你可以把它们放在Boss身边一起打，或者将它们拉到一边，让龙自己面对Boss，之后再回来处理它们。其中一个小兵会放锋风斩，需要小心躲避；另一个小兵则只会普攻。在这里，你可以使用普通技能来击败这些小兵。总之，处理好这两个小兵是接下来打Boss的必要准备。在处理完这两个小兵之后，Boss会进入下一个阶段，届时你需要跟随BOSS的位置移到正确的范围内继续对付Boss。
+
+
+
+
+
 
 
 
 
 <eng>
 
-> NAHVIINTAAS
-> 
-> 
-> ** NAHVIINTAAS **
-> 
-> Much like the other bosses this one has very copy and paste rinse repeat mechanics. What i mean by that is, once you can do ONE phase, you can do the rest, they don't REALLY change all that much.
-> 
-> However, maintaining consistency within your group mechanics wise and people not trying to change things up for no reason is where it gets tricky. Repetition and focus is key!
-> 
-> This boss should be tanked pretty much the same as the rest. Main tank to one side, Off tank being aware of extra mechanics and ready to pick up where things go wrong, and the group should be stacked together on the OTHER side of the dragon's head.
-> 
-> Maintain a taunt, don't drop it unless you are dead or marked (Explained below).
-> 
-> To start with you will have a room full of adds you must deal with. As per the rest of the trial, the Fate MUST be dealt with as fast as possible and focused. The rest must be controlled by the tank while the group stays BEHIND them. It will take practice as there is a lot gong on but remember not to panic. You have plenty of time. Once the adds are dead you will have the first Fire phase teaching you what you need to know about the rest of the fight. This phase does get repeated throughout.
-> 
-> **Hide/Fire Phase** - Once the adds are down the boss will start spitting fire into the middle of the room. The group should go CLOSE to a statue but also remain spread out. Multiple pops of fire will aim for multiple players and you don't want those to overlap.
-> 
-> The boss will cause 3 major bursts of fire aoe in the MIDDLE of the room. The final one will be the size of the whole room and when THIS one happens, the group must all stack and hide together behind a statue to avoid it.
-> 
-> During this phase there will be flame atronachs and they MUST be killed as soon as possible. The final pop will spawn 3 of them! Pull them in, take them down, and be ready for the dragon to land and start the fight.
-> 
-> This phase will happen every time the dragon goes into the air AFTER the adds are dealt with.
-> 
-> Be ready for the adds by moving away from the dragon making room for the tanks to grab them when the dragon flies at 80%, 60% and 40%!
-> 
-> **LAKE TOWN!** - During the add phases Navi will fly across the area breathing fire in a HUGE straight line resembling the Lake Town attack from Smaug in The Hobbit. Don't STAND in it!
-> 
-> **Bite** - The boss will bite the tank causing heavy damage, this must be blocked!
-> 
-> **Breath** - The boss will aim a fire breath at the tank which can and should be blocked!
-> 
-> **Group Breath!** - Yup a breath mechanic for the WHOLE group! This is simple, the dragon will breathe from one side to the next in a constant channel. All you have to do is BLOCK and you will be fine. If you don't you will die.
-> 
-> **Headbutt/Neck swing** - The boss will punch the ground and raise his head in the air. When he does this, a BIG 180degree Neck swinging headbutt is coming for the group. BLOCK it or be knocked back and possibly killed. Pretty simple.
-> 
-> NOTE: IF you are very far away, you will not be hit because it will not reach. Handy to know for RANGED groups.
-> 
-> **Flame Atronachs** - Unlike the fire boss, these CAN be dragged into the group and should be. These need to be killed fast because they EXPLODE and kill people. Be sure to not stand in their aoe once they die and also be sure to kill them fast and prioritize the so they don't nuke everyone. If a Flame Atronach is still alive you are doing something wrong.
-> 
-> **Timestop** - These will stun players, so you want to avoid them HOWEVER you will want one person occasionally do deliberately stand in them when the Portal phase is happening (explained below) because THIS will actually send a much needed buff  into the portal for the group!
-> 
-> **Portals/Eternal Servant** - At 10% health before the flying phases, so at 90%. 70% and 50% there will be 3 portals appearing at the back of the room. 3 people need to take these and go IN.
-> 
-> Inside there will be an eternal servant who has around 3.6mil health. The 3 dps players need to KILL this at the same time as surviving and fighting with the mechanics!
-> 
-> The Servant will cast many abilities.
-> 
-> Lightning splashes must be avoided so move rout feet and do NOT stack!
-> 
-> BIG lighting aoe circle will be on the ground also, don't stand in it because it will hurt a lot AND negate your magicka abilities!
-> 
-> A Cone based AOE will be aimed at ONE member of the group, they need to maintain their position and block this (also dodgeable with very specific timing). Above all no one should run in this and the player should not be running around either, you don't want to hit other people with it (much like the poison in VAS).
-> 
-> A large bursting aoe will affect one player and then explode, you should take this TO the boss and let it pop nice and close so the meteor (like the fate's abilities) lands ON the boss dropping the whirlwind on him.
-> 
-> When the boss is praying you MUST interrupt him else you will all get knock backed and stunned!
-> 
-> Players individually will be pinned to the ground, much like the fight with Ozara in Sanctum Ophidia. These players must be helped by running over and activating a synergy to release them!
-> 
-> Finally, if someone stands in time stop UPSTAIRS, you will get a small green circle DOWNSTAIRS! Pick this up, it will increase your damage for a short period of time and make the fight a LOT easier!
-> 
-> NOTE: While downstairs you have 90 seconds to kill the servant. If you fail he will enter the fight upstairs, completely immortal and kill the group.
-> 
-> 90 Seconds with 3 people over 3.5/3.6million health means you need to  be sure each player is capable of following the mechanics AND pulling off around 12.6 -13.3k dps (some will fluctuate so allowing for execute power etc. Doing the above is the bare minimum required to successfully achieve a kill. SO there is a DPS check but it is extremely low so long as you follow those mechanics and don't have deaths or wipe.
-> 
-> **Heal or die!** - There is a debuff that will be applied to players where they will look like they have a damage shield on their bar but their health will be low. Basically they must out heal this and fill their bar back up or die. Much like the hoavar mechanics in Moongrave Fane.
-> 
-> **Marked for death!** - The boss will hit the tank with a spit type attack marking it for death, there will be a debuff to show this. If the player is hit by it again while this is on them they will die. SO the trick to this is simple. Swap tanks each time someone is marked for death and everything will be fine because the debuff timer will run off without having to be nuked...OR if you are VERY experienced tank, you can dodge roll it and then avoid it completely. BUT that will take some practice.
-> 
-> On normal you can actually survive it but on vet unless you dodgeroll/swap tanks, you will not
-> 
-> **Execute** - Under 31% the dragon will shout into the air and the screen will change hue slightly and now he will start targeting players in 3s! Basically stack and burn while following the basics but IF you are targeted with an aoe you must run to the side/back of the room and PLACE it on the ground before it falls off you. If it falls off in the group you are in trouble because people cannot stand in it, but if you drop it off at the sides and come back in, there will be no issues.
-> 
-> **HARDMODE!** - There are not many MAJOR differences in hardmode but there is already a lot going on so adding more spice can be tricky, but the changes are important!
-> 
-> Statues come to LIFE! These need to be killed and are easier to manage off the side or to the back AWAY from the dragon. That way most of the attacks will miss apart from the breath. These statues have a VERY specific mechanic.
-> 
-> They are immune to ALL damage until they start channeling. When they start channeling every single second will do more and more damage to the whole group. This is your chance to do damage. If you want to STOP the channel, interrupt it and it will go immune again for ages before doing so again. Rinse repeat.
-> 
-> The problem is if people are bash weaving or running skills which apply an interrupt, you will NEVER kill it. SO be sure NO ONE is using crushing shock or any interrutpt based skills. ONLY interrupt when your group agrees to and not just because it is pulsing with the red splashes. Once it is dead it is removed from the room and you can no longer hide behind it (note you have enough to hide behind for the whole fight).
-> 
-> Depending on downstairs portal people, you can skip the phase entirely but that is not what we are here to talk about. KNOW your mechanics
-> 
-> Downstairs portal has a twist. EVERYTHING about the mechanics are exactly the same, HOWEVER...The Servant now has 11.3 Million health!
-> 
-> Meaning EACH player that goes down need to be capable of pumping out 41.8k dps WHILE maintaining mechanics. Yes of course one person can have 50 while the other has 30 whatever, BUT essentially downstairs needs to be 125k dps between THREE people. So split it however you like but THAT'S the requirement.
-> 
-> So you don't NEED 90k-100k per PERSON! That would be 270-300k dps between you and you don't even need HALF of that to complete it #fact!
-> 
-> There IS a dps check for this fight, but almost 42k each in THIS current state of the game? is not hard to reach at all, especially if you already got to this boss so far in the first place!
-> 
-> Know your mechanics, don't fail the basics and even a player good with mechanics with NO cp can hit those numbers. Don't panic about dummy humping. Focus on applying yourself and not being dead!
-> 
-> During execute the Meteors on the floor do NOT fade away and you will have to make very good use of your space, especially if the group has lower dps. Sill 100% doable, but make sure you sue as much of the room as possible.
-> 
-> When the Portal spawns you will get two regular adds upstairs to deal with. You can put these ON the boss and fight them OR take them to one side and leave the dragon to it and come back after.
-> 
-> 
-> 
 > LOKKESTIIZ
 > 
 > 
@@ -540,6 +441,105 @@ Guard=>守卫
 > However, constantly breaking free will mess with resources unless you are equipped as a group for huge resource gains, so can be tricky.
 > 
 > Try not to make this one too complex. It stuns, deal with it in a way that suits you and your group where they DON'T run around panicking. There is no need.
+> 
+> 
+> 
+> NAHVIINTAAS
+> 
+> 
+> ** NAHVIINTAAS **
+> 
+> Much like the other bosses this one has very copy and paste rinse repeat mechanics. What i mean by that is, once you can do ONE phase, you can do the rest, they don't REALLY change all that much.
+> 
+> However, maintaining consistency within your group mechanics wise and people not trying to change things up for no reason is where it gets tricky. Repetition and focus is key!
+> 
+> This boss should be tanked pretty much the same as the rest. Main tank to one side, Off tank being aware of extra mechanics and ready to pick up where things go wrong, and the group should be stacked together on the OTHER side of the dragon's head.
+> 
+> Maintain a taunt, don't drop it unless you are dead or marked (Explained below).
+> 
+> To start with you will have a room full of adds you must deal with. As per the rest of the trial, the Fate MUST be dealt with as fast as possible and focused. The rest must be controlled by the tank while the group stays BEHIND them. It will take practice as there is a lot gong on but remember not to panic. You have plenty of time. Once the adds are dead you will have the first Fire phase teaching you what you need to know about the rest of the fight. This phase does get repeated throughout.
+> 
+> **Hide/Fire Phase** - Once the adds are down the boss will start spitting fire into the middle of the room. The group should go CLOSE to a statue but also remain spread out. Multiple pops of fire will aim for multiple players and you don't want those to overlap.
+> 
+> The boss will cause 3 major bursts of fire aoe in the MIDDLE of the room. The final one will be the size of the whole room and when THIS one happens, the group must all stack and hide together behind a statue to avoid it.
+> 
+> During this phase there will be flame atronachs and they MUST be killed as soon as possible. The final pop will spawn 3 of them! Pull them in, take them down, and be ready for the dragon to land and start the fight.
+> 
+> This phase will happen every time the dragon goes into the air AFTER the adds are dealt with.
+> 
+> Be ready for the adds by moving away from the dragon making room for the tanks to grab them when the dragon flies at 80%, 60% and 40%!
+> 
+> **LAKE TOWN!** - During the add phases Navi will fly across the area breathing fire in a HUGE straight line resembling the Lake Town attack from Smaug in The Hobbit. Don't STAND in it!
+> 
+> **Bite** - The boss will bite the tank causing heavy damage, this must be blocked!
+> 
+> **Breath** - The boss will aim a fire breath at the tank which can and should be blocked!
+> 
+> **Group Breath!** - Yup a breath mechanic for the WHOLE group! This is simple, the dragon will breathe from one side to the next in a constant channel. All you have to do is BLOCK and you will be fine. If you don't you will die.
+> 
+> **Headbutt/Neck swing** - The boss will punch the ground and raise his head in the air. When he does this, a BIG 180degree Neck swinging headbutt is coming for the group. BLOCK it or be knocked back and possibly killed. Pretty simple.
+> 
+> NOTE: IF you are very far away, you will not be hit because it will not reach. Handy to know for RANGED groups.
+> 
+> **Flame Atronachs** - Unlike the fire boss, these CAN be dragged into the group and should be. These need to be killed fast because they EXPLODE and kill people. Be sure to not stand in their aoe once they die and also be sure to kill them fast and prioritize the so they don't nuke everyone. If a Flame Atronach is still alive you are doing something wrong.
+> 
+> **Timestop** - These will stun players, so you want to avoid them HOWEVER you will want one person occasionally do deliberately stand in them when the Portal phase is happening (explained below) because THIS will actually send a much needed buff  into the portal for the group!
+> 
+> **Portals/Eternal Servant** - At 10% health before the flying phases, so at 90%. 70% and 50% there will be 3 portals appearing at the back of the room. 3 people need to take these and go IN.
+> 
+> Inside there will be an eternal servant who has around 3.6mil health. The 3 dps players need to KILL this at the same time as surviving and fighting with the mechanics!
+> 
+> The Servant will cast many abilities.
+> 
+> Lightning splashes must be avoided so move rout feet and do NOT stack!
+> 
+> BIG lighting aoe circle will be on the ground also, don't stand in it because it will hurt a lot AND negate your magicka abilities!
+> 
+> A Cone based AOE will be aimed at ONE member of the group, they need to maintain their position and block this (also dodgeable with very specific timing). Above all no one should run in this and the player should not be running around either, you don't want to hit other people with it (much like the poison in VAS).
+> 
+> A large bursting aoe will affect one player and then explode, you should take this TO the boss and let it pop nice and close so the meteor (like the fate's abilities) lands ON the boss dropping the whirlwind on him.
+> 
+> When the boss is praying you MUST interrupt him else you will all get knock backed and stunned!
+> 
+> Players individually will be pinned to the ground, much like the fight with Ozara in Sanctum Ophidia. These players must be helped by running over and activating a synergy to release them!
+> 
+> Finally, if someone stands in time stop UPSTAIRS, you will get a small green circle DOWNSTAIRS! Pick this up, it will increase your damage for a short period of time and make the fight a LOT easier!
+> 
+> NOTE: While downstairs you have 90 seconds to kill the servant. If you fail he will enter the fight upstairs, completely immortal and kill the group.
+> 
+> 90 Seconds with 3 people over 3.5/3.6million health means you need to  be sure each player is capable of following the mechanics AND pulling off around 12.6 -13.3k dps (some will fluctuate so allowing for execute power etc. Doing the above is the bare minimum required to successfully achieve a kill. SO there is a DPS check but it is extremely low so long as you follow those mechanics and don't have deaths or wipe.
+> 
+> **Heal or die!** - There is a debuff that will be applied to players where they will look like they have a damage shield on their bar but their health will be low. Basically they must out heal this and fill their bar back up or die. Much like the hoavar mechanics in Moongrave Fane.
+> 
+> **Marked for death!** - The boss will hit the tank with a spit type attack marking it for death, there will be a debuff to show this. If the player is hit by it again while this is on them they will die. SO the trick to this is simple. Swap tanks each time someone is marked for death and everything will be fine because the debuff timer will run off without having to be nuked...OR if you are VERY experienced tank, you can dodge roll it and then avoid it completely. BUT that will take some practice.
+> 
+> On normal you can actually survive it but on vet unless you dodgeroll/swap tanks, you will not
+> 
+> **Execute** - Under 31% the dragon will shout into the air and the screen will change hue slightly and now he will start targeting players in 3s! Basically stack and burn while following the basics but IF you are targeted with an aoe you must run to the side/back of the room and PLACE it on the ground before it falls off you. If it falls off in the group you are in trouble because people cannot stand in it, but if you drop it off at the sides and come back in, there will be no issues.
+> 
+> **HARDMODE!** - There are not many MAJOR differences in hardmode but there is already a lot going on so adding more spice can be tricky, but the changes are important!
+> 
+> Statues come to LIFE! These need to be killed and are easier to manage off the side or to the back AWAY from the dragon. That way most of the attacks will miss apart from the breath. These statues have a VERY specific mechanic.
+> 
+> They are immune to ALL damage until they start channeling. When they start channeling every single second will do more and more damage to the whole group. This is your chance to do damage. If you want to STOP the channel, interrupt it and it will go immune again for ages before doing so again. Rinse repeat.
+> 
+> The problem is if people are bash weaving or running skills which apply an interrupt, you will NEVER kill it. SO be sure NO ONE is using crushing shock or any interrutpt based skills. ONLY interrupt when your group agrees to and not just because it is pulsing with the red splashes. Once it is dead it is removed from the room and you can no longer hide behind it (note you have enough to hide behind for the whole fight).
+> 
+> Depending on downstairs portal people, you can skip the phase entirely but that is not what we are here to talk about. KNOW your mechanics
+> 
+> Downstairs portal has a twist. EVERYTHING about the mechanics are exactly the same, HOWEVER...The Servant now has 11.3 Million health!
+> 
+> Meaning EACH player that goes down need to be capable of pumping out 41.8k dps WHILE maintaining mechanics. Yes of course one person can have 50 while the other has 30 whatever, BUT essentially downstairs needs to be 125k dps between THREE people. So split it however you like but THAT'S the requirement.
+> 
+> So you don't NEED 90k-100k per PERSON! That would be 270-300k dps between you and you don't even need HALF of that to complete it #fact!
+> 
+> There IS a dps check for this fight, but almost 42k each in THIS current state of the game? is not hard to reach at all, especially if you already got to this boss so far in the first place!
+> 
+> Know your mechanics, don't fail the basics and even a player good with mechanics with NO cp can hit those numbers. Don't panic about dummy humping. Focus on applying yourself and not being dead!
+> 
+> During execute the Meteors on the floor do NOT fade away and you will have to make very good use of your space, especially if the group has lower dps. Sill 100% doable, but make sure you sue as much of the room as possible.
+> 
+> When the Portal spawns you will get two regular adds upstairs to deal with. You can put these ON the boss and fight them OR take them to one side and leave the dragon to it and come back after.
 > 
 > 
 > 
