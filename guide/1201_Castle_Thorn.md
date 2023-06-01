@@ -1,6 +1,5 @@
 ## 荆棘城堡
 
-> Castle Thorn
 
 
 

@@ -1,6 +1,5 @@
 ## 艾尔登洞穴 I
 
-> Elden Hollow I
 
 
 

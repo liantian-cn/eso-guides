@@ -1,6 +1,5 @@
 ## 月墓神庙
 
-> Moongrave Fane
 
 
 

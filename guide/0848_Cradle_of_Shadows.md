@@ -1,6 +1,5 @@
 ## 暗影摇篮
 
-> Cradle of Shadows
 
 
 

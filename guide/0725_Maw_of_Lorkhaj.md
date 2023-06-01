@@ -1,6 +1,5 @@
 ## 洛克汗的巨口
 
-> Maw of Lorkhaj
 
 
 

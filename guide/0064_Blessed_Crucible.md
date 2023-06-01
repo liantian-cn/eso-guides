@@ -1,6 +1,5 @@
 ## 受佑熔炉
 
-> Blessed Crucible
 
 
 

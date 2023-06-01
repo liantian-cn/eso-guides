@@ -1,6 +1,5 @@
 ## 庇护圣所
 
-> Asylum Sanctorium
 
 
 

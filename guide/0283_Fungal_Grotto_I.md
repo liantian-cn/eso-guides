@@ -1,6 +1,5 @@
 ## 真菌岩洞 I
 
-> Fungal Grotto I
 
 
 

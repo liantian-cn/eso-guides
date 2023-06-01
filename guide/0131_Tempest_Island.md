@@ -1,6 +1,5 @@
 ## 风暴岛
 
-> Tempest Island
 
 
 

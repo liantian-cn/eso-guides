@@ -1,6 +1,5 @@
 ## 佛克瑞斯领地
 
-> Falkreath Hold
 
 
 

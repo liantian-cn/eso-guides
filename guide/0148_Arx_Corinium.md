@@ -1,6 +1,5 @@
 ## 科林涅姆堡垒
 
-> Arx Corinium
 
 
 

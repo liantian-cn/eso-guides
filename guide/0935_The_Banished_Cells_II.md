@@ -1,6 +1,5 @@
 ## 放逐地牢 II
 
-> The Banished Cells II
 
 
 

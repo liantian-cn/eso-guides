@@ -1,6 +1,5 @@
 ## 放逐地牢 I
 
-> The Banished Cells I
 
 
 

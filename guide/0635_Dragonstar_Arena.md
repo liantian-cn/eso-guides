@@ -1,6 +1,5 @@
 ## 龙星竞技场
 
-> Dragonstar Arena
 
 
 

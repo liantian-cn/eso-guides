@@ -1,6 +1,5 @@
 ## 唤鳞者之巅
 
-> Scalecaller Peak
 
 
 

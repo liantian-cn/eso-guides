@@ -1,6 +1,5 @@
 ## 赫尔·拉要塞
 
-> HEL RA CITADEL
 
 
 

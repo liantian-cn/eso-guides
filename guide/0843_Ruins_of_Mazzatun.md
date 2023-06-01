@@ -1,6 +1,5 @@
 ## 谜城遗迹
 
-> Ruins of Mazzatun
 
 
 

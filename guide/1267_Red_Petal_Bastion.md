@@ -1,6 +1,5 @@
 ## 红花堡
 
-> Red Petal Bastion
 
 
 

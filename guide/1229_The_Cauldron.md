@@ -1,6 +1,5 @@
 ## 大釜
 
-> The Cauldron
 
 
 

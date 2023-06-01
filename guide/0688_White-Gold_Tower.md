@@ -1,6 +1,5 @@
 ## 白金塔
 
-> White-Gold Tower
 
 
 

@@ -1,6 +1,5 @@
 ## 恐霜要塞
 
-> Direfrost Keep
 
 
 

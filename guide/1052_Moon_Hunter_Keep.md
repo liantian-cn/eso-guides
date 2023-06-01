@@ -1,6 +1,5 @@
 ## 月狩要塞
 
-> Moon Hunter Keep
 
 
 

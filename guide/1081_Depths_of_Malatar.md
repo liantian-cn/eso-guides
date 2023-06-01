@@ -1,6 +1,5 @@
 ## 马拉塔深渊
 
-> Depths of Malatar
 
 
 

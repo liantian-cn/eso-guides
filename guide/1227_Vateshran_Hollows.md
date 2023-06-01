@@ -1,6 +1,5 @@
 ## 瓦特什兰洞穴
 
-> Vateshran Hollows
 
 
 

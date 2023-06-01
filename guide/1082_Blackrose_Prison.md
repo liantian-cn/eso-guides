@@ -1,6 +1,5 @@
 ## 黑玫瑰监狱
 
-> Blackrose Prison
 
 
 

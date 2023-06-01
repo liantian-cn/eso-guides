@@ -1,6 +1,5 @@
 ## 帝都监狱
 
-> Imperial City Prison
 
 
 

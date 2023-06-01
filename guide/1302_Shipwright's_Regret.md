@@ -1,6 +1,5 @@
 ## 船工之憾地牢
 
-> Shipwright's Regret
 
 
 

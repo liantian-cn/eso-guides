@@ -1,6 +1,5 @@
 ## 乌鞘蛇圣所
 
-> Sanctum Ophidia
 
 
 

@@ -1,6 +1,5 @@
 ## 艾瑟瑞恩档案塔
 
-> Aetherian Archive
 
 
 

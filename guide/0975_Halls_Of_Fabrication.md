@@ -1,6 +1,5 @@
 ## 制造大厅
 
-> Halls Of Fabrication
 
 
 

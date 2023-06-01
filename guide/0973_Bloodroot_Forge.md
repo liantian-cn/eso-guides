@@ -1,6 +1,5 @@
 ## 血根熔炉
 
-> Bloodroot Forge
 
 
 

@@ -1,6 +1,5 @@
 ## 凯恩之盾
 
-> Kyne's Aegis
 
 
 

@@ -1,6 +1,5 @@
 ## 漩涡竞技场
 
-> Maelstrom Arena
 
 
 

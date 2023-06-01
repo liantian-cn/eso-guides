@@ -1,6 +1,5 @@
 ## 石之花园
 
-> Stone Garden
 
 
 
